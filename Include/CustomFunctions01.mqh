@@ -1,43 +1,6 @@
-//+------------------------------------------------------------------+
-//|                                            CustomFunctions01.mqh |
-//|                                                    Mohsen Hassan |
-//|                             https://www.MontrealTradingGroup.com |
-//+------------------------------------------------------------------+
-#property copyright "Mohsen Hassan"
-#property link      "https://www.MontrealTradingGroup.com"
+#property copyright "Dheeraj Saxena"
+#property link      "www.trademyner.com"
 #property strict
-
-
-double CalculateTakeProfit(bool isLong, double entryPrice, int pips)
-{
-   double takeProfit;
-   if(isLong)
-   {
-      takeProfit = entryPrice + pips * GetPipValue();
-   }
-   else
-   {
-      takeProfit = entryPrice - pips * GetPipValue();
-   }
-   
-   return takeProfit;
-}
-
-double CalculateStopLoss(bool isLong, double entryPrice, int pips)
-{
-   double stopLoss;
-   if(isLong)
-   {
-      stopLoss = entryPrice - pips * GetPipValue();
-   }
-   else
-   {
-      stopLoss = entryPrice + pips * GetPipValue();
-   }
-   return stopLoss;
-}
-
-
 
 
 double GetPipValue()
@@ -73,19 +36,35 @@ void DayOfWeekAlert()
    }
 }
 
+double GetTargetProfit(bool bIsLongPosition, double stopLossPrice, double entryPrice, double RR)
+{
+ double target;
+ if (bIsLongPosition)
+ {
+   target = entryPrice + (entryPrice - stopLossPrice)*RR;
+ 
+ }
+ else{
+   target = entryPrice - (stopLossPrice - entryPrice)*RR;
+ 
+ }
+ return NormalizeDouble(target, Digits);
+
+}
 
 double GetStopLossPrice(bool bIsLongPosition, double entryPrice, int maxLossInPips)
 {
    double stopLossPrice;
+   double pip_val = GetPipValue();
    if (bIsLongPosition)
    {
-      stopLossPrice = entryPrice - maxLossInPips * 0.0001;
+      stopLossPrice = entryPrice - maxLossInPips * pip_val;
    }
    else
    {
-      stopLossPrice = entryPrice + maxLossInPips * 0.0001;
+      stopLossPrice = entryPrice + maxLossInPips * pip_val;
    }
-   return stopLossPrice;
+   return NormalizeDouble(stopLossPrice,Digits);
 }
 
 
@@ -174,21 +153,24 @@ string get_magic_number(int ea_id){
 
 
 void drawHLine(const long            chart_ID=0,        // chart's ID
-                 const string          name="HLine",      // line name
+                 string          name="HLine",      // line name
                  const int             sub_window=0,      // subwindow index
                  double                price=0,           // line price
                  const bool            add_label=false,  
-                 const string          label_obj_name="Label text",  // label object name
+                 string          label_obj_name="Label text",  // label object name
                  const string          label_obj_value="Label value",  // label object value
                  const color           clr=clrRed,        // line color
                  const ENUM_LINE_STYLE style=STYLE_SOLID, // line style
+                 const string          indicator_name = "Indicator",
                  const int             width=1,                 
                  const bool            back=false,        // in the background
-                 const bool            selection=true,    // highlight to move
+                 const bool            selection=false,    // highlight to move
                  const bool            hidden=false,       // hidden in the object list
-                 const long            z_order=0)         // priority for mouse click
+                 const long            z_order=0
+                 )         // priority for mouse click
   {
-
+name = name + indicator_name;
+label_obj_name = label_obj_name + indicator_name;
 // draw line
 if(!ObjectCreate(chart_ID,name,OBJ_HLINE,sub_window,0,price))
      {
@@ -196,11 +178,7 @@ if(!ObjectCreate(chart_ID,name,OBJ_HLINE,sub_window,0,price))
             ": failed to create a horizontal line! Error code = ",GetLastError());
       
      }
-     else{
-     Alert("Created the line");
-     
-     }
-    
+         
 //--- set line color
    ObjectSetInteger(chart_ID,name,OBJPROP_COLOR,clr);
 //--- set line display style
@@ -224,15 +202,42 @@ if(!ObjectCreate(chart_ID,name,OBJ_HLINE,sub_window,0,price))
 
 // create line label
 
-if (add_label)
-   {
+if (add_label)   {
       
       
-      ObjectCreate (chart_ID, label_obj_name, OBJ_TEXT, 0, Time[0], price );
-      
+      ObjectCreate (chart_ID, label_obj_name, OBJ_TEXT, 0, Time[0], price );      
       ObjectSetString(chart_ID, label_obj_name ,OBJPROP_TEXT, label_obj_value);
       ObjectSetInteger(chart_ID,name,OBJPROP_ANCHOR,ANCHOR_RIGHT);
    
   }
 
+}
+
+void drawArrow(const long            chart_ID=0, 
+               const string          name="Arrow", 
+               double                price=0,
+               int ticketId = 0,
+               bool bullish = True)
+               
+{     
+       
+      
+
+      ObjectCreate (chart_ID, name, OBJ_ARROW, 0, Time[0], price );
+      ObjectSetInteger(chart_ID,name, OBJPROP_STYLE, STYLE_SOLID);
+      ObjectSetInteger(chart_ID,name, OBJPROP_ARROWCODE, bullish?SYMBOL_ARROWUP:SYMBOL_ARROWDOWN);
+      ObjectSetInteger(chart_ID,name, OBJPROP_COLOR, bullish?clrGreen:clrRed);
+    
+
+
+
+}
+
+void CleanChart(string ind_name){
+   int Window=0;
+   for(int i=ObjectsTotal(ChartID(),Window,-1)-1;i>=0;i--){
+      if(StringFind(ObjectName(i),ind_name,0)>=0){
+         ObjectDelete(ObjectName(i));
+      }
+   }
 }

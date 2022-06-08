@@ -1,0 +1,234 @@
+0	00:11:59.245	CPRLevelCross GBPCHF-g,M5: Cross above top pivot
+0	00:11:59.246	CPRLevelCross GBPCHF-g,M5: Entry Price = 1.22373
+0	00:11:59.246	CPRLevelCross GBPCHF-g,M5: Stop Loss Price = 1.22123
+0	00:11:59.246	CPRLevelCross GBPCHF-g,M5: Take Profit Price = 1.22873
+2	00:11:59.589	CPRLevelCross GBPCHF-g,M5: open #296652346 buy limit 0.10 GBPCHF-g at 1.22373 sl: 1.22123 tp: 1.22873 ok
+0	00:11:59.589	CPRLevelCross GBPCHF-g,M5: New Long Order GBPCHF-g121 296652346
+0	00:11:59.589	CPRLevelCross GBPCHF-g,M5: Alert: Long Order
+0	08:37:15.634	Script Scanner_EA_Cross GBPCHF-g,M5: loaded successfully
+0	08:37:15.652	Scanner_EA_Cross GBPCHF-g,M5: initialized
+0	08:37:15.652	Scanner_EA_Cross GBPCHF-g,M5: Alert: A
+0	08:37:15.652	Scanner_EA_Cross GBPCHF-g,M5: Alert: B
+0	08:37:15.652	Scanner_EA_Cross GBPCHF-g,M5: uninit reason 0
+0	08:37:15.654	Script Scanner_EA_Cross GBPCHF-g,M5: removed
+0	08:37:31.006	Script Scanner_EA_Cross GBPCHF-g,M5: loaded successfully
+0	08:37:31.016	Scanner_EA_Cross GBPCHF-g,M5: initialized
+0	08:37:31.016	Scanner_EA_Cross GBPCHF-g,M5: Alert: A
+0	08:37:31.016	Scanner_EA_Cross GBPCHF-g,M5: Alert: B
+0	08:37:31.016	Scanner_EA_Cross GBPCHF-g,M5: uninit reason 0
+0	08:37:31.021	Script Scanner_EA_Cross GBPCHF-g,M5: removed
+0	08:37:44.039	Script Scanner_EA_Cross GBPCHF-g,M5: loaded successfully
+0	08:37:44.048	Scanner_EA_Cross GBPCHF-g,M5: initialized
+0	08:37:44.048	Scanner_EA_Cross GBPCHF-g,M5: Alert: A
+0	08:37:44.048	Scanner_EA_Cross GBPCHF-g,M5: Alert: B
+0	08:37:44.048	Scanner_EA_Cross GBPCHF-g,M5: uninit reason 0
+0	08:37:44.055	Script Scanner_EA_Cross GBPCHF-g,M5: removed
+0	08:41:06.099	Script Scanner_EA_Cross GBPCHF-g,M5: loaded successfully
+0	08:41:06.115	Scanner_EA_Cross GBPCHF-g,M5: initialized
+0	08:41:06.115	Scanner_EA_Cross GBPCHF-g,M5: Alert: 0.0
+0	08:41:06.115	Scanner_EA_Cross GBPCHF-g,M5: Alert: 0.0
+0	08:41:06.128	Scanner_EA_Cross GBPCHF-g,M5: Alert: 1.22051
+0	08:41:06.128	Scanner_EA_Cross GBPCHF-g,M5: Alert: 1.22051
+0	08:41:06.128	Scanner_EA_Cross GBPCHF-g,M5: Alert: 1.22051
+0	08:41:06.129	Scanner_EA_Cross GBPCHF-g,M5: Alert: 1.22051
+0	08:41:06.129	Scanner_EA_Cross GBPCHF-g,M5: Alert: 1.22051
+0	08:41:06.129	Scanner_EA_Cross GBPCHF-g,M5: Alert: 1.22051
+0	08:41:06.129	Scanner_EA_Cross GBPCHF-g,M5: Alert: 1.22051
+0	08:41:06.129	Scanner_EA_Cross GBPCHF-g,M5: Alert: 1.22051
+0	08:41:06.129	Scanner_EA_Cross GBPCHF-g,M5: uninit reason 0
+0	08:41:06.133	Script Scanner_EA_Cross GBPCHF-g,M5: removed
+0	08:41:48.059	Script Scanner_EA_Cross GBPCHF-g,M5: loaded successfully
+0	08:41:48.079	Scanner_EA_Cross GBPCHF-g,M5: initialized
+0	08:41:48.081	Scanner_EA_Cross GBPCHF-g,M5: Alert: 95.971
+0	08:41:48.082	Scanner_EA_Cross GBPCHF-g,M5: Alert: 1.11504
+0	08:41:48.082	Scanner_EA_Cross GBPCHF-g,M5: Alert: 1.22463
+0	08:41:48.082	Scanner_EA_Cross GBPCHF-g,M5: Alert: 1.22463
+0	08:41:48.082	Scanner_EA_Cross GBPCHF-g,M5: Alert: 1.22463
+0	08:41:48.083	Scanner_EA_Cross GBPCHF-g,M5: Alert: 1.22463
+0	08:41:48.083	Scanner_EA_Cross GBPCHF-g,M5: Alert: 1.22463
+0	08:41:48.083	Scanner_EA_Cross GBPCHF-g,M5: Alert: 1.22463
+0	08:41:48.083	Scanner_EA_Cross GBPCHF-g,M5: Alert: 1.22463
+0	08:41:48.083	Scanner_EA_Cross GBPCHF-g,M5: Alert: 1.22463
+0	08:41:48.083	Scanner_EA_Cross GBPCHF-g,M5: uninit reason 0
+0	08:41:48.085	Script Scanner_EA_Cross GBPCHF-g,M5: removed
+0	08:42:13.207	Script Scanner_EA_Cross GBPCHF-g,M5: loaded successfully
+0	08:42:13.224	Scanner_EA_Cross GBPCHF-g,M5: initialized
+0	08:42:13.224	Scanner_EA_Cross GBPCHF-g,M5: Alert: 95.961
+0	08:42:13.224	Scanner_EA_Cross GBPCHF-g,M5: Alert: 1.1151
+0	08:42:13.224	Scanner_EA_Cross GBPCHF-g,M5: Alert: 1.22463
+0	08:42:13.224	Scanner_EA_Cross GBPCHF-g,M5: Alert: 1.22463
+0	08:42:13.224	Scanner_EA_Cross GBPCHF-g,M5: Alert: 1.22463
+0	08:42:13.224	Scanner_EA_Cross GBPCHF-g,M5: Alert: 1.22463
+0	08:42:13.224	Scanner_EA_Cross GBPCHF-g,M5: Alert: 1.22463
+0	08:42:13.224	Scanner_EA_Cross GBPCHF-g,M5: Alert: 1.22463
+0	08:42:13.224	Scanner_EA_Cross GBPCHF-g,M5: Alert: 1.22463
+0	08:42:13.224	Scanner_EA_Cross GBPCHF-g,M5: Alert: 1.22463
+0	08:42:13.224	Scanner_EA_Cross GBPCHF-g,M5: uninit reason 0
+0	08:42:13.224	Script Scanner_EA_Cross GBPCHF-g,M5: removed
+0	08:42:20.177	CPRLevelCross GBPCHF-g,M5: uninit reason 3
+0	08:42:20.180	CPRLevelCross GBPCHF-g,M15: Starting the strategy
+0	08:42:20.196	CPRLevelCross GBPCHF-g,M15: drawHLine: failed to create a horizontal line! Error code = 4200
+0	08:42:20.196	CPRLevelCross GBPCHF-g,M15: drawHLine: failed to create a horizontal line! Error code = 4200
+0	08:42:20.196	CPRLevelCross GBPCHF-g,M15: drawHLine: failed to create a horizontal line! Error code = 4200
+0	08:42:20.196	CPRLevelCross GBPCHF-g,M15: drawHLine: failed to create a horizontal line! Error code = 4200
+0	08:42:20.196	CPRLevelCross GBPCHF-g,M15: drawHLine: failed to create a horizontal line! Error code = 4200
+0	08:42:20.196	CPRLevelCross GBPCHF-g,M15: drawHLine: failed to create a horizontal line! Error code = 4200
+0	08:42:20.196	CPRLevelCross GBPCHF-g,M15: drawHLine: failed to create a horizontal line! Error code = 4200
+0	08:42:20.196	CPRLevelCross GBPCHF-g,M15: drawHLine: failed to create a horizontal line! Error code = 4200
+0	08:42:20.196	CPRLevelCross GBPCHF-g,M15: drawHLine: failed to create a horizontal line! Error code = 4200
+0	08:42:20.196	CPRLevelCross GBPCHF-g,M15: drawHLine: failed to create a horizontal line! Error code = 4200
+0	08:42:20.196	CPRLevelCross GBPCHF-g,M15: drawHLine: failed to create a horizontal line! Error code = 4200
+0	08:42:20.196	CPRLevelCross GBPCHF-g,M15: initialized
+0	08:42:33.467	CPRLevelCross GBPCHF-g,M15: uninit reason 3
+0	08:42:33.964	CPRLevelCross AUDJPY-g,M15: Starting the strategy
+0	08:42:33.965	CPRLevelCross AUDJPY-g,M15: drawHLine: failed to create a horizontal line! Error code = 4200
+0	08:42:33.965	CPRLevelCross AUDJPY-g,M15: drawHLine: failed to create a horizontal line! Error code = 4200
+0	08:42:33.965	CPRLevelCross AUDJPY-g,M15: drawHLine: failed to create a horizontal line! Error code = 4200
+0	08:42:33.965	CPRLevelCross AUDJPY-g,M15: drawHLine: failed to create a horizontal line! Error code = 4200
+0	08:42:33.965	CPRLevelCross AUDJPY-g,M15: drawHLine: failed to create a horizontal line! Error code = 4200
+0	08:42:33.965	CPRLevelCross AUDJPY-g,M15: drawHLine: failed to create a horizontal line! Error code = 4200
+0	08:42:33.965	CPRLevelCross AUDJPY-g,M15: drawHLine: failed to create a horizontal line! Error code = 4200
+0	08:42:33.965	CPRLevelCross AUDJPY-g,M15: drawHLine: failed to create a horizontal line! Error code = 4200
+0	08:42:33.965	CPRLevelCross AUDJPY-g,M15: drawHLine: failed to create a horizontal line! Error code = 4200
+0	08:42:33.965	CPRLevelCross AUDJPY-g,M15: drawHLine: failed to create a horizontal line! Error code = 4200
+0	08:42:33.965	CPRLevelCross AUDJPY-g,M15: drawHLine: failed to create a horizontal line! Error code = 4200
+0	08:42:33.966	CPRLevelCross AUDJPY-g,M15: initialized
+0	08:42:37.541	CPRLevelCross AUDJPY-g,M15: Cross above top pivot
+0	08:42:37.542	CPRLevelCross AUDJPY-g,M15: Entry Price = 95.955
+0	08:42:37.542	CPRLevelCross AUDJPY-g,M15: Stop Loss Price = 95.705
+0	08:42:37.542	CPRLevelCross AUDJPY-g,M15: Take Profit Price = 96.455
+0	08:42:38.700	CPRLevelCross AUDJPY-g,M15: Alert: Order rejected. Order error: 130
+0	08:42:38.700	CPRLevelCross AUDJPY-g,M15: Cross above top pivot
+0	08:42:38.700	CPRLevelCross AUDJPY-g,M15: Entry Price = 95.943
+0	08:42:38.700	CPRLevelCross AUDJPY-g,M15: Stop Loss Price = 95.693
+0	08:42:38.700	CPRLevelCross AUDJPY-g,M15: Take Profit Price = 96.443
+2	08:42:39.022	CPRLevelCross AUDJPY-g,M15: open #296672132 buy limit 0.10 AUDJPY-g at 95.943 sl: 95.693 tp: 96.443 ok
+0	08:42:39.022	CPRLevelCross AUDJPY-g,M15: New Long Order AUDJPY-g121 296672132
+0	08:42:39.022	CPRLevelCross AUDJPY-g,M15: Alert: Long Order
+0	08:43:26.057	Script Scanner_EA_Cross AUDJPY-g,M15: loaded successfully
+0	08:43:26.078	Scanner_EA_Cross AUDJPY-g,M15: initialized
+0	08:43:26.079	Scanner_EA_Cross AUDJPY-g,M15: Alert: 95.956
+0	08:43:26.079	Scanner_EA_Cross AUDJPY-g,M15: Alert: 1.11504
+0	08:43:26.079	Scanner_EA_Cross AUDJPY-g,M15: Alert: 95.93000000000001
+0	08:43:26.079	Scanner_EA_Cross AUDJPY-g,M15: Alert: 95.93000000000001
+0	08:43:26.079	Scanner_EA_Cross AUDJPY-g,M15: Alert: 95.93000000000001
+0	08:43:26.079	Scanner_EA_Cross AUDJPY-g,M15: Alert: 95.93000000000001
+0	08:43:26.079	Scanner_EA_Cross AUDJPY-g,M15: Alert: 95.93000000000001
+0	08:43:26.079	Scanner_EA_Cross AUDJPY-g,M15: Alert: 95.93000000000001
+0	08:43:26.079	Scanner_EA_Cross AUDJPY-g,M15: Alert: 95.93000000000001
+0	08:43:26.079	Scanner_EA_Cross AUDJPY-g,M15: Alert: 95.93000000000001
+0	08:43:26.079	Scanner_EA_Cross AUDJPY-g,M15: uninit reason 0
+0	08:43:26.081	Script Scanner_EA_Cross AUDJPY-g,M15: removed
+0	08:43:51.441	Script Scanner_EA_Cross AUDJPY-g,M15: loaded successfully
+0	08:43:51.461	Scanner_EA_Cross AUDJPY-g,M15: initialized
+0	08:43:51.461	Scanner_EA_Cross AUDJPY-g,M15: Alert: 96.087
+0	08:43:51.463	Scanner_EA_Cross AUDJPY-g,M15: Alert: 1.11526
+0	08:43:51.463	Scanner_EA_Cross AUDJPY-g,M15: Alert: 96.087
+0	08:43:51.463	Scanner_EA_Cross AUDJPY-g,M15: Alert: 96.087
+0	08:43:51.463	Scanner_EA_Cross AUDJPY-g,M15: Alert: 96.087
+0	08:43:51.463	Scanner_EA_Cross AUDJPY-g,M15: Alert: 96.087
+0	08:43:51.463	Scanner_EA_Cross AUDJPY-g,M15: Alert: 96.087
+0	08:43:51.463	Scanner_EA_Cross AUDJPY-g,M15: Alert: 96.087
+0	08:43:51.463	Scanner_EA_Cross AUDJPY-g,M15: Alert: 96.087
+0	08:43:51.463	Scanner_EA_Cross AUDJPY-g,M15: Alert: 96.087
+0	08:43:51.463	Scanner_EA_Cross AUDJPY-g,M15: uninit reason 0
+0	08:43:51.466	Script Scanner_EA_Cross AUDJPY-g,M15: removed
+0	08:44:08.982	Script Scanner_EA_Cross AUDJPY-g,M15: loaded successfully
+0	08:44:08.989	Scanner_EA_Cross AUDJPY-g,M15: initialized
+0	08:44:08.989	Scanner_EA_Cross AUDJPY-g,M15: Alert: 96.087
+0	08:44:08.997	Scanner_EA_Cross AUDJPY-g,M15: Alert: 1.11526
+0	08:44:08.997	Scanner_EA_Cross AUDJPY-g,M15: Alert: 96.087
+0	08:44:08.997	Scanner_EA_Cross AUDJPY-g,M15: Alert: 96.087
+0	08:44:08.998	Scanner_EA_Cross AUDJPY-g,M15: Alert: 96.087
+0	08:44:08.998	Scanner_EA_Cross AUDJPY-g,M15: Alert: 96.087
+0	08:44:08.998	Scanner_EA_Cross AUDJPY-g,M15: Alert: 96.087
+0	08:44:08.998	Scanner_EA_Cross AUDJPY-g,M15: Alert: 96.087
+0	08:44:08.998	Scanner_EA_Cross AUDJPY-g,M15: Alert: 96.087
+0	08:44:08.998	Scanner_EA_Cross AUDJPY-g,M15: Alert: 96.087
+0	08:44:08.998	Scanner_EA_Cross AUDJPY-g,M15: uninit reason 0
+0	08:44:09.001	Script Scanner_EA_Cross AUDJPY-g,M15: removed
+0	08:44:19.641	CPRLevelCross AUDJPY-g,M15: uninit reason 3
+0	08:44:23.720	CPRLevelCross AUDNZD-g,M15: Starting the strategy
+0	08:44:23.720	CPRLevelCross AUDNZD-g,M15: drawHLine: failed to create a horizontal line! Error code = 4200
+0	08:44:23.720	CPRLevelCross AUDNZD-g,M15: drawHLine: failed to create a horizontal line! Error code = 4200
+0	08:44:23.720	CPRLevelCross AUDNZD-g,M15: drawHLine: failed to create a horizontal line! Error code = 4200
+0	08:44:23.720	CPRLevelCross AUDNZD-g,M15: drawHLine: failed to create a horizontal line! Error code = 4200
+0	08:44:23.720	CPRLevelCross AUDNZD-g,M15: drawHLine: failed to create a horizontal line! Error code = 4200
+0	08:44:23.720	CPRLevelCross AUDNZD-g,M15: drawHLine: failed to create a horizontal line! Error code = 4200
+0	08:44:23.720	CPRLevelCross AUDNZD-g,M15: drawHLine: failed to create a horizontal line! Error code = 4200
+0	08:44:23.720	CPRLevelCross AUDNZD-g,M15: drawHLine: failed to create a horizontal line! Error code = 4200
+0	08:44:23.720	CPRLevelCross AUDNZD-g,M15: drawHLine: failed to create a horizontal line! Error code = 4200
+0	08:44:23.720	CPRLevelCross AUDNZD-g,M15: drawHLine: failed to create a horizontal line! Error code = 4200
+0	08:44:23.720	CPRLevelCross AUDNZD-g,M15: drawHLine: failed to create a horizontal line! Error code = 4200
+0	08:44:23.720	CPRLevelCross AUDNZD-g,M15: initialized
+0	08:44:24.430	CPRLevelCross AUDNZD-g,M15: Cross above top pivot
+0	08:44:24.430	CPRLevelCross AUDNZD-g,M15: Entry Price = 1.11536
+0	08:44:24.430	CPRLevelCross AUDNZD-g,M15: Stop Loss Price = 1.11286
+0	08:44:24.430	CPRLevelCross AUDNZD-g,M15: Take Profit Price = 1.12036
+2	08:44:25.591	CPRLevelCross AUDNZD-g,M15: open #296672171 buy limit 0.10 AUDNZD-g at 1.11536 sl: 1.11286 tp: 1.12036 ok
+0	08:44:25.591	CPRLevelCross AUDNZD-g,M15: New Long Order AUDNZD-g121 296672171
+0	08:44:25.591	CPRLevelCross AUDNZD-g,M15: Alert: Long Order
+0	08:44:48.666	CPRLevelCross AUDNZD-g,M15: uninit reason 1
+0	08:44:48.683	Expert CPRLevelCross AUDNZD-g,M15: removed
+0	08:54:18.043	Script Scanner_EA_Cross AUDNZD-g,M15: loaded successfully
+0	08:54:18.043	Scanner_EA_Cross AUDNZD-g,M15 inputs: period_slow=50.0; period_fast=200.0; 
+0	08:54:18.060	Scanner_EA_Cross AUDNZD-g,M15: initialized
+0	08:54:18.060	Scanner_EA_Cross AUDNZD-g,M15: Alert: 95.85097769891561
+0	08:54:18.061	Scanner_EA_Cross AUDNZD-g,M15: Alert: 1.114316280078361
+0	08:54:18.061	Scanner_EA_Cross AUDNZD-g,M15: Alert: 1.114343979597007
+0	08:54:18.061	Scanner_EA_Cross AUDNZD-g,M15: Alert: 1.114343979597007
+0	08:54:18.061	Scanner_EA_Cross AUDNZD-g,M15: Alert: 1.114343979597007
+0	08:54:18.061	Scanner_EA_Cross AUDNZD-g,M15: Alert: 1.114343979597007
+0	08:54:18.061	Scanner_EA_Cross AUDNZD-g,M15: Alert: 1.114343979597007
+0	08:54:18.062	Scanner_EA_Cross AUDNZD-g,M15: Alert: 1.114343979597007
+0	08:54:18.062	Scanner_EA_Cross AUDNZD-g,M15: Alert: 1.114343979597007
+0	08:54:18.062	Scanner_EA_Cross AUDNZD-g,M15: Alert: 1.114343979597007
+0	08:54:18.062	Scanner_EA_Cross AUDNZD-g,M15: uninit reason 0
+0	08:54:18.065	Script Scanner_EA_Cross AUDNZD-g,M15: removed
+0	08:57:07.644	Script Scanner_EA_Cross AUDNZD-g,M15: loaded successfully
+0	08:57:07.644	Scanner_EA_Cross AUDNZD-g,M15 inputs: period_slow=50.0; period_fast=200.0; 
+0	08:57:07.658	Scanner_EA_Cross AUDNZD-g,M15: initialized
+0	08:57:07.658	Scanner_EA_Cross AUDNZD-g,M15: Alert: 95.85207661268363
+0	08:57:07.665	Scanner_EA_Cross AUDNZD-g,M15: Alert: 1.114343876938034
+0	08:57:07.665	Scanner_EA_Cross AUDNZD-g,M15: Alert: 1.114343979597007
+0	08:57:07.665	Scanner_EA_Cross AUDNZD-g,M15: Alert: 1.114343979597007
+0	08:57:07.665	Scanner_EA_Cross AUDNZD-g,M15: Alert: 1.114343979597007
+0	08:57:07.665	Scanner_EA_Cross AUDNZD-g,M15: Alert: 1.114343979597007
+0	08:57:07.665	Scanner_EA_Cross AUDNZD-g,M15: Alert: 1.114343979597007
+0	08:57:07.665	Scanner_EA_Cross AUDNZD-g,M15: Alert: 1.114343979597007
+0	08:57:07.666	Scanner_EA_Cross AUDNZD-g,M15: Alert: 1.114343979597007
+0	08:57:07.666	Scanner_EA_Cross AUDNZD-g,M15: Alert: 1.114343979597007
+0	08:57:07.666	Scanner_EA_Cross AUDNZD-g,M15: uninit reason 0
+0	08:57:07.667	Script Scanner_EA_Cross AUDNZD-g,M15: removed
+0	09:07:30.817	Expert CPRLevelCross GBPUSD-g,M15: loaded successfully
+0	09:07:32.518	CPRLevelCross GBPUSD-g,M15 inputs: lotSize=0.1; RR=2.0; LossPips=25; 
+0	09:07:32.574	CPRLevelCross GBPUSD-g,M15: Starting the strategy
+0	09:07:32.574	CPRLevelCross GBPUSD-g,M15: drawHLine: failed to create a horizontal line! Error code = 4200
+0	09:07:32.574	CPRLevelCross GBPUSD-g,M15: drawHLine: failed to create a horizontal line! Error code = 4200
+0	09:07:32.574	CPRLevelCross GBPUSD-g,M15: drawHLine: failed to create a horizontal line! Error code = 4200
+0	09:07:32.574	CPRLevelCross GBPUSD-g,M15: drawHLine: failed to create a horizontal line! Error code = 4200
+0	09:07:32.574	CPRLevelCross GBPUSD-g,M15: drawHLine: failed to create a horizontal line! Error code = 4200
+0	09:07:32.574	CPRLevelCross GBPUSD-g,M15: drawHLine: failed to create a horizontal line! Error code = 4200
+0	09:07:32.574	CPRLevelCross GBPUSD-g,M15: drawHLine: failed to create a horizontal line! Error code = 4200
+0	09:07:32.574	CPRLevelCross GBPUSD-g,M15: drawHLine: failed to create a horizontal line! Error code = 4200
+0	09:07:32.574	CPRLevelCross GBPUSD-g,M15: drawHLine: failed to create a horizontal line! Error code = 4200
+0	09:07:32.574	CPRLevelCross GBPUSD-g,M15: drawHLine: failed to create a horizontal line! Error code = 4200
+0	09:07:32.574	CPRLevelCross GBPUSD-g,M15: drawHLine: failed to create a horizontal line! Error code = 4200
+0	09:07:32.574	CPRLevelCross GBPUSD-g,M15: initialized
+0	09:07:34.649	CPRLevelCross GBPUSD-g,M15: Cross above top pivot
+0	09:07:34.649	CPRLevelCross GBPUSD-g,M15: Entry Price = 1.25698
+0	09:07:34.649	CPRLevelCross GBPUSD-g,M15: Stop Loss Price = 1.25448
+0	09:07:34.649	CPRLevelCross GBPUSD-g,M15: Take Profit Price = 1.26198
+2	09:07:37.122	CPRLevelCross GBPUSD-g,M15: open #296672882 buy limit 0.10 GBPUSD-g at 1.25698 sl: 1.25448 tp: 1.26198 ok
+0	09:07:37.122	CPRLevelCross GBPUSD-g,M15: New Long Order GBPUSD-g121 296672882
+0	09:07:37.122	CPRLevelCross GBPUSD-g,M15: Alert: Long Order
+0	09:07:56.685	CPRLevelCross GBPUSD-g,M15: uninit reason 1
+0	09:07:56.696	Expert CPRLevelCross GBPUSD-g,M15: removed
+0	09:08:00.109	Expert CPRLevelCross GBPUSD-g,M15: loaded successfully
+0	09:08:01.279	CPRLevelCross GBPUSD-g,M15 inputs: lotSize=0.1; RR=2.0; LossPips=25; 
+0	09:08:01.322	CPRLevelCross GBPUSD-g,M15: Starting the strategy
+0	09:08:01.322	CPRLevelCross GBPUSD-g,M15: initialized
+0	09:10:46.754	CPRLevelCross GBPUSD-g,M15: uninit reason 1
+0	09:10:46.764	Expert CPRLevelCross GBPUSD-g,M15: removed
+0	12:39:03.552	Compiling 'MQLTA MT4 Moving Average Crossover Alert'
+0	12:39:05.070	Compiling 'Scanner_EA_Cross'
