@@ -1,184 +1,236 @@
+//+------------------------------------------------------------------+
+//|                                                      ProjectName |
+//|                                      Copyright 2018, CompanyName |
+//|                                       http://www.companyname.net |
+//+------------------------------------------------------------------+
 #property copyright "Dheeraj Saxena"
 #property link      "www.trademyner.com"
 #property strict
 
 
+//+------------------------------------------------------------------+
+//|                                                                  |
+//+------------------------------------------------------------------+
 double GetPipValue()
-{
+  {
    if(_Digits >=4)
-   {
+     {
       return 0.0001;
-   }
+     }
    else
-   {
+     {
       return 0.01;
-   }
-}
+     }
+  }
 
 
+//+------------------------------------------------------------------+
+//|                                                                  |
+//+------------------------------------------------------------------+
 void DayOfWeekAlert()
-{
+  {
 
    Alert("");
-   
+
    int dayOfWeek = DayOfWeek();
-   
-   switch (dayOfWeek)
-   {
-      case 1 : Alert("We are Monday. Let's try to enter new trades"); break;
-      case 2 : Alert("We are tuesday. Let's try to enter new trades or close existing trades");break;
-      case 3 : Alert("We are wednesday. Let's try to enter new trades or close existing trades");break;
-      case 4 : Alert("We are thursday. Let's try to enter new trades or close existing trades");break;
-      case 5 : Alert("We are friday. Close existing trades");break;
-      case 6 : Alert("It's the weekend. No Trading.");break;
-      case 0 : Alert("It's the weekend. No Trading.");break;
-      default : Alert("Error. No such day in the week.");
-   }
-}
 
+   switch(dayOfWeek)
+     {
+      case 1 :
+         Alert("We are Monday. Let's try to enter new trades");
+         break;
+      case 2 :
+         Alert("We are tuesday. Let's try to enter new trades or close existing trades");
+         break;
+      case 3 :
+         Alert("We are wednesday. Let's try to enter new trades or close existing trades");
+         break;
+      case 4 :
+         Alert("We are thursday. Let's try to enter new trades or close existing trades");
+         break;
+      case 5 :
+         Alert("We are friday. Close existing trades");
+         break;
+      case 6 :
+         Alert("It's the weekend. No Trading.");
+         break;
+      case 0 :
+         Alert("It's the weekend. No Trading.");
+         break;
+      default :
+         Alert("Error. No such day in the week.");
+     }
+  }
+
+//+------------------------------------------------------------------+
+//|                                                                  |
+//+------------------------------------------------------------------+
 double GetTargetProfit(bool bIsLongPosition, double stopLossPrice, double entryPrice, double RR)
-{
- double target;
- if (bIsLongPosition)
- {
-   target = entryPrice + (entryPrice - stopLossPrice)*RR;
- 
- }
- else{
-   target = entryPrice - (stopLossPrice - entryPrice)*RR;
- 
- }
- return NormalizeDouble(target, Digits);
+  {
+   double target;
+   if(bIsLongPosition)
+     {
+      target = entryPrice + (entryPrice - stopLossPrice)*RR;
 
-}
+     }
+   else
+     {
+      target = entryPrice - (stopLossPrice - entryPrice)*RR;
 
+     }
+   return NormalizeDouble(target, Digits);
+
+  }
+
+//+------------------------------------------------------------------+
+//|                                                                  |
+//+------------------------------------------------------------------+
 double GetStopLossPrice(bool bIsLongPosition, double entryPrice, int maxLossInPips)
-{
+  {
    double stopLossPrice;
    double pip_val = GetPipValue();
-   if (bIsLongPosition)
-   {
+   if(bIsLongPosition)
+     {
       stopLossPrice = entryPrice - maxLossInPips * pip_val;
-   }
+     }
    else
-   {
+     {
       stopLossPrice = entryPrice + maxLossInPips * pip_val;
-   }
+     }
    return NormalizeDouble(stopLossPrice,Digits);
-}
+  }
 
 
+//+------------------------------------------------------------------+
+//|                                                                  |
+//+------------------------------------------------------------------+
 bool IsTradingAllowed()
-{
+  {
    if(!IsTradeAllowed())
-   {
+     {
       Print("Expert Advisor is NOT Allowed to Trade. Check AutoTrading.");
       return false;
-   }
-   
+     }
+
    if(!IsTradeAllowed(Symbol(), TimeCurrent()))
-   {
+     {
       Print("Trading NOT Allowed for specific Symbol and Time");
       return false;
-   }
-   
+     }
+
    return true;
-}
-  
-  
-double OptimalLotSize(double maxRiskPrc, int maxLossInPips)
-{
-
-  double accEquity = AccountEquity();
-  Print("accEquity: " + accEquity);
-  
-  double lotSize = MarketInfo(NULL,MODE_LOTSIZE);
-  Print("lotSize: " + lotSize);
-  
-  double tickValue = MarketInfo(NULL,MODE_TICKVALUE);
-  
-  if(Digits <= 3)
-  {
-   tickValue = tickValue /100;
   }
-  
-  Print("tickValue: " + tickValue);
-  
-  double maxLossDollar = accEquity * maxRiskPrc;
-  Print("maxLossDollar: " + maxLossDollar);
-  
-  double maxLossInQuoteCurr = maxLossDollar / tickValue;
-  Print("maxLossInQuoteCurr: " + maxLossInQuoteCurr);
-  
-  double optimalLotSize = NormalizeDouble(maxLossInQuoteCurr /(maxLossInPips * GetPipValue())/lotSize,2);
-  
-  return optimalLotSize;
- 
-}
 
 
+//+------------------------------------------------------------------+
+//|                                                                  |
+//+------------------------------------------------------------------+
+double OptimalLotSize(double maxRiskPrc, int maxLossInPips)
+  {
+
+   double accEquity = AccountEquity();
+   Print("accEquity: " + accEquity);
+
+   double lotSize = MarketInfo(NULL,MODE_LOTSIZE);
+   Print("lotSize: " + lotSize);
+
+   double tickValue = MarketInfo(NULL,MODE_TICKVALUE);
+
+   if(Digits <= 3)
+     {
+      tickValue = tickValue /100;
+     }
+
+   Print("tickValue: " + tickValue);
+
+   double maxLossDollar = accEquity * maxRiskPrc;
+   Print("maxLossDollar: " + maxLossDollar);
+
+   double maxLossInQuoteCurr = maxLossDollar / tickValue;
+   Print("maxLossInQuoteCurr: " + maxLossInQuoteCurr);
+
+   double optimalLotSize = NormalizeDouble(maxLossInQuoteCurr /(maxLossInPips * GetPipValue())/lotSize,2);
+
+   return optimalLotSize;
+
+  }
+
+
+//+------------------------------------------------------------------+
+//|                                                                  |
+//+------------------------------------------------------------------+
 double OptimalLotSize(double maxRiskPrc, double entryPrice, double stopLoss)
-{
+  {
    int maxLossInPips = MathAbs(entryPrice - stopLoss)/GetPipValue();
    return OptimalLotSize(maxRiskPrc,maxLossInPips);
-}
+  }
 
 
 
+//+------------------------------------------------------------------+
+//|                                                                  |
+//+------------------------------------------------------------------+
 bool CheckIfOpenOrdersByComment(int ea_id)
-{
+  {
    string comment = get_magic_number(ea_id);
    int openOrders = OrdersTotal();
-   
-   for(int i = 0; i < openOrders; i++)
-   {
-      if(OrderSelect(i,SELECT_BY_POS)==true)
-      {
-         if(OrderComment() == comment) 
-         {
-            return true;
-         }  
-      }
-   }
-   return false;
-}
 
-string get_magic_number(int ea_id){
+   for(int i = 0; i < openOrders; i++)
+     {
+      if(OrderSelect(i,SELECT_BY_POS)==true)
+        {
+         if(OrderComment() == comment)
+           {
+            return true;
+           }
+        }
+     }
+   return false;
+  }
+
+//+------------------------------------------------------------------+
+//|                                                                  |
+//+------------------------------------------------------------------+
+string get_magic_number(int ea_id)
+  {
 
    string str = Symbol() +string(ea_id);
    return str;
 
-}
+  }
 
 
 
+//+------------------------------------------------------------------+
+//|                                                                  |
+//+------------------------------------------------------------------+
 void drawHLine(const long            chart_ID=0,        // chart's ID
-                 string          name="HLine",      // line name
-                 const int             sub_window=0,      // subwindow index
-                 double                price=0,           // line price
-                 const bool            add_label=false,  
-                 string          label_obj_name="Label text",  // label object name
-                 const string          label_obj_value="Label value",  // label object value
-                 const color           clr=clrRed,        // line color
-                 const ENUM_LINE_STYLE style=STYLE_SOLID, // line style
-                 const string          indicator_name = "Indicator",
-                 const int             width=1,                 
-                 const bool            back=false,        // in the background
-                 const bool            selection=false,    // highlight to move
-                 const bool            hidden=false,       // hidden in the object list
-                 const long            z_order=0
-                 )         // priority for mouse click
+               string          name="HLine",      // line name
+               const int             sub_window=0,      // subwindow index
+               double                price=0,           // line price
+               const bool            add_label=false,
+               string          label_obj_name="Label text",  // label object name
+               const string          label_obj_value="Label value",  // label object value
+               const color           clr=clrRed,        // line color
+               const ENUM_LINE_STYLE style=STYLE_SOLID, // line style
+               const string          indicator_name = "Indicator",
+               const int             width=1,
+               const bool            back=false,        // in the background
+               const bool            selection=false,    // highlight to move
+               const bool            hidden=true,       // hidden in the object list
+               const long            z_order=0
+              )         // priority for mouse click
   {
-name = name + indicator_name;
-label_obj_name = label_obj_name + indicator_name;
+   name = name + indicator_name;
+   label_obj_name = label_obj_name + indicator_name;
 // draw line
-if(!ObjectCreate(chart_ID,name,OBJ_HLINE,sub_window,0,price))
+   if(!ObjectCreate(chart_ID,name,OBJ_HLINE,sub_window,0,price))
      {
       Print(__FUNCTION__,
             ": failed to create a horizontal line! Error code = ",GetLastError());
-      
+
      }
-         
+
 //--- set line color
    ObjectSetInteger(chart_ID,name,OBJPROP_COLOR,clr);
 //--- set line display style
@@ -202,42 +254,68 @@ if(!ObjectCreate(chart_ID,name,OBJ_HLINE,sub_window,0,price))
 
 // create line label
 
-if (add_label)   {
-      
-      
-      ObjectCreate (chart_ID, label_obj_name, OBJ_TEXT, 0, Time[0], price );      
-      ObjectSetString(chart_ID, label_obj_name ,OBJPROP_TEXT, label_obj_value);
+   if(add_label)
+     {
+
+
+      ObjectCreate(chart_ID, label_obj_name, OBJ_TEXT, 0, Time[0], price);
+      ObjectSetString(chart_ID, label_obj_name,OBJPROP_TEXT, label_obj_value);
       ObjectSetInteger(chart_ID,name,OBJPROP_ANCHOR,ANCHOR_RIGHT);
-   
+
+     }
+
   }
 
-}
-
-void drawArrow(const long            chart_ID=0, 
-               const string          name="Arrow", 
+//+------------------------------------------------------------------+
+//|                                                                  |
+//+------------------------------------------------------------------+
+void drawArrow(const long            chart_ID=0,
+               const string          name="Arrow",
                double                price=0,
                int ticketId = 0,
                bool bullish = True)
-               
-{     
-       
-      
 
-      ObjectCreate (chart_ID, name, OBJ_ARROW, 0, Time[0], price );
-      ObjectSetInteger(chart_ID,name, OBJPROP_STYLE, STYLE_SOLID);
-      ObjectSetInteger(chart_ID,name, OBJPROP_ARROWCODE, bullish?SYMBOL_ARROWUP:SYMBOL_ARROWDOWN);
-      ObjectSetInteger(chart_ID,name, OBJPROP_COLOR, bullish?clrGreen:clrRed);
-    
+  {
 
 
 
-}
+   ObjectCreate(chart_ID, name, OBJ_ARROW, 0, Time[0], price);
+   ObjectSetInteger(chart_ID,name, OBJPROP_STYLE, STYLE_SOLID);
+   ObjectSetInteger(chart_ID,name, OBJPROP_ARROWCODE, bullish?SYMBOL_ARROWUP:SYMBOL_ARROWDOWN);
+   ObjectSetInteger(chart_ID,name, OBJPROP_COLOR, bullish?clrGreen:clrRed);
 
-void CleanChart(string ind_name){
+
+
+
+  }
+
+//+------------------------------------------------------------------+
+//|                                                                  |
+//+------------------------------------------------------------------+
+void CleanChart(string ind_name)
+  {
    int Window=0;
-   for(int i=ObjectsTotal(ChartID(),Window,-1)-1;i>=0;i--){
-      if(StringFind(ObjectName(i),ind_name,0)>=0){
+   for(int i=ObjectsTotal(ChartID(),Window,-1)-1; i>=0; i--)
+     {
+      if(StringFind(ObjectName(i),ind_name,0)>=0)
+        {
          ObjectDelete(ObjectName(i));
-      }
-   }
-}
+        }
+     }
+  }
+//+------------------------------------------------------------------+
+
+
+//+------------------------------------------------------------------+
+//|                                                                  |
+//+------------------------------------------------------------------+
+
+bool CheckIfNewCandle(int period)
+  {
+   
+   if(TimeCurrent()==iTime(Symbol(),period,0))
+      return true;
+   return false;
+   
+  }
+//+------------------------------------------------------------------+

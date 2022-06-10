@@ -35,8 +35,8 @@ void OnDeinit(const int reason)
 void OnTick()
   {
   
-   
-   if (!CheckIfOpenOrdersByComment(ea_id))
+    
+   if (!CheckIfOpenOrdersByComment(ea_id) && IsTradingAllowed())
    {
       //Long positions
       if( Close[0] > top_pivot)
