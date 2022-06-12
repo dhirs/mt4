@@ -8,14 +8,16 @@
 #property version   "1.00"
 #property strict
 #property indicator_chart_window
-#property indicator_buffers 5
-#property indicator_plots   5
+#property indicator_buffers 9
+#property indicator_plots   9
+
 //--- plot PDH
 #property indicator_label1  "PDH"
 #property indicator_type1   DRAW_LINE
 #property indicator_color1  clrRed
 #property indicator_style1  STYLE_SOLID
 #property indicator_width1  1
+
 //--- plot PDL
 #property indicator_label2  "PDL"
 #property indicator_type2   DRAW_LINE
@@ -44,12 +46,44 @@
 #property indicator_style5  STYLE_DOT
 #property indicator_width5  2
 
+//--- plot R1
+#property indicator_label6  "R1"
+#property indicator_type6   DRAW_LINE
+#property indicator_color6  clrRed
+#property indicator_style6  STYLE_DASH
+#property indicator_width6  1
+
+//--- plot s1
+#property indicator_label7  "S1"
+#property indicator_type7   DRAW_LINE
+#property indicator_color7  clrGreen
+#property indicator_style7  STYLE_DASH
+#property indicator_width7  1
+
+//--- plot r2
+#property indicator_label8  "R2"
+#property indicator_type8   DRAW_LINE
+#property indicator_color8  clrRed
+#property indicator_style8  STYLE_DASH
+#property indicator_width8  1
+
+//--- plot s2
+#property indicator_label9  "S2"
+#property indicator_type9   DRAW_LINE
+#property indicator_color9  clrGreen
+#property indicator_style9  STYLE_DASH
+#property indicator_width9  1
+
 //--- indicator buffers
 double         PDHBuffer[];
 double         PDLBuffer[];
 double         CentralPivot[];
 double         CentralPivotLower[];
 double         CentralPivotUpper[];
+double         R1[];
+double         R2[];
+double         S1[];
+double         S2[];
 
 //Include files
 #include  <CustomFunctions01.mqh>
@@ -64,6 +98,10 @@ int OnInit()
    SetIndexBuffer(2,CentralPivot);
    SetIndexBuffer(3,CentralPivotUpper);
    SetIndexBuffer(4,CentralPivotLower);
+   SetIndexBuffer(5,R1);
+   SetIndexBuffer(6,S1);
+   SetIndexBuffer(7,R2);
+   SetIndexBuffer(8,S2);
 
 //---
    return(INIT_SUCCEEDED);
@@ -103,6 +141,10 @@ int OnCalculate(const int rates_total,
       CentralPivot[i] = (iClose(NULL, PERIOD_D1,shift) + PDLBuffer[i] +  PDHBuffer[i])/3;
       CentralPivotLower[i] = (PDLBuffer[i] + PDHBuffer[i])/2;
       CentralPivotUpper[i] = 2*CentralPivot[i] - CentralPivotLower[i];
+      R1[i] = (2 * CentralPivot[i]) - PDLBuffer[i];
+      R2[i] =  CentralPivot[i] + PDHBuffer[i]-PDLBuffer[i];
+      S1[i] = (2 * CentralPivot[i]) - PDHBuffer[i];
+      S2[i] =  CentralPivot[i] - (PDHBuffer[i]-PDLBuffer[i]);
      }
 //+------------------------------------------------------------------+
 //|                                                                  |

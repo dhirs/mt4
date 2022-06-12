@@ -276,16 +276,10 @@ void drawArrow(const long            chart_ID=0,
                bool bullish = True)
 
   {
-
-
-
    ObjectCreate(chart_ID, name, OBJ_ARROW, 0, Time[0], price);
    ObjectSetInteger(chart_ID,name, OBJPROP_STYLE, STYLE_SOLID);
    ObjectSetInteger(chart_ID,name, OBJPROP_ARROWCODE, bullish?SYMBOL_ARROWUP:SYMBOL_ARROWDOWN);
    ObjectSetInteger(chart_ID,name, OBJPROP_COLOR, bullish?clrGreen:clrRed);
-
-
-
 
   }
 
@@ -303,19 +297,87 @@ void CleanChart(string ind_name)
         }
      }
   }
-//+------------------------------------------------------------------+
-
 
 //+------------------------------------------------------------------+
 //|                                                                  |
 //+------------------------------------------------------------------+
-
-bool CheckIfNewCandle(int period)
+bool CheckNewBar()
   {
-   
-   if(TimeCurrent()==iTime(Symbol(),period,0))
-      return true;
-   return false;
-   
+
+   static int LastBarCount;
+   bool isNewBar = false;
+   if(Bars > LastBarCount)
+     {
+      isNewBar = true;
+      LastBarCount = Bars;
+     }
+   return isNewBar;
+
+  }
+//+------------------------------------------------------------------+
+
+//+------------------------------------------------------------------+
+//|                                                                  |
+//+------------------------------------------------------------------+
+void sendOrder(int LossPips, double RR, double lotSize, string comment, bool isBuy = true)
+  {
+   double entryPrice;
+   int o_type;
+   int openOrderID;
+
+   if(isBuy)
+     {
+      entryPrice = Ask;
+      o_type = OP_BUYLIMIT;
+     }
+   else
+     {
+      entryPrice = Bid;
+      o_type = OP_SELLLIMIT;
+     }
+   Print("Sending order for Strategy-"+comment+"-"+Symbol());
+   double stopLossPrice = GetStopLossPrice(isBuy, entryPrice, LossPips);
+   double takeProfitPrice = GetTargetProfit(isBuy, stopLossPrice, entryPrice,RR);
+   Print("Entry Price = " + entryPrice);
+   Print("Stop Loss Price = " + stopLossPrice);
+   Print("Take Profit Price = " + takeProfitPrice);
+   openOrderID = OrderSend(NULL,o_type,lotSize,entryPrice,10,stopLossPrice,takeProfitPrice,comment);
+   if(openOrderID < 0)
+     {
+      Print("Order rejected. Order error: " + GetLastError());
+     }
+   else
+     {
+
+      Print("New Order "+comment+" "+ openOrderID);
+
+     }
+
+
+  }
+//+------------------------------------------------------------------+
+int detect_indicator_cross(double fast_val_0, double slow_val_0, double fast_val_2, double slow_val_2)
+  {
+
+//cross_down check
+   bool cond_1 = fast_val_0 < slow_val_0;
+   bool cond_2 = fast_val_2 > slow_val_2;
+   bool cond_3 = fast_val_0 < fast_val_2;
+
+   if(cond_1 && cond_2 && cond_3)
+     {
+      return 1;
+     }
+
+//cross_up check
+   bool cond_11 = fast_val_0 > slow_val_0;
+   bool cond_22 = fast_val_2 < slow_val_2;
+   bool cond_33 = fast_val_0 > fast_val_2;
+   if(cond_11 && cond_22 && cond_33)
+     {
+      return 2;
+     }
+   return 0;
+
   }
 //+------------------------------------------------------------------+

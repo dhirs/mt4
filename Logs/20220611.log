@@ -1,0 +1,170 @@
+0	08:54:53.791	Custom indicator CPRLevels EURCAD,M5: loaded successfully
+0	08:54:53.814	CPRLevels EURCAD,M5: initialized
+0	08:55:28.358	CPRLevels EURCAD,M5: uninit reason 3
+0	08:55:28.376	CPRLevels EURCAD,M15: initialized
+0	09:01:18.164	CPRLevels EURCAD,M15: uninit reason 2
+0	09:01:18.164	Custom indicator CPRLevels EURCAD,M15: removed
+0	09:01:18.176	Custom indicator CPRLevels EURCAD,M15: loaded successfully
+0	09:01:18.195	CPRLevels EURCAD,M15: initialized
+1	09:01:18.195	CPRLevels EURCAD,M15: array out of range in 'CPRLevels.mq4' (115,9)
+0	09:02:05.706	CPRLevels EURCAD,M15: uninit reason 2
+0	09:02:05.706	Custom indicator CPRLevels EURCAD,M15: removed
+0	09:02:05.717	Custom indicator CPRLevels EURCAD,M15: loaded successfully
+0	09:02:05.737	CPRLevels EURCAD,M15: initialized
+0	09:02:51.761	CPRLevels EURCAD,M15: uninit reason 2
+0	09:02:51.761	Custom indicator CPRLevels EURCAD,M15: removed
+0	09:02:51.770	Custom indicator CPRLevels EURCAD,M15: loaded successfully
+0	09:02:51.778	CPRLevels EURCAD,M15: initialized
+0	09:03:17.355	CPRLevels EURCAD,M15: uninit reason 2
+0	09:03:17.356	Custom indicator CPRLevels EURCAD,M15: removed
+0	09:03:17.365	Custom indicator CPRLevels EURCAD,M15: loaded successfully
+0	09:03:17.376	CPRLevels EURCAD,M15: initialized
+0	09:03:33.678	CPRLevels EURCAD,M15: uninit reason 2
+0	09:03:33.678	Custom indicator CPRLevels EURCAD,M15: removed
+0	09:03:33.688	Custom indicator CPRLevels EURCAD,M15: loaded successfully
+0	09:03:33.697	CPRLevels EURCAD,M15: initialized
+0	09:03:56.448	CPRLevels EURCAD,M15: uninit reason 2
+0	09:03:56.449	Custom indicator CPRLevels EURCAD,M15: removed
+0	09:03:56.458	Custom indicator CPRLevels EURCAD,M15: loaded successfully
+0	09:03:56.471	CPRLevels EURCAD,M15: initialized
+0	09:04:16.746	CPRLevels EURCAD,M15: uninit reason 2
+0	09:04:16.747	Custom indicator CPRLevels EURCAD,M15: removed
+0	09:04:16.756	Custom indicator CPRLevels EURCAD,M15: loaded successfully
+0	09:04:16.773	CPRLevels EURCAD,M15: initialized
+0	09:04:52.660	CPRLevels EURCAD,M15: uninit reason 2
+0	09:04:52.661	Custom indicator CPRLevels EURCAD,M15: removed
+0	09:04:52.666	Custom indicator CPRLevels EURCAD,M15: loaded successfully
+0	09:04:52.686	CPRLevels EURCAD,M15: initialized
+0	09:04:57.262	CPRLevels EURCAD,M15: uninit reason 3
+0	09:04:57.275	CPRLevels EURCAD,M1: initialized
+0	09:05:08.629	CPRLevels EURCAD,M1: uninit reason 2
+0	09:05:08.630	Custom indicator CPRLevels EURCAD,M1: removed
+0	09:05:08.640	Custom indicator CPRLevels EURCAD,M1: loaded successfully
+0	09:05:08.655	CPRLevels EURCAD,M1: initialized
+0	09:05:33.010	CPRLevels EURCAD,M1: uninit reason 2
+0	09:05:33.011	Custom indicator CPRLevels EURCAD,M1: removed
+0	09:05:33.019	Custom indicator CPRLevels EURCAD,M1: loaded successfully
+0	09:05:33.033	CPRLevels EURCAD,M1: initialized
+0	09:08:35.815	CPRLevels EURCAD,M1: uninit reason 2
+0	09:08:35.817	Custom indicator CPRLevels EURCAD,M1: removed
+0	09:08:35.823	Custom indicator CPRLevels EURCAD,M1: loaded successfully
+0	09:08:35.840	CPRLevels EURCAD,M1: initialized
+0	09:18:12.889	CPRLevels EURCAD,M1: uninit reason 2
+0	09:18:12.889	Custom indicator CPRLevels EURCAD,M1: removed
+0	09:18:12.898	Custom indicator CPRLevels EURCAD,M1: loaded successfully
+0	09:18:12.917	CPRLevels EURCAD,M1: initialized
+0	09:21:17.477	CPRLevels EURCAD,M1: uninit reason 3
+0	09:21:17.497	CPRLevels AUDUSD,M1: initialized
+0	09:24:32.743	CPRLevels AUDUSD,M1: uninit reason 2
+0	09:24:32.748	Custom indicator CPRLevels AUDUSD,M1: removed
+0	09:24:32.755	Custom indicator CPRLevels AUDUSD,M1: loaded successfully
+0	09:24:32.759	CPRLevels AUDUSD,M1: initialized
+0	09:25:59.579	CPRLevels AUDUSD,M1: uninit reason 2
+0	09:25:59.580	Custom indicator CPRLevels AUDUSD,M1: removed
+0	09:25:59.589	Custom indicator CPRLevels AUDUSD,M1: loaded successfully
+0	09:25:59.601	CPRLevels AUDUSD,M1: initialized
+0	09:38:57.085	CPRLevels AUDUSD,M1: uninit reason 1
+0	09:38:57.088	Custom indicator CPRLevels AUDUSD,M1: removed
+0	09:39:07.085	Expert CPRLevelCross AUDUSD,M1: loaded successfully
+0	09:39:08.029	CPRLevelCross AUDUSD,M1 inputs: lotSize=0.1; RR=2.0; LossPips=25; 
+0	09:39:08.055	CPRLevelCross AUDUSD,M1: Starting the strategy
+0	09:39:08.055	CPRLevelCross AUDUSD,M1: initialized
+0	09:41:26.192	CPRLevelCross AUDUSD,M1: uninit reason 1
+0	09:41:26.200	Expert CPRLevelCross AUDUSD,M1: removed
+0	09:41:32.436	Custom indicator CPRLevels AUDUSD,M1: loaded successfully
+0	09:41:33.839	CPRLevels AUDUSD,M1: initialized
+0	09:41:56.663	CPRLevels AUDUSD,M1: uninit reason 2
+0	09:41:56.664	Custom indicator CPRLevels AUDUSD,M1: removed
+0	09:41:56.672	Custom indicator CPRLevels AUDUSD,M1: loaded successfully
+0	09:41:56.688	CPRLevels AUDUSD,M1: initialized
+0	09:45:22.633	CPRLevels AUDUSD,M1: uninit reason 3
+0	09:45:22.649	CPRLevels AUDUSD,H1: initialized
+0	09:45:44.935	CPRLevels AUDUSD,H1: uninit reason 3
+0	09:45:44.951	CPRLevels AUDUSD,M30: initialized
+0	09:45:48.671	CPRLevels AUDUSD,M30: uninit reason 3
+0	09:45:48.671	CPRLevels AUDUSD,H1: initialized
+0	09:48:29.376	CPRLevels AUDUSD,H1: uninit reason 3
+0	09:48:29.393	CPRLevels AUDUSD,M15: initialized
+0	09:48:34.378	CPRLevels AUDUSD,M15: uninit reason 3
+0	09:48:34.378	CPRLevels AUDUSD,M30: initialized
+0	09:48:34.878	CPRLevels AUDUSD,M30: uninit reason 3
+0	09:48:34.878	CPRLevels AUDUSD,H1: initialized
+0	09:50:07.374	CPRLevels AUDUSD,H1: uninit reason 3
+0	09:50:07.391	CPRLevels AUDUSD,M5: initialized
+0	09:54:49.809	CPRLevels AUDUSD,M5: uninit reason 3
+0	09:54:49.809	CPRLevels AUDUSD,M15: initialized
+0	09:54:51.625	CPRLevels AUDUSD,M15: uninit reason 3
+0	09:54:51.625	CPRLevels AUDUSD,M30: initialized
+0	09:54:56.071	CPRLevels AUDUSD,M30: uninit reason 3
+0	09:54:56.071	CPRLevels AUDUSD,H1: initialized
+0	09:55:06.600	CPRLevels AUDUSD,H1: uninit reason 3
+0	09:55:06.600	CPRLevels AUDUSD,M30: initialized
+0	09:55:09.085	CPRLevels AUDUSD,M30: uninit reason 3
+0	09:55:09.085	CPRLevels AUDUSD,H1: initialized
+0	10:01:54.127	CPRLevels AUDUSD,H1: uninit reason 3
+0	10:01:54.127	CPRLevels AUDUSD,M5: initialized
+0	10:02:40.839	CPRLevels AUDUSD,M5: uninit reason 3
+0	10:02:40.839	CPRLevels AUDUSD,M15: initialized
+0	10:02:50.179	Custom indicator CPRLevels AUDUSD,M1: loaded successfully
+0	10:02:50.199	CPRLevels AUDUSD,M1: initialized
+0	10:03:05.081	CPRLevels AUDUSD,M1: uninit reason 3
+0	10:03:05.081	CPRLevels AUDUSD,H1: initialized
+0	10:03:24.217	CPRLevels AUDUSD,H1: uninit reason 4
+0	10:03:24.219	Custom indicator CPRLevels AUDUSD,H1: removed
+0	10:03:26.736	Custom indicator CPRLevels AUDUSD,M15: loaded successfully
+0	10:03:26.746	CPRLevels AUDUSD,M15: initialized
+0	10:03:32.485	CPRLevels AUDUSD,M15: uninit reason 3
+0	10:03:32.485	CPRLevels AUDUSD,H1: initialized
+0	10:04:02.389	CPRLevels AUDUSD,H1: uninit reason 3
+0	10:04:02.407	CPRLevels AUDUSD,H4: initialized
+0	10:04:03.925	CPRLevels AUDUSD,H4: uninit reason 3
+0	10:04:03.925	CPRLevels AUDUSD,H1: initialized
+0	10:12:32.127	CPRLevels AUDUSD,H1: uninit reason 4
+0	10:12:32.129	Custom indicator CPRLevels AUDUSD,H1: removed
+0	01:52:54.747	CPRLevels AUDUSD,M15: uninit reason 3
+0	01:52:54.747	CPRLevels AUDUSD,Daily: initialized
+0	01:53:10.335	CPRLevels AUDUSD,Daily: uninit reason 3
+0	01:53:10.336	CPRLevels AUDUSD,H1: initialized
+0	02:07:35.266	Compiling 'Time_indicator'
+0	02:07:44.716	Custom indicator Time_indicator AUDUSD,H1: loaded successfully
+0	02:07:56.280	Time_indicator AUDUSD,H1: initialized
+0	10:38:42.318	Time_indicator AUDUSD,H1: uninit reason 1
+0	10:38:42.321	Custom indicator Time_indicator AUDUSD,H1: removed
+0	10:38:47.028	Custom indicator Time_indicator AUDUSD,H1: loaded successfully
+0	10:38:50.629	Time_indicator AUDUSD,H1: initialized
+0	10:40:37.885	Time_indicator AUDUSD,H1: uninit reason 1
+0	10:40:37.887	Custom indicator Time_indicator AUDUSD,H1: removed
+0	10:40:41.275	Custom indicator Time_indicator AUDUSD,H1: loaded successfully
+0	10:40:42.792	Time_indicator AUDUSD,H1: initialized
+0	10:41:18.123	Time_indicator AUDUSD,H1: uninit reason 1
+0	10:41:18.125	Custom indicator Time_indicator AUDUSD,H1: removed
+0	10:43:15.170	CPRLevels AUDUSD,H1: uninit reason 3
+0	10:43:15.181	CPRLevels AUDUSD,M5: initialized
+0	10:44:21.537	CPRLevels AUDUSD,M5: uninit reason 3
+0	10:44:21.538	CPRLevels AUDUSD,M15: initialized
+0	10:44:23.968	CPRLevels AUDUSD,M15: uninit reason 3
+0	10:44:23.978	CPRLevels AUDUSD,M30: initialized
+0	14:53:14.760	CPRLevels AUDUSD,M30: uninit reason 3
+0	14:53:14.760	CPRLevels AUDUSD,M15: initialized
+0	15:36:16.168	CPRLevels AUDUSD,M15: uninit reason 9
+0	15:36:16.286	Custom indicator CPRLevels AUDUSD,M15: removed
+0	15:36:28.030	Custom indicator CPRLevels AUDUSD,M15: loaded successfully
+0	15:36:28.051	CPRLevels AUDUSD,M15: initialized
+0	15:45:44.508	Expert CPRLevelCross AUDUSD,M15: loaded successfully
+0	15:45:45.946	CPRLevelCross AUDUSD,M15 inputs: lotSize=0.2; RR=1.0; LossPips=40; 
+0	15:45:45.972	CPRLevelCross AUDUSD,M15: Starting the strategy
+0	15:45:45.974	CPRLevelCross AUDUSD,M15: initialized
+0	15:46:56.682	CPRLevelCross AUDUSD,M15: uninit reason 2
+0	15:46:56.685	Expert CPRLevelCross AUDUSD,M15: removed
+0	15:46:56.709	Expert CPRLevelCross AUDUSD,M15: loaded successfully
+0	15:46:56.786	CPRLevelCross AUDUSD,M15: Starting the strategy
+0	15:46:56.795	CPRLevelCross AUDUSD,M15: initialized
+0	15:50:44.495	CPRLevelCross AUDUSD,M15: uninit reason 2
+0	15:50:44.496	Expert CPRLevelCross AUDUSD,M15: removed
+0	15:50:44.517	Expert CPRLevelCross AUDUSD,M15: loaded successfully
+0	15:50:44.594	CPRLevelCross AUDUSD,M15: Starting the strategy
+0	15:50:44.594	CPRLevelCross AUDUSD,M15: initialized
+0	17:59:43.957	CPRLevelCross AUDUSD,M15: uninit reason 9
+0	17:59:43.958	CPRLevels AUDUSD,M15: uninit reason 9
+0	17:59:44.037	Expert CPRLevelCross AUDUSD,M15: removed
+0	17:59:44.045	Custom indicator CPRLevels AUDUSD,M15: removed

@@ -72455,3 +72455,1435 @@
 0	11:47:55.275	CPR AUDCAD,M5: initialized
 0	11:48:42.347	CPR AUDCAD,M5: uninit reason 9
 0	11:48:42.439	Custom indicator CPR AUDCAD,M5: removed
+0	11:48:51.780	Custom indicator CPR AUDCAD,M5: loaded successfully
+0	11:48:51.793	CPR AUDCAD,M5: initialized
+0	11:52:02.209	CPR AUDCAD,M5: uninit reason 2
+0	11:52:02.211	Custom indicator CPR AUDCAD,M5: removed
+0	11:52:02.221	Custom indicator CPR AUDCAD,M5: loaded successfully
+0	11:52:02.233	CPR AUDCAD,M5: initialized
+0	11:52:22.343	CPR AUDCAD,M5: uninit reason 2
+0	11:52:22.345	Custom indicator CPR AUDCAD,M5: removed
+0	11:52:22.356	Custom indicator CPR AUDCAD,M5: loaded successfully
+0	11:52:22.372	CPR AUDCAD,M5: initialized
+0	11:56:53.312	CPR AUDCAD,M5: uninit reason 2
+0	11:56:53.314	Custom indicator CPR AUDCAD,M5: removed
+0	11:56:53.324	Custom indicator CPR AUDCAD,M5: loaded successfully
+0	11:56:53.339	CPR AUDCAD,M5: initialized
+0	11:57:19.897	Expert CPRLevelCross AUDCAD,M5: loaded successfully
+0	11:57:20.768	CPRLevelCross AUDCAD,M5 inputs: lotSize=0.1; RR=2.0; LossPips=25; 
+0	11:57:20.804	CPRLevelCross AUDCAD,M5: Starting the strategy
+0	11:57:20.805	CPRLevelCross AUDCAD,M5: initialized
+0	11:57:21.060	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:22.014	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:22.470	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:23.617	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:24.036	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:24.442	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:24.856	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:25.103	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:25.481	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:25.530	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:25.982	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:28.848	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:29.100	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:30.010	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:30.461	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:32.101	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:32.454	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:35.070	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:35.441	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:37.021	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:40.689	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:42.776	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:42.962	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:43.607	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:43.964	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:44.047	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:44.430	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:44.520	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:44.949	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:44.994	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:46.066	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:47.494	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:47.966	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:50.272	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:50.926	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:53.528	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:53.958	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:54.474	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:55.000	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:55.252	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:55.901	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:56.248	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:56.501	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:58.323	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:58.604	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:59.014	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:59.447	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:59.503	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:57:59.957	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:07.185	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:10.570	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:10.962	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:12.820	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:13.027	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:13.529	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:14.036	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:14.596	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:15.356	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:18.084	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:18.513	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:18.973	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:20.738	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:25.595	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:25.962	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:29.142	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:29.506	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:30.402	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:31.432	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:31.554	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:32.005	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:33.652	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:39.768	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:40.008	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:40.515	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:44.245	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:44.538	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:47.644	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:48.022	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:48.603	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:49.000	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:49.064	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:49.459	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:49.596	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:50.035	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:50.495	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:51.118	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:51.493	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:52.194	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:53.600	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:54.028	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:54.103	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:54.623	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:55.638	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:56.026	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:56.868	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:58:58.399	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:00.019	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:00.472	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:02.052	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:03.868	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:05.866	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:06.403	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:09.145	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:10.118	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:10.513	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:10.885	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:12.379	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:12.500	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:12.808	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:13.011	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:14.607	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:15.001	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:15.555	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:16.201	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:18.902	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:19.004	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:21.893	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:22.022	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:22.147	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:22.526	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:23.211	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:23.576	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:25.651	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:26.222	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:26.525	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:26.582	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:27.022	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:27.338	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:27.521	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:28.282	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:29.772	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:31.099	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:31.526	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:32.779	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:33.025	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:34.973	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:35.568	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:36.039	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:36.699	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:37.048	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:37.841	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:38.509	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:41.005	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:44.429	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:44.565	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:45.440	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:45.624	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:46.048	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:47.414	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:48.616	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:49.016	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:49.878	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:50.061	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:50.574	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:52.512	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:55.766	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:58.505	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:59.002	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:59.054	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:59.519	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:59:59.902	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:00.032	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:00.087	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:00.522	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:01.979	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:04.187	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:04.591	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:04.705	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:05.082	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:07.374	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:07.539	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:08.733	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:09.053	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:09.111	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:09.551	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:10.347	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:12.272	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:12.526	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:12.590	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:13.042	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:13.348	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:13.527	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:15.237	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:16.613	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:17.052	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:17.223	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:18.287	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:18.632	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:19.035	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:19.536	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:20.870	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:21.059	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:21.374	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:21.549	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:21.612	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:22.798	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:23.058	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:23.361	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:25.739	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:26.050	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:26.099	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:26.550	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:27.124	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:28.656	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:29.035	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:31.386	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:31.578	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:32.585	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:33.264	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:33.577	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:34.406	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:34.604	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:34.982	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:35.364	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:35.867	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:36.235	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:36.537	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:38.381	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:45.474	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:46.825	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:47.068	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:47.958	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:48.987	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:49.043	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:49.087	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:49.571	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:49.899	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:50.436	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:50.554	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:50.616	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:51.710	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:52.092	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:52.589	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:53.069	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:53.570	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:53.906	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:54.093	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:54.199	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:54.581	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:55.228	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:55.973	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:58.892	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:59.080	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:59.592	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:00:59.620	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:00.073	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:00.262	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:01.796	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:02.106	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:03.688	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:04.061	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:04.394	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:07.017	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:07.216	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:09.365	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:09.691	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:10.056	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:10.915	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:11.420	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:12.994	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:13.054	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:13.127	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:13.565	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:16.222	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:16.608	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:17.466	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:18.720	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:20.399	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:20.592	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:21.324	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:21.574	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:21.822	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:22.074	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:23.407	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:24.292	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:24.593	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:24.713	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:25.966	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:26.087	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:26.582	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:26.652	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:27.084	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:27.145	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:27.592	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:32.387	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:32.639	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:33.138	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:33.616	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:36.866	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:37.102	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:39.973	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:40.115	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:40.238	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:40.619	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:42.830	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:43.085	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:43.139	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:43.581	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:46.486	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:46.622	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:48.536	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:48.627	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:49.623	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:51.708	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:52.122	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:52.824	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:53.132	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:53.625	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:53.999	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:54.299	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:54.628	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:54.680	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:55.261	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:55.632	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:56.066	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:56.330	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:01:59.324	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:00.250	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:06.146	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:10.350	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:10.604	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:13.714	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:14.168	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:15.294	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:16.102	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:16.598	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:16.726	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:17.102	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:17.348	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:17.600	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:17.786	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:18.452	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:18.870	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:19.823	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:20.124	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:20.425	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:21.293	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:21.663	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:22.169	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:24.532	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:25.948	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:26.690	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:27.164	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:27.220	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:27.671	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:28.154	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:28.948	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:30.548	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:34.736	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:35.169	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:38.143	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:38.625	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:41.263	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:41.625	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:43.873	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:44.120	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:44.516	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:44.787	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:45.460	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:45.649	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:47.134	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:49.520	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:51.232	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:51.658	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:51.838	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:52.145	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:52.198	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:52.661	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:53.260	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:56.328	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:56.772	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:57.184	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:02:58.147	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:00.021	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:00.895	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:01.141	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:01.645	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:02.143	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:02.203	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:02.638	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:03.040	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:03.287	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:05.249	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:06.531	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:09.140	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:09.669	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:11.500	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:11.739	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:12.183	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:13.670	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:16.814	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:17.293	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:18.455	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:18.644	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:19.404	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:19.621	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:19.823	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:20.171	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:20.473	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:21.740	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:26.596	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:26.744	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:26.756	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:27.682	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:29.873	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:32.383	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:32.652	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:38.352	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:38.719	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:40.312	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:40.696	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:41.443	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:41.682	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:41.998	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:47.122	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:47.630	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:50.429	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:51.397	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:51.711	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:51.836	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:54.381	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:55.570	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:55.823	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:56.844	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:03:57.154	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:00.683	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:02.245	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:02.680	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:03.195	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:05.824	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:06.205	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:06.701	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:08.249	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:08.645	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:08.707	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:09.870	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:10.165	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:10.299	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:12.358	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:12.670	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:12.722	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:13.168	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:14.042	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:14.281	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:15.120	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:15.480	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:15.729	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:16.175	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:17.388	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:18.436	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:26.438	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:26.702	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:27.087	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:27.395	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:27.838	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:31.091	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:32.607	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:32.741	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:33.817	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:34.243	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:34.631	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:34.690	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:35.855	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:36.236	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:37.927	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:38.214	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:39.651	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:39.981	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:40.226	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:40.405	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:42.181	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:42.546	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:42.917	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:43.693	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:45.230	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:55.656	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:56.113	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:04:59.832	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:00.222	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:01.731	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:05.340	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:05.719	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:05.762	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:06.201	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:06.696	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:07.211	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:07.907	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:08.875	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:09.319	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:09.703	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:10.462	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:11.210	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:11.391	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:11.697	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:11.894	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:12.211	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:12.863	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:17.163	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:18.072	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:18.859	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:19.797	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:20.924	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:21.752	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:22.405	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:22.731	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:23.793	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:28.245	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:28.740	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:29.196	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:32.348	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:33.543	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:35.452	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:35.748	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:36.375	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:37.460	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:39.620	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:40.531	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:40.792	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:43.340	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:43.718	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:45.227	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:45.285	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:45.726	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:46.849	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:47.240	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:49.269	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:52.326	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:56.224	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:56.283	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:56.729	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:57.571	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:57.761	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:05:58.978	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:00.769	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:01.237	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:05.153	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:05.279	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:05.528	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:06.334	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:06.782	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:06.834	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:07.932	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:10.741	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:19.351	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:19.961	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:21.119	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:25.918	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:26.235	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:29.159	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:29.261	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:29.309	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:29.767	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:29.846	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:30.271	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:30.580	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:30.781	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:30.979	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:31.274	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:32.033	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:32.296	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:32.363	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:32.748	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:33.925	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:34.702	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:34.769	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:35.281	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:35.726	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:35.776	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:37.232	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:39.368	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:39.781	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:41.843	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:42.305	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:43.658	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:43.986	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:44.592	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:44.872	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:48.535	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:48.781	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:48.909	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:49.604	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:49.871	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:50.394	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:51.860	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:52.280	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:52.353	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:52.795	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:53.086	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:55.224	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:55.288	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:55.779	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:56.271	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:56.762	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:57.658	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:57.774	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:58.012	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:58.294	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:06:58.483	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:07:01.727	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:07:02.280	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:07:03.025	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:07:03.277	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:07:08.487	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:07:10.141	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:07:11.070	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:07:12.374	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:07:12.754	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:07:18.990	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:07:19.659	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:07:21.441	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:07:21.817	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:07:23.874	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:07:26.371	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:07:28.345	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:07:29.315	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:07:29.830	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:07:29.944	CPRLevelCross AUDCAD,M5: uninit reason 3
+0	12:07:29.947	CPR AUDCAD,M5: uninit reason 3
+0	12:07:29.966	CPR AUDCAD,M30: initialized
+0	12:07:30.202	CPRLevelCross AUDCAD,M30: Starting the strategy
+0	12:07:30.211	CPRLevelCross AUDCAD,M30: initialized
+0	12:07:31.955	CPRLevelCross AUDCAD,M30: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:07:32.287	CPRLevelCross AUDCAD,M30: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:07:32.446	CPRLevelCross AUDCAD,M30: uninit reason 3
+0	12:07:32.459	CPR AUDCAD,M30: uninit reason 3
+0	12:07:32.478	CPR AUDCAD,H1: initialized
+0	12:07:32.715	CPRLevelCross AUDCAD,H1: Starting the strategy
+0	12:07:32.716	CPRLevelCross AUDCAD,H1: initialized
+0	12:07:34.918	CPRLevelCross AUDCAD,H1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:07:35.291	CPRLevelCross AUDCAD,H1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:07:37.698	CPRLevelCross AUDCAD,H1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:07:48.966	CPRLevelCross AUDCAD,H1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:07:49.270	CPRLevelCross AUDCAD,H1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:07:49.532	CPRLevelCross AUDCAD,H1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:07:49.832	CPRLevelCross AUDCAD,H1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:07:52.011	CPRLevelCross AUDCAD,H1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:07:52.630	CPRLevelCross AUDCAD,H1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:07:53.291	CPRLevelCross AUDCAD,H1: uninit reason 3
+0	12:07:53.304	CPR AUDCAD,H1: uninit reason 3
+0	12:07:53.322	CPR AUDCAD,M15: initialized
+0	12:07:53.563	CPRLevelCross AUDCAD,M15: Starting the strategy
+0	12:07:53.564	CPRLevelCross AUDCAD,M15: initialized
+0	12:07:56.678	CPRLevelCross AUDCAD,M15: uninit reason 3
+0	12:07:56.685	CPR AUDCAD,M15: uninit reason 3
+0	12:07:56.685	CPR AUDCAD,M5: initialized
+0	12:07:56.685	CPRLevelCross AUDCAD,M5: Starting the strategy
+0	12:07:56.686	CPRLevelCross AUDCAD,M5: initialized
+0	12:07:57.605	CPRLevelCross AUDCAD,M5: uninit reason 3
+0	12:07:57.613	CPR AUDCAD,M5: uninit reason 3
+0	12:07:57.614	CPR AUDCAD,M1: initialized
+0	12:07:57.866	CPRLevelCross AUDCAD,M1: Starting the strategy
+0	12:07:57.867	CPRLevelCross AUDCAD,M1: initialized
+0	12:07:58.340	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:07:58.813	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:00.986	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:02.742	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:02.799	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:02.960	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:03.295	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:04.760	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:04.838	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:05.314	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:06.599	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:06.849	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:07.282	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:07.370	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:09.205	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:10.244	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:10.478	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:11.065	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:12.371	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:12.808	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:14.851	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:15.295	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:17.005	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:18.015	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:18.302	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:18.373	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:18.843	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:19.026	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:19.299	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:20.040	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:20.787	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:20.830	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:21.266	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:21.327	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:24.594	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:28.525	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:29.410	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:29.798	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:29.970	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:30.291	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:30.658	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:30.795	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:30.916	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:31.294	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:31.605	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:33.015	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:33.356	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:34.894	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:36.617	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:39.687	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:40.641	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:42.161	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:42.299	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:42.980	CPRLevelCross AUDCAD,M1: uninit reason 3
+0	12:08:42.995	CPR AUDCAD,M1: uninit reason 3
+0	12:08:42.995	CPR AUDCAD,M5: initialized
+0	12:08:42.995	CPRLevelCross AUDCAD,M5: Starting the strategy
+0	12:08:42.996	CPRLevelCross AUDCAD,M5: initialized
+0	12:08:43.213	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:43.536	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:43.809	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:44.667	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:44.867	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:45.419	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:45.853	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:46.460	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:46.868	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:47.343	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:48.830	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:52.668	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:53.177	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:54.264	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:54.339	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:55.552	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:55.834	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:56.008	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:08:56.313	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:00.446	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:00.846	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:02.136	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:02.322	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:04.223	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:07.010	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:07.394	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:07.905	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:10.568	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:12.435	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:12.797	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:12.939	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:13.962	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:15.667	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:17.365	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:17.816	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:18.440	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:18.826	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:20.306	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:20.369	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:20.849	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:25.415	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:25.837	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:27.986	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:29.563	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:29.870	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:30.060	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:30.325	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:34.717	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:34.965	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:35.529	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:36.706	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:36.928	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:37.559	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:37.869	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:38.081	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:38.579	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:38.797	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:38.977	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:39.324	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:39.510	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:40.143	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:40.612	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:42.302	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:42.555	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:43.487	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:46.118	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:46.385	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:48.982	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:49.372	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:49.883	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:50.724	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:51.442	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:55.196	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:55.390	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:55.572	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:55.860	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:55.922	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:56.360	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:57.623	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:09:59.686	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:00.700	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:01.211	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:04.534	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:04.884	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:06.586	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:07.633	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:08.257	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:08.441	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:09.614	CPRLevelCross AUDCAD,M5: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:10.415	CPRLevelCross AUDCAD,M5: uninit reason 3
+0	12:10:10.430	CPR AUDCAD,M5: uninit reason 3
+0	12:10:10.430	CPR AUDCAD,M1: initialized
+0	12:10:10.430	CPRLevelCross AUDCAD,M1: Starting the strategy
+0	12:10:10.431	CPRLevelCross AUDCAD,M1: initialized
+0	12:10:11.607	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:11.863	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:12.502	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:12.868	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:12.997	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:13.672	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:14.686	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:14.880	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:15.385	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:16.671	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:16.860	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:18.204	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:19.575	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:19.893	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:22.008	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:22.390	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:34.514	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:34.864	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:37.347	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:37.396	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:38.617	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:38.863	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:39.876	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:40.370	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:40.614	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:40.852	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:40.918	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:41.565	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:41.901	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:45.548	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:45.845	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:46.510	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:54.012	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:54.332	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:54.382	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:54.872	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:55.310	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:55.426	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:56.197	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:56.527	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:57.089	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:57.393	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:57.659	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:10:59.757	CPRLevelCross AUDCAD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	12:11:01.284	CPRLevelCross AUDCAD,M1: uninit reason 1
+0	12:11:01.290	Expert CPRLevelCross AUDCAD,M1: removed
+0	12:11:08.650	Custom indicator CPR AUDCAD,M1: loaded successfully
+0	12:11:10.613	CPR AUDCAD,M1: initialized
+0	12:11:37.990	CPR AUDCAD,M1: uninit reason 2
+0	12:11:37.992	Custom indicator CPR AUDCAD,M1: removed
+0	12:11:38.006	Custom indicator CPR AUDCAD,M1: loaded successfully
+0	12:11:38.025	CPR AUDCAD,M1: initialized
+0	12:11:38.025	CPR AUDCAD,M1: uninit reason 2
+0	12:11:38.028	Custom indicator CPR AUDCAD,M1: removed
+0	12:11:38.042	Custom indicator CPR AUDCAD,M1: loaded successfully
+0	12:11:38.053	CPR AUDCAD,M1: initialized
+0	12:12:33.342	CPR AUDCAD,M1: uninit reason 2
+0	12:12:33.343	Custom indicator CPR AUDCAD,M1: removed
+0	12:12:33.352	Custom indicator CPR AUDCAD,M1: loaded successfully
+0	12:12:33.366	CPR AUDCAD,M1: initialized
+0	12:12:33.366	CPR AUDCAD,M1: uninit reason 2
+0	12:12:33.368	Custom indicator CPR AUDCAD,M1: removed
+0	12:12:33.380	Custom indicator CPR AUDCAD,M1: loaded successfully
+0	12:12:33.398	CPR AUDCAD,M1: initialized
+0	12:12:41.280	CPR AUDCAD,M1: uninit reason 2
+0	12:12:41.282	Custom indicator CPR AUDCAD,M1: removed
+0	12:12:41.292	Custom indicator CPR AUDCAD,M1: loaded successfully
+0	12:12:41.306	CPR AUDCAD,M1: initialized
+0	12:12:41.306	CPR AUDCAD,M1: uninit reason 2
+0	12:12:41.308	Custom indicator CPR AUDCAD,M1: removed
+0	12:12:41.322	Custom indicator CPR AUDCAD,M1: loaded successfully
+0	12:12:41.338	CPR AUDCAD,M1: initialized
+0	12:12:56.290	CPR AUDCAD,M1: uninit reason 2
+0	12:12:56.293	Custom indicator CPR AUDCAD,M1: removed
+0	12:12:56.301	Custom indicator CPR AUDCAD,M1: loaded successfully
+0	12:12:56.314	CPR AUDCAD,M1: initialized
+0	12:12:56.315	CPR AUDCAD,M1: uninit reason 2
+0	12:12:56.317	Custom indicator CPR AUDCAD,M1: removed
+0	12:12:56.325	Custom indicator CPR AUDCAD,M1: loaded successfully
+0	12:12:56.337	CPR AUDCAD,M1: initialized
+0	12:16:57.278	CPR AUDCAD,M1: uninit reason 2
+0	12:16:57.279	Custom indicator CPR AUDCAD,M1: removed
+0	12:16:57.289	Custom indicator CPR AUDCAD,M1: loaded successfully
+0	12:16:57.305	CPR AUDCAD,M1: initialized
+0	12:16:57.307	CPR AUDCAD,M1: uninit reason 2
+0	12:16:57.309	Custom indicator CPR AUDCAD,M1: removed
+0	12:16:57.321	Custom indicator CPR AUDCAD,M1: loaded successfully
+0	12:16:57.339	CPR AUDCAD,M1: initialized
+0	12:17:23.889	CPR AUDCAD,M1: uninit reason 2
+0	12:17:23.891	Custom indicator CPR AUDCAD,M1: removed
+0	12:17:23.902	Custom indicator CPR AUDCAD,M1: loaded successfully
+0	12:17:23.917	CPR AUDCAD,M1: initialized
+0	12:17:23.919	CPR AUDCAD,M1: uninit reason 2
+0	12:17:23.920	Custom indicator CPR AUDCAD,M1: removed
+0	12:17:23.931	Custom indicator CPR AUDCAD,M1: loaded successfully
+0	12:17:23.945	CPR AUDCAD,M1: initialized
+0	12:18:34.975	CPR AUDCAD,M1: uninit reason 2
+0	12:18:34.976	Custom indicator CPR AUDCAD,M1: removed
+0	12:18:34.985	Custom indicator CPR AUDCAD,M1: loaded successfully
+0	12:18:35.000	CPR AUDCAD,M1: initialized
+0	12:18:35.002	CPR AUDCAD,M1: uninit reason 2
+0	12:18:35.004	Custom indicator CPR AUDCAD,M1: removed
+0	12:18:35.014	Custom indicator CPR AUDCAD,M1: loaded successfully
+0	12:18:35.029	CPR AUDCAD,M1: initialized
+0	12:18:47.488	CPR AUDCAD,M1: uninit reason 3
+0	12:18:47.488	CPR AUDCAD,M1: uninit reason 3
+0	12:18:47.503	CPR USDJPY,M1: initialized
+0	12:18:47.504	CPR USDJPY,M1: initialized
+0	12:18:53.831	CPR USDJPY,M1: uninit reason 3
+0	12:18:53.831	CPR USDJPY,M1: uninit reason 3
+0	12:18:53.831	CPR USDJPY,M5: initialized
+0	12:18:53.831	CPR USDJPY,M5: initialized
+0	12:19:09.078	CPR USDJPY,M5: uninit reason 1
+0	12:19:09.081	Custom indicator CPR USDJPY,M5: removed
+0	12:19:10.551	CPR USDJPY,M5: uninit reason 1
+0	12:19:10.554	Custom indicator CPR USDJPY,M5: removed
+0	12:19:14.661	Custom indicator CPR USDJPY,M5: loaded successfully
+0	12:19:15.813	CPR USDJPY,M5: initialized
+0	12:21:54.141	Compiling 'CPR_1'
+0	12:22:00.559	Custom indicator CPRLevels USDJPY,M5: loaded successfully
+0	12:22:01.379	CPRLevels USDJPY,M5: initialized
+0	12:23:53.495	CPRLevels USDJPY,M5: uninit reason 2
+0	12:23:53.497	Custom indicator CPRLevels USDJPY,M5: removed
+0	12:23:53.508	Custom indicator CPRLevels USDJPY,M5: loaded successfully
+0	12:23:53.527	CPRLevels USDJPY,M5: initialized
+1	12:23:53.527	CPRLevels USDJPY,M5: array out of range in 'CPRLevels.mq4' (66,19)
+0	12:24:35.431	CPRLevels USDJPY,M5: uninit reason 2
+0	12:24:35.433	Custom indicator CPRLevels USDJPY,M5: removed
+0	12:24:35.442	Custom indicator CPRLevels USDJPY,M5: loaded successfully
+0	12:24:35.455	CPRLevels USDJPY,M5: initialized
+0	12:24:49.865	CPR USDJPY,M5: uninit reason 3
+0	12:24:49.865	CPRLevels USDJPY,M5: uninit reason 3
+0	12:24:49.865	CPR USDJPY,Daily: initialized
+0	12:24:49.865	CPRLevels USDJPY,Daily: initialized
+0	12:25:21.053	CPRLevels USDJPY,Daily: uninit reason 2
+0	12:25:21.055	Custom indicator CPRLevels USDJPY,Daily: removed
+0	12:25:21.066	Custom indicator CPRLevels USDJPY,Daily: loaded successfully
+0	12:25:21.082	CPRLevels USDJPY,Daily: initialized
+0	12:25:24.169	CPR USDJPY,Daily: uninit reason 3
+0	12:25:24.169	CPRLevels USDJPY,Daily: uninit reason 3
+0	12:25:24.170	CPR USDJPY,M5: initialized
+0	12:25:24.170	CPRLevels USDJPY,M5: initialized
+0	12:25:39.965	CPR USDJPY,M5: uninit reason 3
+0	12:25:39.965	CPRLevels USDJPY,M5: uninit reason 3
+0	12:25:39.965	CPR USDJPY,Daily: initialized
+0	12:25:39.965	CPRLevels USDJPY,Daily: initialized
+0	12:26:14.111	CPRLevels USDJPY,Daily: uninit reason 2
+0	12:26:14.113	Custom indicator CPRLevels USDJPY,Daily: removed
+0	12:26:14.122	Custom indicator CPRLevels USDJPY,Daily: loaded successfully
+0	12:26:14.134	CPRLevels USDJPY,Daily: initialized
+0	12:26:26.808	CPR USDJPY,Daily: uninit reason 3
+0	12:26:26.808	CPRLevels USDJPY,Daily: uninit reason 3
+0	12:26:26.808	CPR USDJPY,M5: initialized
+0	12:26:26.808	CPRLevels USDJPY,M5: initialized
+0	12:33:41.428	CPRLevels USDJPY,M5: uninit reason 2
+0	12:33:41.430	Custom indicator CPRLevels USDJPY,M5: removed
+0	12:33:41.440	Custom indicator CPRLevels USDJPY,M5: loaded successfully
+0	12:33:41.452	CPRLevels USDJPY,M5: initialized
+0	12:33:54.997	CPR USDJPY,M5: uninit reason 3
+0	12:33:54.997	CPRLevels USDJPY,M5: uninit reason 3
+0	12:33:55.011	CPR USDJPY,M30: initialized
+0	12:33:55.011	CPRLevels USDJPY,M30: initialized
+0	12:34:31.259	CPR USDJPY,M30: uninit reason 3
+0	12:34:31.259	CPRLevels USDJPY,M30: uninit reason 3
+0	12:34:31.284	CPR USDJPY,H4: initialized
+0	12:34:31.284	CPRLevels USDJPY,H4: initialized
+0	12:34:38.403	CPR USDJPY,H4: uninit reason 3
+0	12:34:38.403	CPRLevels USDJPY,H4: uninit reason 3
+0	12:34:38.403	CPR USDJPY,M1: initialized
+0	12:34:38.403	CPRLevels USDJPY,M1: initialized
+0	12:34:40.804	CPR USDJPY,M1: uninit reason 3
+0	12:34:40.804	CPRLevels USDJPY,M1: uninit reason 3
+0	12:34:40.804	CPR USDJPY,M15: initialized
+0	12:34:40.805	CPRLevels USDJPY,M15: initialized
+0	12:34:50.102	CPR USDJPY,M15: uninit reason 1
+0	12:34:50.104	Custom indicator CPR USDJPY,M15: removed
+0	12:36:53.233	CPRLevels USDJPY,M15: uninit reason 2
+0	12:36:53.235	Custom indicator CPRLevels USDJPY,M15: removed
+0	12:36:53.244	Custom indicator CPRLevels USDJPY,M15: loaded successfully
+0	12:36:53.255	CPRLevels USDJPY,M15: initialized
+0	12:43:39.697	CPRLevels USDJPY,M15: uninit reason 2
+0	12:43:39.699	Custom indicator CPRLevels USDJPY,M15: removed
+0	12:43:39.709	Custom indicator CPRLevels USDJPY,M15: loaded successfully
+0	12:43:39.726	CPRLevels USDJPY,M15: initialized
+0	12:45:10.583	CPRLevels USDJPY,M15: uninit reason 2
+0	12:45:10.584	Custom indicator CPRLevels USDJPY,M15: removed
+0	12:45:10.595	Custom indicator CPRLevels USDJPY,M15: loaded successfully
+0	12:45:10.610	CPRLevels USDJPY,M15: initialized
+0	12:45:25.232	CPRLevels USDJPY,M15: uninit reason 3
+0	12:45:25.232	CPRLevels USDJPY,M5: initialized
+0	12:45:26.715	CPRLevels USDJPY,M5: uninit reason 3
+0	12:45:26.716	CPRLevels USDJPY,M1: initialized
+0	12:46:04.825	CPRLevels USDJPY,M1: uninit reason 2
+0	12:46:04.826	Custom indicator CPRLevels USDJPY,M1: removed
+0	12:46:04.838	Custom indicator CPRLevels USDJPY,M1: loaded successfully
+0	12:46:04.853	CPRLevels USDJPY,M1: initialized
+0	12:46:30.510	CPRLevels USDJPY,M1: uninit reason 2
+0	12:46:30.511	Custom indicator CPRLevels USDJPY,M1: removed
+0	12:46:30.522	Custom indicator CPRLevels USDJPY,M1: loaded successfully
+0	12:46:30.537	CPRLevels USDJPY,M1: initialized
+0	12:49:51.565	CPRLevels USDJPY,M1: uninit reason 2
+0	12:49:51.566	Custom indicator CPRLevels USDJPY,M1: removed
+0	12:49:51.576	Custom indicator CPRLevels USDJPY,M1: loaded successfully
+0	12:49:51.592	CPRLevels USDJPY,M1: initialized
+0	12:50:03.492	CPRLevels USDJPY,M1: uninit reason 3
+0	12:50:03.492	CPRLevels USDJPY,M5: initialized
+0	12:59:44.460	CPRLevels USDJPY,M5: uninit reason 2
+0	12:59:44.461	Custom indicator CPRLevels USDJPY,M5: removed
+0	12:59:44.471	Custom indicator CPRLevels USDJPY,M5: loaded successfully
+0	12:59:44.486	CPRLevels USDJPY,M5: initialized
+0	13:01:02.167	CPRLevels USDJPY,M5: uninit reason 2
+0	13:01:02.169	Custom indicator CPRLevels USDJPY,M5: removed
+0	13:01:02.179	Custom indicator CPRLevels USDJPY,M5: loaded successfully
+0	13:01:02.192	CPRLevels USDJPY,M5: initialized
+0	13:02:15.026	CPRLevels USDJPY,M5: uninit reason 2
+0	13:02:15.028	Custom indicator CPRLevels USDJPY,M5: removed
+0	13:02:15.038	Custom indicator CPRLevels USDJPY,M5: loaded successfully
+0	13:02:15.055	CPRLevels USDJPY,M5: initialized
+0	13:06:27.890	CPRLevels USDJPY,M5: uninit reason 2
+0	13:06:27.892	Custom indicator CPRLevels USDJPY,M5: removed
+0	13:06:27.902	Custom indicator CPRLevels USDJPY,M5: loaded successfully
+0	13:06:27.917	CPRLevels USDJPY,M5: initialized
+0	13:15:24.358	CPRLevels USDJPY,M5: uninit reason 2
+0	13:15:24.360	Custom indicator CPRLevels USDJPY,M5: removed
+0	13:15:24.376	Custom indicator CPRLevels USDJPY,M5: loaded successfully
+0	13:15:24.398	CPRLevels USDJPY,M5: initialized
+0	13:19:03.281	CPRLevels USDJPY,M5: uninit reason 2
+0	13:19:03.282	Custom indicator CPRLevels USDJPY,M5: removed
+0	13:19:03.291	Custom indicator CPRLevels USDJPY,M5: loaded successfully
+0	13:19:03.304	CPRLevels USDJPY,M5: initialized
+0	13:20:06.661	CPRLevels USDJPY,M5: uninit reason 2
+0	13:20:06.662	Custom indicator CPRLevels USDJPY,M5: removed
+0	13:20:06.671	Custom indicator CPRLevels USDJPY,M5: loaded successfully
+0	13:20:06.684	CPRLevels USDJPY,M5: initialized
+0	13:28:12.450	CPRLevels USDJPY,M5: uninit reason 2
+0	13:28:12.452	Custom indicator CPRLevels USDJPY,M5: removed
+0	13:28:12.461	Custom indicator CPRLevels USDJPY,M5: loaded successfully
+0	13:28:12.472	CPRLevels USDJPY,M5: initialized
+0	13:28:17.695	CPRLevels USDJPY,M5: uninit reason 2
+0	13:28:17.697	Custom indicator CPRLevels USDJPY,M5: removed
+0	13:28:17.707	Custom indicator CPRLevels USDJPY,M5: loaded successfully
+0	13:28:17.722	CPRLevels USDJPY,M5: initialized
+0	13:28:35.700	CPRLevels USDJPY,M5: uninit reason 2
+0	13:28:35.702	Custom indicator CPRLevels USDJPY,M5: removed
+0	13:28:35.713	Custom indicator CPRLevels USDJPY,M5: loaded successfully
+0	13:28:35.727	CPRLevels USDJPY,M5: initialized
+0	13:29:23.366	CPRLevels USDJPY,M5: uninit reason 3
+0	13:29:23.386	CPRLevels EURUSD,M5: initialized
+0	13:31:54.057	CPRLevels EURUSD,M5: uninit reason 3
+0	13:31:54.059	CPRLevels EURUSD,M1: initialized
+0	13:32:11.899	CPRLevels EURUSD,M1: uninit reason 3
+0	13:32:11.900	CPRLevels USDJPY,M1: initialized
+0	13:32:20.521	CPRLevels USDJPY,M1: uninit reason 3
+0	13:32:20.521	CPRLevels EURUSD,M1: initialized
+0	13:32:26.776	CPRLevels EURUSD,M1: uninit reason 3
+0	13:32:26.777	CPRLevels EURJPY,M1: initialized
+0	13:32:29.471	CPRLevels EURJPY,M1: uninit reason 3
+0	13:32:29.471	CPRLevels AUDUSD,M1: initialized
+0	13:32:32.757	CPRLevels AUDUSD,M1: uninit reason 3
+0	13:32:32.773	CPRLevels GBPUSD,M1: initialized
+0	13:33:06.018	CPRLevels GBPUSD,M1: uninit reason 3
+0	13:33:06.019	CPRLevels DE30EUR,M1: initialized
+0	13:33:09.579	CPRLevels DE30EUR,M1: uninit reason 3
+0	13:33:09.580	CPRLevels USDCHF,M1: initialized
+0	13:46:30.601	CPRLevels USDCHF,M1: uninit reason 3
+0	13:46:30.620	CPRLevels USDCHF,M30: initialized
+0	13:46:58.281	CPRLevels USDCHF,M30: uninit reason 3
+0	13:46:58.302	CPRLevels USDCHF,M5: initialized
+0	13:53:40.089	CPRLevels USDCHF,M5: uninit reason 3
+0	13:53:40.089	CPRLevels USDCHF,M1: initialized
+0	13:53:43.491	CPRLevels USDCHF,M1: uninit reason 3
+0	13:53:43.491	CPRLevels USDCHF,M5: initialized
+0	15:33:52.284	CPRLevels USDCHF,M5: uninit reason 3
+0	15:33:52.285	CPRLevels USDCHF,M1: initialized
+0	15:40:01.436	CPRLevels USDCHF,M1: uninit reason 3
+0	15:40:01.438	CPRLevels EURUSD,M1: initialized
+0	15:40:50.740	CPRLevels EURUSD,M1: uninit reason 3
+0	15:40:50.740	CPRLevels USDJPY,M1: initialized
+0	15:41:33.754	CPRLevels USDJPY,M1: uninit reason 3
+0	15:41:33.754	CPRLevels EURJPY,M1: initialized
+0	15:42:02.863	CPRLevels EURJPY,M1: uninit reason 3
+0	15:42:02.863	CPRLevels AUDUSD,M1: initialized
+0	15:42:08.048	CPRLevels AUDUSD,M1: uninit reason 3
+0	15:42:08.048	CPRLevels GBPUSD,M1: initialized
+0	15:42:11.176	CPRLevels GBPUSD,M1: uninit reason 3
+0	15:42:11.177	CPRLevels BCOUSD,M1: initialized
+0	15:42:13.194	CPRLevels BCOUSD,M1: uninit reason 3
+0	15:42:13.194	CPRLevels DE30EUR,M1: initialized
+0	15:42:15.324	CPRLevels DE30EUR,M1: uninit reason 3
+0	15:42:15.324	CPRLevels USDCHF,M1: initialized
+0	15:42:18.285	CPRLevels USDCHF,M1: uninit reason 3
+0	15:42:18.285	CPRLevels AUDCAD,M1: initialized
+0	15:48:58.207	CPRLevels AUDCAD,M1: uninit reason 3
+0	15:48:58.208	CPRLevels AUDCAD,M15: initialized
+0	16:10:58.298	CPRLevels AUDCAD,M15: uninit reason 3
+0	16:10:58.298	CPRLevels AUDCAD,M1: initialized
+0	16:23:08.812	CPRLevels AUDCAD,M1: uninit reason 3
+0	16:23:08.812	CPRLevels AUDCAD,M30: initialized
+0	16:23:14.960	CPRLevels AUDCAD,M30: uninit reason 3
+0	16:23:14.960	CPRLevels AUDCAD,M15: initialized
+0	16:23:26.973	CPRLevels AUDCAD,M15: uninit reason 3
+0	16:23:26.974	CPRLevels AUDCAD,M5: initialized
+0	16:23:27.885	CPRLevels AUDCAD,M5: uninit reason 3
+0	16:23:27.885	CPRLevels AUDCAD,M1: initialized
+0	16:26:15.109	CPRLevels AUDCAD,M1: uninit reason 3
+0	16:26:15.109	CPRLevels AUDCAD,M15: initialized
+0	16:29:12.160	CPRLevels AUDCAD,M15: uninit reason 3
+0	16:29:12.160	CPRLevels AUDCAD,M1: initialized
+0	16:29:37.454	CPRLevels AUDCAD,M1: uninit reason 3
+0	16:29:37.454	CPRLevels AUDCAD,M5: initialized
+0	16:29:39.697	CPRLevels AUDCAD,M5: uninit reason 3
+0	16:29:39.697	CPRLevels AUDCAD,M15: initialized
+0	20:40:20.221	CPRLevels AUDCAD,M15: uninit reason 3
+0	20:40:20.222	CPRLevels AUDCAD,M1: initialized
+0	20:40:30.142	CPRLevels AUDCAD,M1: uninit reason 3
+0	20:40:30.142	CPRLevels AUDCAD,M15: initialized
+0	20:40:33.776	CPRLevels AUDCAD,M15: uninit reason 3
+0	20:40:33.776	CPRLevels AUDCAD,M30: initialized
+0	20:40:39.343	CPRLevels AUDCAD,M30: uninit reason 3
+0	20:40:39.361	CPRLevels EURUSD,M30: initialized
+0	20:41:30.103	CPRLevels EURUSD,M30: uninit reason 3
+0	20:41:30.120	CPRLevels EURUSD,H1: initialized
+0	20:41:36.291	CPRLevels EURUSD,H1: uninit reason 3
+0	20:41:36.291	CPRLevels EURUSD,M5: initialized
+0	20:41:36.974	CPRLevels EURUSD,M5: uninit reason 3
+0	20:41:36.976	CPRLevels EURUSD,M1: initialized
+0	20:41:40.991	CPRLevels EURUSD,M1: uninit reason 3
+0	20:41:40.991	CPRLevels EURUSD,M5: initialized
+0	20:41:44.402	CPRLevels EURUSD,M5: uninit reason 3
+0	20:41:44.402	CPRLevels EURUSD,M1: initialized
+0	20:42:00.821	CPRLevels EURUSD,M1: uninit reason 3
+0	20:42:00.821	CPRLevels EURUSD,M5: initialized
+0	20:42:18.146	CPRLevels EURUSD,M5: uninit reason 3
+0	20:42:18.148	CPRLevels EURUSD,M1: initialized
+0	20:42:20.131	CPRLevels EURUSD,M1: uninit reason 3
+0	20:42:20.132	CPRLevels USDJPY,M1: initialized
+0	20:42:24.984	CPRLevels USDJPY,M1: uninit reason 3
+0	20:42:24.984	CPRLevels EURJPY,M1: initialized
+0	20:42:35.893	CPRLevels EURJPY,M1: uninit reason 3
+0	20:42:35.893	CPRLevels AUDUSD,M1: initialized
+0	20:42:43.145	CPRLevels AUDUSD,M1: uninit reason 3
+0	20:42:43.145	CPRLevels GBPUSD,M1: initialized
+0	20:45:27.830	CPRLevels GBPUSD,M1: uninit reason 3
+0	20:45:27.830	CPRLevels USDCHF,M1: initialized
+0	20:45:31.685	CPRLevels USDCHF,M1: uninit reason 3
+0	20:45:31.702	CPRLevels USDCHF,M15: initialized
+0	20:45:34.139	CPRLevels USDCHF,M15: uninit reason 3
+0	20:45:34.139	CPRLevels USDCHF,M30: initialized
+0	20:45:36.959	CPRLevels USDCHF,M30: uninit reason 3
+0	20:45:36.960	CPRLevels USDCHF,M1: initialized
+0	20:46:01.542	CPRLevels USDCHF,M1: uninit reason 3
+0	20:46:01.543	CPRLevels AUDCAD,M1: initialized
+0	20:46:13.601	CPRLevels AUDCAD,M1: uninit reason 3
+0	20:46:13.602	CPRLevels AUDCAD,M15: initialized
+0	20:46:16.566	CPRLevels AUDCAD,M15: uninit reason 3
+0	20:46:16.566	CPRLevels AUDCAD,M30: initialized
+0	20:46:22.854	CPRLevels AUDCAD,M30: uninit reason 3
+0	20:46:22.854	CPRLevels AUDCAD,H1: initialized
+0	20:46:26.314	CPRLevels AUDCAD,H1: uninit reason 3
+0	20:46:26.314	CPRLevels AUDCAD,M30: initialized
+0	20:46:27.182	CPRLevels AUDCAD,M30: uninit reason 3
+0	20:46:27.182	CPRLevels AUDCAD,M1: initialized
+0	20:46:39.859	CPRLevels AUDCAD,M1: uninit reason 3
+0	20:46:39.868	CPRLevels AUDCHF,M1: initialized
+0	20:46:42.449	CPRLevels AUDCHF,M1: uninit reason 3
+0	20:46:42.449	CPRLevels AUDHKD,M1: initialized
+0	20:46:46.096	CPRLevels AUDHKD,M1: uninit reason 3
+0	20:46:46.096	CPRLevels AUDHKD,M5: initialized
+0	20:47:08.751	CPRLevels AUDHKD,M5: uninit reason 3
+0	20:47:08.751	CPRLevels AUDJPY,M5: initialized
+0	20:47:13.209	CPRLevels AUDJPY,M5: uninit reason 3
+0	20:47:13.209	CPRLevels AUDNZD,M5: initialized
+0	20:47:17.842	CPRLevels AUDNZD,M5: uninit reason 3
+0	20:47:17.857	CPRLevels CADJPY,M5: initialized
+0	20:55:03.629	CPRLevels CADJPY,M5: uninit reason 3
+0	20:55:03.629	CPRLevels GBPCHF,M5: initialized
+0	20:55:12.328	CPRLevels GBPCHF,M5: uninit reason 3
+0	20:55:12.328	CPRLevels GBPCHF,M1: initialized
+0	20:55:17.944	CPRLevels GBPCHF,M1: uninit reason 3
+0	20:55:17.944	CPRLevels GBPCHF,H1: initialized
+0	20:55:22.892	CPRLevels GBPCHF,H1: uninit reason 3
+0	20:55:22.892	CPRLevels GBPCHF,M5: initialized
+0	20:55:24.822	CPRLevels GBPCHF,M5: uninit reason 3
+0	20:55:24.822	CPRLevels GBPCHF,M1: initialized
+0	20:55:29.687	CPRLevels GBPCHF,M1: uninit reason 3
+0	20:55:29.687	CPRLevels GBPCHF,M30: initialized
+0	20:55:39.120	CPRLevels GBPCHF,M30: uninit reason 3
+0	20:55:39.120	CPRLevels GBPCHF,M15: initialized
+0	20:56:58.822	CPRLevels GBPCHF,M15: uninit reason 3
+0	20:56:58.822	CPRLevels GBPCHF,M1: initialized
+0	20:57:03.238	CPRLevels GBPCHF,M1: uninit reason 3
+0	20:57:03.238	CPRLevels GBPCHF,M15: initialized
+0	20:57:19.074	CPRLevels GBPCHF,M15: uninit reason 3
+0	20:57:19.074	CPRLevels GBPCHF,Daily: initialized
+0	20:57:40.644	CPRLevels GBPCHF,Daily: uninit reason 3
+0	20:57:40.644	CPRLevels GBPCHF,M15: initialized
+0	20:57:45.010	CPRLevels GBPCHF,M15: uninit reason 3
+0	20:57:45.010	CPRLevels GBPCHF,M1: initialized
+0	20:58:40.082	CPRLevels GBPCHF,M1: uninit reason 3
+0	20:58:40.082	CPRLevels GBPCHF,M15: initialized
+0	20:59:42.463	CPRLevels GBPCHF,M15: uninit reason 3
+0	20:59:42.463	CPRLevels GBPCHF,M1: initialized
+0	21:00:50.311	CPRLevels GBPCHF,M1: uninit reason 3
+0	21:00:50.311	CPRLevels GBPCHF,M5: initialized
+0	21:00:52.141	CPRLevels GBPCHF,M5: uninit reason 3
+0	21:00:52.141	CPRLevels GBPCHF,M15: initialized
+0	21:00:59.054	CPRLevels GBPCHF,M15: uninit reason 3
+0	21:00:59.054	CPRLevels GBPCHF,M1: initialized
+0	21:01:55.066	CPRLevels GBPCHF,M1: uninit reason 3
+0	21:01:55.066	CPRLevels GBPCHF,H1: initialized
+0	21:01:59.514	CPRLevels GBPCHF,H1: uninit reason 3
+0	21:01:59.514	CPRLevels GBPCHF,Daily: initialized
+0	21:02:23.426	CPRLevels GBPCHF,Daily: uninit reason 3
+0	21:02:23.426	CPRLevels GBPCHF,M5: initialized
+0	21:03:56.016	CPRLevels GBPCHF,M5: uninit reason 3
+0	21:03:56.016	CPRLevels AUDCAD,M5: initialized
+0	21:03:58.746	CPRLevels AUDCAD,M5: uninit reason 3
+0	21:03:58.746	CPRLevels AUDCAD,M1: initialized
+0	21:08:44.507	CPRLevels AUDCAD,M1: uninit reason 3
+0	21:08:44.507	CPRLevels AUDCAD,M5: initialized
+0	21:09:34.348	CPRLevels AUDCAD,M5: uninit reason 3
+0	21:09:34.349	CPRLevels AUDCAD,M15: initialized
+0	21:09:35.679	CPRLevels AUDCAD,M15: uninit reason 3
+0	21:09:35.679	CPRLevels AUDCAD,M30: initialized
+0	21:09:38.730	CPRLevels AUDCAD,M30: uninit reason 3
+0	21:09:38.730	CPRLevels AUDCAD,H1: initialized
+0	21:10:07.489	CPRLevels AUDCAD,H1: uninit reason 3
+0	21:10:07.490	CPRLevels AUDCAD,M1: initialized
+0	21:16:54.079	CPRLevels AUDCAD,M1: uninit reason 3
+0	21:16:54.079	CPRLevels AUDCAD,M15: initialized
+0	21:17:01.492	CPRLevels AUDCAD,M15: uninit reason 3
+0	21:17:01.492	CPRLevels AUDCAD,M1: initialized
+0	21:23:21.805	CPRLevels AUDCAD,M1: uninit reason 3
+0	21:23:21.806	CPRLevels AUDCAD,M5: initialized
+0	21:23:24.827	CPRLevels AUDCAD,M5: uninit reason 3
+0	21:23:24.827	CPRLevels AUDCAD,M15: initialized
+0	21:23:35.266	CPRLevels AUDCAD,M15: uninit reason 3
+0	21:23:35.266	CPRLevels AUDCAD,M1: initialized
+0	21:26:32.370	CPRLevels AUDCAD,M1: uninit reason 3
+0	21:26:32.370	CPRLevels AUDCAD,M5: initialized
+0	21:30:21.273	CPRLevels AUDCAD,M5: uninit reason 3
+0	21:30:21.273	CPRLevels AUDCAD,M1: initialized
+0	21:30:32.363	CPRLevels AUDCAD,M1: uninit reason 3
+0	21:30:32.363	CPRLevels AUDCAD,M15: initialized
+0	21:30:40.456	CPRLevels AUDCAD,M15: uninit reason 3
+0	21:30:40.456	CPRLevels AUDCAD,M1: initialized
+0	21:38:08.604	CPRLevels AUDCAD,M1: uninit reason 3
+0	21:38:08.605	CPRLevels AUDCAD,M15: initialized
+0	21:38:14.358	CPRLevels AUDCAD,M15: uninit reason 3
+0	21:38:14.358	CPRLevels AUDCAD,M1: initialized
+0	21:42:13.934	CPRLevels AUDCAD,M1: uninit reason 3
+0	21:42:13.934	CPRLevels USDCHF,M1: initialized
+0	21:42:21.571	CPRLevels USDCHF,M1: uninit reason 3
+0	21:42:21.571	CPRLevels USDCHF,M5: initialized
+0	21:42:23.627	CPRLevels USDCHF,M5: uninit reason 3
+0	21:42:23.628	CPRLevels USDCHF,M15: initialized
+0	21:42:35.418	CPRLevels USDCHF,M15: uninit reason 3
+0	21:42:35.418	CPRLevels USDCHF,M30: initialized
+0	21:42:41.362	CPRLevels USDCHF,M30: uninit reason 3
+0	21:42:41.362	CPRLevels AUDCAD,M30: initialized
+0	21:42:55.581	CPRLevels AUDCAD,M30: uninit reason 3
+0	21:42:55.598	CPRLevels AUDCHF,M30: initialized
+0	21:43:02.495	CPRLevels AUDCHF,M30: uninit reason 3
+0	21:43:02.495	CPRLevels AUDJPY,M30: initialized
+0	21:43:11.310	CPRLevels AUDJPY,M30: uninit reason 3
+0	21:43:11.326	CPRLevels AUDNZD,M30: initialized
+0	21:43:32.115	CPRLevels AUDNZD,M30: uninit reason 3
+0	21:43:32.130	CPRLevels AUDNZD,M15: initialized
+0	21:43:35.805	CPRLevels AUDNZD,M15: uninit reason 3
+0	21:43:35.823	CPRLevels AUDNZD,M1: initialized
+0	21:44:08.993	CPRLevels AUDNZD,M1: uninit reason 3
+0	21:44:08.995	CPRLevels EURUSD,M1: initialized
+0	21:44:11.534	CPRLevels EURUSD,M1: uninit reason 3
+0	21:44:11.534	CPRLevels USDJPY,M1: initialized
+0	21:44:21.219	CPRLevels USDJPY,M1: uninit reason 3
+0	21:44:21.219	CPRLevels EURJPY,M1: initialized
+0	21:44:41.445	CPRLevels EURJPY,M1: uninit reason 3
+0	21:44:41.445	CPRLevels AUDUSD,M1: initialized
+0	21:45:11.620	CPRLevels AUDUSD,M1: uninit reason 3
+0	21:45:11.620	CPRLevels AUDUSD,M30: initialized
+0	21:45:25.110	CPRLevels AUDUSD,M30: uninit reason 3
+0	21:45:25.110	CPRLevels AUDUSD,H1: initialized
+0	21:45:46.263	CPRLevels AUDUSD,H1: uninit reason 3
+0	21:45:46.263	CPRLevels AUDUSD,M1: initialized
+0	22:01:01.919	CPRLevels AUDUSD,M1: uninit reason 3
+0	22:01:01.926	CPRLevels AUDUSD,M5: initialized
+0	22:01:13.983	CPRLevels AUDUSD,M5: uninit reason 3
+0	22:01:13.983	CPRLevels AUDUSD,M1: initialized
+0	22:01:23.590	CPRLevels AUDUSD,M1: uninit reason 3
+0	22:01:23.592	CPRLevels EURUSD,M1: initialized
+0	22:01:31.253	CPRLevels EURUSD,M1: uninit reason 3
+0	22:01:31.254	CPRLevels EURUSD,M5: initialized
+0	22:01:43.391	CPRLevels EURUSD,M5: uninit reason 3
+0	22:01:43.410	CPRLevels EURUSD,M15: initialized
+0	22:01:46.708	CPRLevels EURUSD,M15: uninit reason 3
+0	22:01:46.708	CPRLevels USDJPY,M15: initialized
+0	22:01:49.926	CPRLevels USDJPY,M15: uninit reason 3
+0	22:01:49.926	CPRLevels EURJPY,M15: initialized
+0	22:01:52.641	CPRLevels EURJPY,M15: uninit reason 3
+0	22:01:52.653	CPRLevels AUDUSD,M15: initialized
+0	22:01:55.463	CPRLevels AUDUSD,M15: uninit reason 3
+0	22:01:55.476	CPRLevels GBPUSD,M15: initialized
+0	22:02:00.008	CPRLevels GBPUSD,M15: uninit reason 3
+0	22:02:00.051	CPRLevels GBPUSD,M30: initialized
+0	22:02:01.988	CPRLevels GBPUSD,M30: uninit reason 3
+0	22:02:01.999	CPRLevels GBPUSD,H1: initialized
+0	22:02:09.729	CPRLevels GBPUSD,H1: uninit reason 3
+0	22:02:09.739	CPRLevels GBPUSD,H4: initialized
+0	22:02:13.795	CPRLevels GBPUSD,H4: uninit reason 3
+0	22:02:13.795	CPRLevels GBPUSD,Daily: initialized
+0	22:02:23.384	CPRLevels GBPUSD,Daily: uninit reason 3
+0	22:02:23.384	CPRLevels USDCHF,Daily: initialized
+0	22:02:32.049	CPRLevels USDCHF,Daily: uninit reason 3
+0	22:02:32.049	CPRLevels EURUSD,Daily: initialized
+0	22:02:49.810	CPRLevels EURUSD,Daily: uninit reason 3
+0	22:02:49.810	CPRLevels USDJPY,Daily: initialized
+0	22:02:57.588	CPRLevels USDJPY,Daily: uninit reason 3
+0	22:02:57.588	CPRLevels AUDUSD,Daily: initialized
+0	22:03:12.269	CPRLevels AUDUSD,Daily: uninit reason 3
+0	22:03:12.269	CPRLevels AUDUSD,H4: initialized
+0	22:03:14.937	CPRLevels AUDUSD,H4: uninit reason 3
+0	22:03:14.937	CPRLevels AUDUSD,H1: initialized
+0	22:03:17.837	CPRLevels AUDUSD,H1: uninit reason 3
+0	22:03:17.837	CPRLevels AUDUSD,M30: initialized
+0	22:03:19.833	CPRLevels AUDUSD,M30: uninit reason 3
+0	22:03:19.833	CPRLevels AUDUSD,M15: initialized
+0	22:03:21.460	CPRLevels AUDUSD,M15: uninit reason 3
+0	22:03:21.460	CPRLevels AUDUSD,M5: initialized
+0	22:03:29.337	CPRLevels AUDUSD,M5: uninit reason 3
+0	22:03:29.337	CPRLevels GBPUSD,M5: initialized
+0	22:04:07.741	CPRLevels GBPUSD,M5: uninit reason 3
+0	22:04:07.741	CPRLevels USDCHF,M5: initialized
+0	22:04:11.622	CPRLevels USDCHF,M5: uninit reason 3
+0	22:04:11.622	CPRLevels AUDCAD,M5: initialized
+0	22:04:33.513	CPRLevels AUDCAD,M5: uninit reason 3
+0	22:04:33.513	CPRLevels AUDCHF,M5: initialized
+0	22:25:04.063	CPRLevels AUDCHF,M5: uninit reason 3
+0	22:25:04.064	CPRLevels AUDUSD,M5: initialized
+0	22:25:07.063	CPRLevels AUDUSD,M5: uninit reason 3
+0	22:25:07.063	CPRLevels GBPUSD,M5: initialized
+0	22:25:15.382	CPRLevels GBPUSD,M5: uninit reason 3
+0	22:25:15.382	CPRLevels BCOUSD,M5: initialized
+0	22:25:19.336	CPRLevels BCOUSD,M5: uninit reason 3
+0	22:25:19.336	CPRLevels DE30EUR,M5: initialized
+0	22:25:21.975	CPRLevels DE30EUR,M5: uninit reason 3
+0	22:25:21.975	CPRLevels USDCHF,M5: initialized
+0	22:25:52.887	CPRLevels USDCHF,M5: uninit reason 3
+0	22:25:52.888	CPRLevels AUDCAD,M5: initialized
+0	22:26:12.541	CPRLevels AUDCAD,M5: uninit reason 3
+0	22:26:12.542	CPRLevels AUDCHF,M5: initialized
+0	22:26:16.290	CPRLevels AUDCHF,M5: uninit reason 3
+0	22:26:16.290	CPRLevels AUDJPY,M5: initialized
+0	22:26:24.614	CPRLevels AUDJPY,M5: uninit reason 3
+0	22:26:24.614	CPRLevels AUDNZD,M5: initialized
+0	22:26:36.707	CPRLevels AUDNZD,M5: uninit reason 3
+0	22:26:36.707	CPRLevels USDJPY,M5: initialized
+0	22:26:43.522	CPRLevels USDJPY,M5: uninit reason 3
+0	22:26:43.522	CPRLevels USDJPY,M1: initialized
+0	22:28:13.100	CPRLevels USDJPY,M1: uninit reason 3
+0	22:28:13.101	CPRLevels USDJPY,M5: initialized
+0	22:28:23.702	CPRLevels USDJPY,M5: uninit reason 3
+0	22:28:23.704	CPRLevels USDJPY,M15: initialized
+0	22:28:27.117	CPRLevels USDJPY,M15: uninit reason 3
+0	22:28:27.117	CPRLevels EURJPY,M15: initialized
+0	22:28:30.765	CPRLevels EURJPY,M15: uninit reason 3
+0	22:28:30.765	CPRLevels GBPUSD,M15: initialized
+0	22:28:35.283	CPRLevels GBPUSD,M15: uninit reason 3
+0	22:28:35.283	CPRLevels EURUSD,M15: initialized
+0	22:28:39.685	CPRLevels EURUSD,M15: uninit reason 3
+0	22:28:39.685	CPRLevels USDJPY,M15: initialized
+0	22:31:23.243	CPRLevels USDJPY,M15: uninit reason 3
+0	22:31:23.243	CPRLevels EURJPY,M15: initialized
+0	22:31:32.973	CPRLevels EURJPY,M15: uninit reason 3
+0	22:31:32.989	CPRLevels EURJPY,M30: initialized
+0	22:31:43.528	CPRLevels EURJPY,M30: uninit reason 3
+0	22:31:43.529	CPRLevels EURJPY,M15: initialized
+0	22:31:48.534	CPRLevels EURJPY,M15: uninit reason 3
+0	22:31:48.535	CPRLevels EURJPY,M1: initialized
+0	22:32:43.075	CPRLevels EURJPY,M1: uninit reason 3
+0	22:32:43.075	CPRLevels GBPUSD,M1: initialized
+0	22:32:54.996	CPRLevels GBPUSD,M1: uninit reason 3
+0	22:32:55.011	CPRLevels CADJPY,M1: initialized
+0	22:33:44.024	CPRLevels CADJPY,M1: uninit reason 3
+0	22:33:44.024	CPRLevels EURCAD,M1: initialized
+0	22:34:57.827	CPRLevels EURCAD,M1: uninit reason 3
+0	22:34:57.844	CPRLevels EURCAD,M15: initialized
+0	22:35:18.501	CPRLevels EURCAD,M15: uninit reason 3
+0	22:35:18.501	CPRLevels EURCAD,M30: initialized
+0	22:35:40.475	CPRLevels EURCAD,M30: uninit reason 3
+0	22:35:40.475	CPRLevels EURCAD,H1: initialized
+0	22:36:14.423	CPRLevels EURCAD,H1: uninit reason 3
+0	22:36:14.423	CPRLevels EURCAD,M5: initialized
+0	22:36:19.172	CPRLevels EURCAD,M5: uninit reason 3
+0	22:36:19.173	CPRLevels EURCAD,M1: initialized
+0	22:41:04.268	CPRLevels EURCAD,M1: uninit reason 3
+0	22:41:04.268	CPRLevels EURCAD,M5: initialized
+0	22:44:55.207	CPRLevels EURCAD,M5: uninit reason 3
+0	22:44:55.208	CPRLevels EURCAD,M1: initialized
+0	22:50:11.687	CPRLevels EURCAD,M1: uninit reason 3
+0	22:50:11.687	CPRLevels EURCAD,M5: initialized
+0	22:52:09.473	CPRLevels EURCAD,M5: uninit reason 3
+0	22:52:09.474	CPRLevels EURCAD,M1: initialized
+0	22:56:45.451	CPRLevels EURCAD,M1: uninit reason 3
+0	22:56:45.451	CPRLevels EURCAD,M5: initialized
+0	22:56:49.489	CPRLevels EURCAD,M5: uninit reason 3
+0	22:56:49.489	CPRLevels EURCAD,M1: initialized
+0	22:57:08.333	CPRLevels EURCAD,M1: uninit reason 3
+0	22:57:08.333	CPRLevels EURCAD,M5: initialized
+0	23:08:58.974	CPRLevels EURCAD,M5: uninit reason 9
+0	23:08:59.071	Custom indicator CPRLevels EURCAD,M5: removed
