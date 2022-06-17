@@ -51,6 +51,7 @@ double         Slow_EMABuffer[];
 double         SellSignalBuffer[];
 double         BuySignalBuffer[];
 
+
 //+------------------------------------------------------------------+
 //| Custom indicator initialization function                         |
 //+------------------------------------------------------------------+
@@ -84,35 +85,45 @@ int OnCalculate(const int rates_total,
                 const int &spread[])
   {
    int limit=rates_total-prev_calculated;
-   double fast_ma_0;
-   double slow_ma_0;
-   double fast_ma_2;
-   double slow_ma_2;
+   double fast_ma_curr;
+   double slow_ma_curr;
+   double fast_ma_prev;
+   double slow_ma_prev;
 
    for(int i=0; i<limit; i++)
      {
+
       Fast_EMABuffer[i] = iMA(0,PERIOD_CURRENT,fast_ma_period,0,MODE_EMA,PRICE_CLOSE,i);
       Slow_EMABuffer[i] = iMA(0,PERIOD_CURRENT,slow_ma_period,0,MODE_EMA,PRICE_CLOSE,i);
       SellSignalBuffer[i] = EMPTY_VALUE;
       BuySignalBuffer[i] = EMPTY_VALUE;
 
-      fast_ma_0 = Fast_EMABuffer[i];
-      slow_ma_0 = Slow_EMABuffer[i];
+      fast_ma_curr = Fast_EMABuffer[i];
+      slow_ma_curr = Slow_EMABuffer[i];
 
-      fast_ma_2 = iMA(0,PERIOD_CURRENT,fast_ma_period,0,MODE_EMA,PRICE_CLOSE,i+2);
-      slow_ma_2 = iMA(0,PERIOD_CURRENT,slow_ma_period,0,MODE_EMA,PRICE_CLOSE,i+2);
+      fast_ma_prev = iMA(0,PERIOD_CURRENT,fast_ma_period,0,MODE_EMA,PRICE_CLOSE,i+1);      
+      slow_ma_prev = iMA(0,PERIOD_CURRENT,slow_ma_period,0,MODE_EMA,PRICE_CLOSE,i+1);
+     
 
-      int isCrossDown = detect_indicator_cross(fast_ma_0, slow_ma_0, fast_ma_2, slow_ma_2);
-      if(isCrossDown == 1 && i > 0 && SellSignalBuffer[i-1] == EMPTY_VALUE)
+      int isCrossDown = detect_indicator_cross(fast_ma_curr, slow_ma_curr, fast_ma_prev, slow_ma_prev);
+      if(isCrossDown == 1 && i > 0)
         {
+         if(i>0)
+           {
+            SellSignalBuffer[i] = High[i] + (High[i]-Low[i]);
+            SellSignalBuffer[i-1] = EMPTY_VALUE;
+           }
 
-         SellSignalBuffer[i] = High[i] + (High[i]-Low[i]);
 
         }
       else
-         if(isCrossDown == 2 && i > 0 && BuySignalBuffer[i-1] == EMPTY_VALUE)
+         if(isCrossDown == 2 && i > 0)
            {
-            BuySignalBuffer[i] = Low[i] - (High[i]-Low[i]);
+            if(i > 0)
+              {
+               BuySignalBuffer[i] = Low[i] - (High[i]-Low[i]);
+               BuySignalBuffer[i-1] = EMPTY_VALUE;
+              }
 
            }
 

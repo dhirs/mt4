@@ -18,17 +18,21 @@ input int slow_ma_period = 200;
 //+------------------------------------------------------------------+
 void OnStart()
   {
-
-   for(int i=0; i<Bars; i++)
+   Alert(Bars);
+   for(int i=1; i<Bars; i++)
      {
-      double ShortSignal = iCustom(NULL,0, indicatorName,2,i);
-      double LongSignal = iCustom(NULL,0, indicatorName,3,i);
+     
+  
+      double ShortSignal = iCustom(NULL,0, indicatorName,0,i);
+      double LongSignal = iCustom(NULL,0, indicatorName,2, i);
       if(ShortSignal != EMPTY_VALUE)
         {
-         Alert(i+"------"+ShortSignal);
+         Print(i+"------"+ShortSignal);
 
         }
+       
      }
+
 
   }
 //+------------------------------------------------------------------+

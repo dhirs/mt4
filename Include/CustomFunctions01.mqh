@@ -319,7 +319,7 @@ bool CheckNewBar()
 //+------------------------------------------------------------------+
 //|                                                                  |
 //+------------------------------------------------------------------+
-void sendOrder(int LossPips, double RR, double lotSize, string comment, bool isBuy = true)
+int sendOrder(int LossPips, double RR, double lotSize, string comment, bool isBuy = true)
   {
    double entryPrice;
    int o_type;
@@ -350,30 +350,35 @@ void sendOrder(int LossPips, double RR, double lotSize, string comment, bool isB
      {
 
       Print("New Order "+comment+" "+ openOrderID);
+      return openOrderID;
+
 
      }
 
+   return 0;
 
   }
 //+------------------------------------------------------------------+
-int detect_indicator_cross(double fast_val_0, double slow_val_0, double fast_val_2, double slow_val_2)
+int detect_indicator_cross(double fast_val_curr,
+                           double slow_val_curr,
+                           double fast_val_prev,
+                           double slow_val_prev)
   {
 
 //cross_down check
-   bool cond_1 = fast_val_0 < slow_val_0;
-   bool cond_2 = fast_val_2 > slow_val_2;
-   bool cond_3 = fast_val_0 < fast_val_2;
+   bool cond_1 = fast_val_curr < slow_val_curr;
+   bool cond_2 = fast_val_prev > slow_val_prev;
 
-   if(cond_1 && cond_2 && cond_3)
+   if(cond_1 && cond_2)
      {
       return 1;
      }
 
 //cross_up check
-   bool cond_11 = fast_val_0 > slow_val_0;
-   bool cond_22 = fast_val_2 < slow_val_2;
-   bool cond_33 = fast_val_0 > fast_val_2;
-   if(cond_11 && cond_22 && cond_33)
+   bool cond_11 = fast_val_curr > slow_val_curr;
+   bool cond_22 = slow_val_prev > fast_val_prev;
+  
+   if(cond_11 && cond_22)
      {
       return 2;
      }

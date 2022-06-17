@@ -1,0 +1,832 @@
+0	00:19:16.934	EMA_Cross_Over EURJPY,M30: uninit reason 3
+0	00:19:16.934	CPRLevels EURJPY,M30: uninit reason 3
+0	00:19:16.943	EMA_Cross_Over EURJPY,H1: initialized
+0	00:19:16.944	CPRLevels EURJPY,H1: initialized
+0	00:30:00.770	EMA_Cross_Over EURJPY,H1: uninit reason 3
+0	00:30:00.770	CPRLevels EURJPY,H1: uninit reason 3
+0	00:30:00.839	EMA_Cross_Over EURJPY,H4: initialized
+0	00:30:00.839	CPRLevels EURJPY,H4: initialized
+0	00:31:39.463	EMA_Cross_Over EURJPY,H4: uninit reason 3
+0	00:31:39.463	CPRLevels EURJPY,H4: uninit reason 3
+0	00:31:39.463	EMA_Cross_Over EURJPY,H1: initialized
+0	00:31:39.463	CPRLevels EURJPY,H1: initialized
+0	00:31:44.615	EMA_Cross_Over EURJPY,H1: uninit reason 3
+0	00:31:44.615	CPRLevels EURJPY,H1: uninit reason 3
+0	00:31:44.615	EMA_Cross_Over EURJPY,Daily: initialized
+0	00:31:44.615	CPRLevels EURJPY,Daily: initialized
+0	00:32:01.814	EMA_Cross_Over EURJPY,Daily: uninit reason 3
+0	00:32:01.814	CPRLevels EURJPY,Daily: uninit reason 3
+0	00:32:01.814	EMA_Cross_Over EURJPY,H1: initialized
+0	00:32:01.814	CPRLevels EURJPY,H1: initialized
+0	00:52:08.636	EMA_Cross_Over EURJPY,H1: uninit reason 3
+0	00:52:08.636	CPRLevels EURJPY,H1: uninit reason 3
+0	00:52:08.636	EMA_Cross_Over EURJPY,H4: initialized
+0	00:52:08.637	CPRLevels EURJPY,H4: initialized
+0	01:24:34.103	EMA_Cross_Over EURJPY,H4: uninit reason 9
+0	01:24:34.103	CPRLevels EURJPY,H4: uninit reason 9
+0	01:24:34.219	Custom indicator EMA_Cross_Over EURJPY,H4: removed
+0	01:24:34.220	Custom indicator CPRLevels EURJPY,H4: removed
+0	07:38:01.239	Custom indicator Trademyner\EMA_Cross_Over EURJPY,H4: loaded successfully
+0	07:38:01.247	Custom indicator Trademyner\CPRLevels EURJPY,H4: loaded successfully
+0	07:38:01.293	EMA_Cross_Over EURJPY,H4: initialized
+0	07:38:01.309	CPRLevels EURJPY,H4: initialized
+0	07:38:22.325	EMA_Cross_Over EURJPY,H4: uninit reason 3
+0	07:38:22.325	CPRLevels EURJPY,H4: uninit reason 3
+0	07:38:22.332	EMA_Cross_Over EURJPY,H1: initialized
+0	07:38:22.332	CPRLevels EURJPY,H1: initialized
+0	07:39:10.100	EMA_Cross_Over EURJPY,H1: uninit reason 3
+0	07:39:10.100	CPRLevels EURJPY,H1: uninit reason 3
+0	07:39:10.100	EMA_Cross_Over EURJPY,H4: initialized
+0	07:39:10.100	CPRLevels EURJPY,H4: initialized
+0	07:40:10.813	EMA_Cross_Over EURJPY,H4: uninit reason 3
+0	07:40:10.813	CPRLevels EURJPY,H4: uninit reason 3
+0	07:40:10.815	EMA_Cross_Over EURJPY,H1: initialized
+0	07:40:10.815	CPRLevels EURJPY,H1: initialized
+0	07:40:31.757	EMA_Cross_Over EURJPY,H1: uninit reason 3
+0	07:40:31.757	CPRLevels EURJPY,H1: uninit reason 3
+0	07:40:31.775	EMA_Cross_Over EURJPY,M5: initialized
+0	07:40:31.775	CPRLevels EURJPY,M5: initialized
+0	07:46:38.485	EMA_Cross_Over EURJPY,M5: uninit reason 3
+0	07:46:38.485	CPRLevels EURJPY,M5: uninit reason 3
+0	07:46:38.497	EMA_Cross_Over GBPAUD,M5: initialized
+0	07:46:38.497	CPRLevels GBPAUD,M5: initialized
+0	07:46:47.468	EMA_Cross_Over GBPAUD,M5: uninit reason 3
+0	07:46:47.468	CPRLevels GBPAUD,M5: uninit reason 3
+0	07:46:47.484	EMA_Cross_Over GBPAUD,M15: initialized
+0	07:46:47.484	CPRLevels GBPAUD,M15: initialized
+0	07:46:52.197	EMA_Cross_Over GBPAUD,M15: uninit reason 3
+0	07:46:52.197	CPRLevels GBPAUD,M15: uninit reason 3
+0	07:46:52.213	EMA_Cross_Over GBPAUD,M30: initialized
+0	07:46:52.213	CPRLevels GBPAUD,M30: initialized
+0	07:47:04.734	EMA_Cross_Over GBPAUD,M30: uninit reason 3
+0	07:47:04.734	CPRLevels GBPAUD,M30: uninit reason 3
+0	07:47:04.750	EMA_Cross_Over GBPAUD,H1: initialized
+0	07:47:04.750	CPRLevels GBPAUD,H1: initialized
+0	07:47:16.545	EMA_Cross_Over GBPAUD,H1: uninit reason 3
+0	07:47:16.545	CPRLevels GBPAUD,H1: uninit reason 3
+0	07:47:16.545	EMA_Cross_Over GBPAUD,M5: initialized
+0	07:47:16.545	CPRLevels GBPAUD,M5: initialized
+0	08:15:53.209	EMA_Cross_Over GBPAUD,M5: uninit reason 3
+0	08:15:53.209	CPRLevels GBPAUD,M5: uninit reason 3
+0	08:15:53.209	EMA_Cross_Over GBPAUD,M15: initialized
+0	08:15:53.209	CPRLevels GBPAUD,M15: initialized
+0	08:15:58.764	EMA_Cross_Over GBPAUD,M15: uninit reason 3
+0	08:15:58.764	CPRLevels GBPAUD,M15: uninit reason 3
+0	08:15:58.764	EMA_Cross_Over GBPAUD,M30: initialized
+0	08:15:58.764	CPRLevels GBPAUD,M30: initialized
+0	08:16:00.944	EMA_Cross_Over GBPAUD,M30: uninit reason 3
+0	08:16:00.944	CPRLevels GBPAUD,M30: uninit reason 3
+0	08:16:00.944	EMA_Cross_Over GBPAUD,H1: initialized
+0	08:16:00.944	CPRLevels GBPAUD,H1: initialized
+0	18:49:10.669	Custom indicator Trademyner\EMA_Cross_Over EURJPY,H4: loaded successfully
+0	18:49:10.678	Custom indicator Trademyner\CPRLevels EURJPY,H4: loaded successfully
+0	18:49:10.751	EMA_Cross_Over EURJPY,H4: initialized
+0	18:49:10.765	CPRLevels EURJPY,H4: initialized
+0	18:49:20.373	EMA_Cross_Over EURJPY,H4: uninit reason 3
+0	18:49:20.373	CPRLevels EURJPY,H4: uninit reason 3
+0	18:49:20.385	EMA_Cross_Over EURJPY,H1: initialized
+0	18:49:20.385	CPRLevels EURJPY,H1: initialized
+0	18:49:33.553	EMA_Cross_Over EURJPY,H1: uninit reason 3
+0	18:49:33.553	CPRLevels EURJPY,H1: uninit reason 3
+0	18:49:33.571	EMA_Cross_Over EURJPY,M15: initialized
+0	18:49:33.571	CPRLevels EURJPY,M15: initialized
+0	18:51:32.214	EMA_Cross_Over EURJPY,M15: uninit reason 3
+0	18:51:32.214	CPRLevels EURJPY,M15: uninit reason 3
+0	18:51:32.232	EMA_Cross_Over EURJPY,M5: initialized
+0	18:51:32.232	CPRLevels EURJPY,M5: initialized
+0	18:54:46.398	EMA_Cross_Over EURJPY,M5: uninit reason 3
+0	18:54:46.399	CPRLevels EURJPY,M5: uninit reason 3
+0	18:54:46.416	EMA_Cross_Over EURJPY,M30: initialized
+0	18:54:46.416	CPRLevels EURJPY,M30: initialized
+0	18:54:58.032	EMA_Cross_Over EURJPY,M30: uninit reason 3
+0	18:54:58.032	CPRLevels EURJPY,M30: uninit reason 3
+0	18:54:58.050	EMA_Cross_Over EURJPY,M1: initialized
+0	18:54:58.050	CPRLevels EURJPY,M1: initialized
+0	18:55:24.910	EMA_Cross_Over EURJPY,M1: uninit reason 3
+0	18:55:24.910	CPRLevels EURJPY,M1: uninit reason 3
+0	18:55:24.910	EMA_Cross_Over EURJPY,H1: initialized
+0	18:55:24.911	CPRLevels EURJPY,H1: initialized
+0	18:55:30.699	EMA_Cross_Over EURJPY,H1: uninit reason 3
+0	18:55:30.699	CPRLevels EURJPY,H1: uninit reason 3
+0	18:55:30.699	EMA_Cross_Over EURJPY,M1: initialized
+0	18:55:30.699	CPRLevels EURJPY,M1: initialized
+0	18:55:33.360	EMA_Cross_Over EURJPY,M1: uninit reason 3
+0	18:55:33.360	CPRLevels EURJPY,M1: uninit reason 3
+0	18:55:33.360	EMA_Cross_Over EURJPY,H1: initialized
+0	18:55:33.360	CPRLevels EURJPY,H1: initialized
+0	18:55:35.313	EMA_Cross_Over EURJPY,H1: uninit reason 3
+0	18:55:35.313	CPRLevels EURJPY,H1: uninit reason 3
+0	18:55:35.313	EMA_Cross_Over EURJPY,M15: initialized
+0	18:55:35.313	CPRLevels EURJPY,M15: initialized
+0	18:58:49.055	EMA_Cross_Over EURJPY,M15: uninit reason 3
+0	18:58:49.055	CPRLevels EURJPY,M15: uninit reason 3
+0	18:58:49.055	EMA_Cross_Over EURJPY,H1: initialized
+0	18:58:49.055	CPRLevels EURJPY,H1: initialized
+0	19:00:44.317	EMA_Cross_Over EURJPY,H1: uninit reason 3
+0	19:00:44.317	CPRLevels EURJPY,H1: uninit reason 3
+0	19:00:44.330	EMA_Cross_Over CADJPY,H1: initialized
+0	19:00:44.330	CPRLevels CADJPY,H1: initialized
+0	19:01:26.530	EMA_Cross_Over CADJPY,H1: uninit reason 3
+0	19:01:26.530	CPRLevels CADJPY,H1: uninit reason 3
+0	19:01:26.531	EMA_Cross_Over EURJPY,H1: initialized
+0	19:01:26.531	CPRLevels EURJPY,H1: initialized
+0	19:03:45.882	EMA_Cross_Over EURJPY,H1: uninit reason 3
+0	19:03:45.882	CPRLevels EURJPY,H1: uninit reason 3
+0	19:03:45.882	EMA_Cross_Over EURJPY,M5: initialized
+0	19:03:45.882	CPRLevels EURJPY,M5: initialized
+0	19:10:32.112	EMA_Cross_Over EURJPY,M5: uninit reason 3
+0	19:10:32.112	CPRLevels EURJPY,M5: uninit reason 3
+0	19:10:32.112	EMA_Cross_Over EURJPY,H1: initialized
+0	19:10:32.113	CPRLevels EURJPY,H1: initialized
+0	19:18:57.919	EMA_Cross_Over EURJPY,H1: uninit reason 3
+0	19:18:57.919	CPRLevels EURJPY,H1: uninit reason 3
+0	19:18:57.925	EMA_Cross_Over US30USD,H1: initialized
+0	19:18:57.925	CPRLevels US30USD,H1: initialized
+0	19:19:05.177	EMA_Cross_Over US30USD,H1: uninit reason 3
+0	19:19:05.177	CPRLevels US30USD,H1: uninit reason 3
+0	19:19:05.177	EMA_Cross_Over US30USD,M15: initialized
+0	19:19:05.177	CPRLevels US30USD,M15: initialized
+0	19:19:09.315	EMA_Cross_Over US30USD,M15: uninit reason 3
+0	19:19:09.315	CPRLevels US30USD,M15: uninit reason 3
+0	19:19:09.315	EMA_Cross_Over US30USD,M5: initialized
+0	19:19:09.315	CPRLevels US30USD,M5: initialized
+0	19:19:30.641	EMA_Cross_Over US30USD,M5: uninit reason 3
+0	19:19:30.641	CPRLevels US30USD,M5: uninit reason 3
+0	19:19:30.641	EMA_Cross_Over US30USD,M15: initialized
+0	19:19:30.642	CPRLevels US30USD,M15: initialized
+0	19:21:13.809	EMA_Cross_Over US30USD,M15: uninit reason 3
+0	19:21:13.809	CPRLevels US30USD,M15: uninit reason 3
+0	19:21:13.809	EMA_Cross_Over EURJPY,M15: initialized
+0	19:21:13.809	CPRLevels EURJPY,M15: initialized
+0	19:22:38.523	EMA_Cross_Over EURJPY,M15: uninit reason 3
+0	19:22:38.523	CPRLevels EURJPY,M15: uninit reason 3
+0	19:22:38.523	EMA_Cross_Over EURJPY,M5: initialized
+0	19:22:38.524	CPRLevels EURJPY,M5: initialized
+0	19:24:38.340	EMA_Cross_Over EURJPY,M5: uninit reason 3
+0	19:24:38.340	CPRLevels EURJPY,M5: uninit reason 3
+0	19:24:38.340	EMA_Cross_Over EURJPY,H1: initialized
+0	19:24:38.340	CPRLevels EURJPY,H1: initialized
+0	19:25:31.357	EMA_Cross_Over EURJPY,H1: uninit reason 3
+0	19:25:31.357	CPRLevels EURJPY,H1: uninit reason 3
+0	19:25:31.357	EMA_Cross_Over US30USD,H1: initialized
+0	19:25:31.357	CPRLevels US30USD,H1: initialized
+0	19:26:00.499	EMA_Cross_Over US30USD,H1: uninit reason 3
+0	19:26:00.499	CPRLevels US30USD,H1: uninit reason 3
+0	19:26:00.500	EMA_Cross_Over US30USD,M15: initialized
+0	19:26:00.500	CPRLevels US30USD,M15: initialized
+0	19:29:05.752	EMA_Cross_Over US30USD,M15: uninit reason 3
+0	19:29:05.752	CPRLevels US30USD,M15: uninit reason 3
+0	19:29:05.752	EMA_Cross_Over US30USD,M5: initialized
+0	19:29:05.752	CPRLevels US30USD,M5: initialized
+0	19:31:35.155	EMA_Cross_Over US30USD,M5: uninit reason 3
+0	19:31:35.155	CPRLevels US30USD,M5: uninit reason 3
+0	19:31:35.156	EMA_Cross_Over EURJPY,M5: initialized
+0	19:31:35.156	CPRLevels EURJPY,M5: initialized
+0	19:31:41.610	EMA_Cross_Over EURJPY,M5: uninit reason 3
+0	19:31:41.610	CPRLevels EURJPY,M5: uninit reason 3
+0	19:31:41.610	EMA_Cross_Over EURJPY,H1: initialized
+0	19:31:41.610	CPRLevels EURJPY,H1: initialized
+0	19:31:58.070	EMA_Cross_Over EURJPY,H1: uninit reason 3
+0	19:31:58.070	CPRLevels EURJPY,H1: uninit reason 3
+0	19:31:58.070	EMA_Cross_Over EURJPY,H4: initialized
+0	19:31:58.070	CPRLevels EURJPY,H4: initialized
+0	19:32:32.743	EMA_Cross_Over EURJPY,H4: uninit reason 3
+0	19:32:32.743	CPRLevels EURJPY,H4: uninit reason 3
+0	19:32:32.744	EMA_Cross_Over EURJPY,H1: initialized
+0	19:32:32.744	CPRLevels EURJPY,H1: initialized
+0	19:32:44.126	EMA_Cross_Over EURJPY,H1: uninit reason 3
+0	19:32:44.126	CPRLevels EURJPY,H1: uninit reason 3
+0	19:32:44.126	EMA_Cross_Over EURJPY,M30: initialized
+0	19:32:44.127	CPRLevels EURJPY,M30: initialized
+0	19:32:58.248	EMA_Cross_Over EURJPY,M30: uninit reason 3
+0	19:32:58.248	CPRLevels EURJPY,M30: uninit reason 3
+0	19:32:58.248	EMA_Cross_Over EURJPY,M15: initialized
+0	19:32:58.248	CPRLevels EURJPY,M15: initialized
+0	19:33:06.691	EMA_Cross_Over EURJPY,M15: uninit reason 3
+0	19:33:06.691	CPRLevels EURJPY,M15: uninit reason 3
+0	19:33:06.691	EMA_Cross_Over EURJPY,M5: initialized
+0	19:33:06.691	CPRLevels EURJPY,M5: initialized
+0	19:45:49.275	EMA_Cross_Over EURJPY,M5: uninit reason 3
+0	19:45:49.275	CPRLevels EURJPY,M5: uninit reason 3
+0	19:45:49.275	EMA_Cross_Over EURJPY,M15: initialized
+0	19:45:49.276	CPRLevels EURJPY,M15: initialized
+0	19:48:55.987	EMA_Cross_Over EURJPY,M15: uninit reason 3
+0	19:48:55.987	CPRLevels EURJPY,M15: uninit reason 3
+0	19:48:55.987	EMA_Cross_Over EURJPY,M5: initialized
+0	19:48:55.987	CPRLevels EURJPY,M5: initialized
+0	19:49:04.414	EMA_Cross_Over EURJPY,M5: uninit reason 3
+0	19:49:04.414	CPRLevels EURJPY,M5: uninit reason 3
+0	19:49:04.414	EMA_Cross_Over EURJPY,M1: initialized
+0	19:49:04.414	CPRLevels EURJPY,M1: initialized
+0	19:50:35.940	EMA_Cross_Over EURJPY,M1: uninit reason 3
+0	19:50:35.940	CPRLevels EURJPY,M1: uninit reason 3
+0	19:50:35.941	EMA_Cross_Over EURJPY,H1: initialized
+0	19:50:35.941	CPRLevels EURJPY,H1: initialized
+0	19:53:08.661	EMA_Cross_Over EURJPY,H1: uninit reason 3
+0	19:53:08.661	CPRLevels EURJPY,H1: uninit reason 3
+0	19:53:08.662	EMA_Cross_Over EURJPY,M15: initialized
+0	19:53:08.662	CPRLevels EURJPY,M15: initialized
+0	20:07:13.119	EMA_Cross_Over EURJPY,M15: uninit reason 3
+0	20:07:13.119	CPRLevels EURJPY,M15: uninit reason 3
+0	20:07:13.119	EMA_Cross_Over EURJPY,H1: initialized
+0	20:07:13.120	CPRLevels EURJPY,H1: initialized
+0	20:07:23.703	EMA_Cross_Over EURJPY,H1: uninit reason 3
+0	20:07:23.703	CPRLevels EURJPY,H1: uninit reason 3
+0	20:07:23.703	EMA_Cross_Over EURJPY,M15: initialized
+0	20:07:23.703	CPRLevels EURJPY,M15: initialized
+0	20:07:25.971	EMA_Cross_Over EURJPY,M15: uninit reason 3
+0	20:07:25.971	CPRLevels EURJPY,M15: uninit reason 3
+0	20:07:25.971	EMA_Cross_Over EURJPY,M30: initialized
+0	20:07:25.971	CPRLevels EURJPY,M30: initialized
+0	20:07:32.951	EMA_Cross_Over EURJPY,M30: uninit reason 3
+0	20:07:32.951	CPRLevels EURJPY,M30: uninit reason 3
+0	20:07:32.951	EMA_Cross_Over EURJPY,M15: initialized
+0	20:07:32.951	CPRLevels EURJPY,M15: initialized
+0	20:23:23.865	EMA_Cross_Over EURJPY,M15: uninit reason 3
+0	20:23:23.865	CPRLevels EURJPY,M15: uninit reason 3
+0	20:23:23.865	EMA_Cross_Over EURJPY,M30: initialized
+0	20:23:23.865	CPRLevels EURJPY,M30: initialized
+0	20:23:25.468	EMA_Cross_Over EURJPY,M30: uninit reason 3
+0	20:23:25.468	CPRLevels EURJPY,M30: uninit reason 3
+0	20:23:25.469	EMA_Cross_Over EURJPY,H1: initialized
+0	20:23:25.469	CPRLevels EURJPY,H1: initialized
+0	20:23:35.417	EMA_Cross_Over EURJPY,H1: uninit reason 3
+0	20:23:35.417	CPRLevels EURJPY,H1: uninit reason 3
+0	20:23:35.417	EMA_Cross_Over EURJPY,H4: initialized
+0	20:23:35.417	CPRLevels EURJPY,H4: initialized
+0	20:23:42.602	EMA_Cross_Over EURJPY,H4: uninit reason 3
+0	20:23:42.602	CPRLevels EURJPY,H4: uninit reason 3
+0	20:23:42.602	EMA_Cross_Over EURJPY,M5: initialized
+0	20:23:42.602	CPRLevels EURJPY,M5: initialized
+0	20:25:21.774	EMA_Cross_Over EURJPY,M5: uninit reason 3
+0	20:25:21.774	CPRLevels EURJPY,M5: uninit reason 3
+0	20:25:21.775	EMA_Cross_Over EURJPY,H1: initialized
+0	20:25:21.775	CPRLevels EURJPY,H1: initialized
+0	20:25:51.849	EMA_Cross_Over EURJPY,H1: uninit reason 3
+0	20:25:51.849	CPRLevels EURJPY,H1: uninit reason 3
+0	20:25:51.849	EMA_Cross_Over EURJPY,Daily: initialized
+0	20:25:51.849	CPRLevels EURJPY,Daily: initialized
+0	20:26:21.765	EMA_Cross_Over EURJPY,Daily: uninit reason 3
+0	20:26:21.765	CPRLevels EURJPY,Daily: uninit reason 3
+0	20:26:21.765	EMA_Cross_Over EURJPY,H1: initialized
+0	20:26:21.765	CPRLevels EURJPY,H1: initialized
+0	20:32:38.559	EMA_Cross_Over EURJPY,H1: uninit reason 3
+0	20:32:38.559	CPRLevels EURJPY,H1: uninit reason 3
+0	20:32:38.561	EMA_Cross_Over EURJPY,M15: initialized
+0	20:32:38.561	CPRLevels EURJPY,M15: initialized
+0	20:42:26.099	EMA_Cross_Over EURJPY,M15: uninit reason 3
+0	20:42:26.099	CPRLevels EURJPY,M15: uninit reason 3
+0	20:42:26.100	EMA_Cross_Over EURJPY,M1: initialized
+0	20:42:26.101	CPRLevels EURJPY,M1: initialized
+0	20:42:44.631	EMA_Cross_Over EURJPY,M1: uninit reason 3
+0	20:42:44.631	CPRLevels EURJPY,M1: uninit reason 3
+0	20:42:44.631	EMA_Cross_Over EURJPY,M5: initialized
+0	20:42:44.632	CPRLevels EURJPY,M5: initialized
+0	20:42:59.160	EMA_Cross_Over EURJPY,M5: uninit reason 3
+0	20:42:59.160	CPRLevels EURJPY,M5: uninit reason 3
+0	20:42:59.160	EMA_Cross_Over EURJPY,M15: initialized
+0	20:42:59.160	CPRLevels EURJPY,M15: initialized
+0	20:43:04.590	EMA_Cross_Over EURJPY,M15: uninit reason 3
+0	20:43:04.590	CPRLevels EURJPY,M15: uninit reason 3
+0	20:43:04.591	EMA_Cross_Over EURJPY,H1: initialized
+0	20:43:04.591	CPRLevels EURJPY,H1: initialized
+0	20:45:47.321	EMA_Cross_Over EURJPY,H1: uninit reason 3
+0	20:45:47.321	CPRLevels EURJPY,H1: uninit reason 3
+0	20:45:47.321	EMA_Cross_Over EURJPY,M15: initialized
+0	20:45:47.321	CPRLevels EURJPY,M15: initialized
+0	20:59:59.593	EMA_Cross_Over EURJPY,M15: uninit reason 3
+0	20:59:59.593	CPRLevels EURJPY,M15: uninit reason 3
+0	20:59:59.606	EMA_Cross_Over CADJPY,M15: initialized
+0	20:59:59.606	CPRLevels CADJPY,M15: initialized
+0	21:15:58.757	EMA_Cross_Over CADJPY,M15: uninit reason 3
+0	21:15:58.758	CPRLevels CADJPY,M15: uninit reason 3
+0	21:15:58.758	EMA_Cross_Over EURJPY,M15: initialized
+0	21:15:58.758	CPRLevels EURJPY,M15: initialized
+0	21:16:53.688	EMA_Cross_Over EURJPY,M15: uninit reason 3
+0	21:16:53.689	CPRLevels EURJPY,M15: uninit reason 3
+0	21:16:53.689	EMA_Cross_Over CADJPY,M15: initialized
+0	21:16:53.689	CPRLevels CADJPY,M15: initialized
+0	21:19:33.213	EMA_Cross_Over CADJPY,M15: uninit reason 3
+0	21:19:33.213	CPRLevels CADJPY,M15: uninit reason 3
+0	21:19:33.214	EMA_Cross_Over EURJPY,M15: initialized
+0	21:19:33.214	CPRLevels EURJPY,M15: initialized
+0	21:20:03.120	EMA_Cross_Over EURJPY,M15: uninit reason 3
+0	21:20:03.120	CPRLevels EURJPY,M15: uninit reason 3
+0	21:20:03.120	EMA_Cross_Over CADJPY,M15: initialized
+0	21:20:03.120	CPRLevels CADJPY,M15: initialized
+0	21:26:53.968	EMA_Cross_Over CADJPY,M15: uninit reason 3
+0	21:26:53.968	CPRLevels CADJPY,M15: uninit reason 3
+0	21:26:53.991	EMA_Cross_Over CADJPY,M1: initialized
+0	21:26:53.991	CPRLevels CADJPY,M1: initialized
+0	21:29:25.034	EMA_Cross_Over CADJPY,M1: uninit reason 3
+0	21:29:25.034	CPRLevels CADJPY,M1: uninit reason 3
+0	21:29:25.040	EMA_Cross_Over CADJPY,M5: initialized
+0	21:29:25.040	CPRLevels CADJPY,M5: initialized
+0	21:29:38.555	EMA_Cross_Over CADJPY,M5: uninit reason 3
+0	21:29:38.555	CPRLevels CADJPY,M5: uninit reason 3
+0	21:29:38.556	EMA_Cross_Over CADJPY,M1: initialized
+0	21:29:38.556	CPRLevels CADJPY,M1: initialized
+0	21:37:16.748	EMA_Cross_Over CADJPY,M1: uninit reason 3
+0	21:37:16.748	CPRLevels CADJPY,M1: uninit reason 3
+0	21:37:16.748	EMA_Cross_Over CADJPY,M5: initialized
+0	21:37:16.749	CPRLevels CADJPY,M5: initialized
+0	21:37:26.238	EMA_Cross_Over CADJPY,M5: uninit reason 3
+0	21:37:26.238	CPRLevels CADJPY,M5: uninit reason 3
+0	21:37:26.238	EMA_Cross_Over CADJPY,M15: initialized
+0	21:37:26.238	CPRLevels CADJPY,M15: initialized
+0	21:37:37.268	EMA_Cross_Over CADJPY,M15: uninit reason 3
+0	21:37:37.268	CPRLevels CADJPY,M15: uninit reason 3
+0	21:37:37.268	EMA_Cross_Over CADJPY,M5: initialized
+0	21:37:37.268	CPRLevels CADJPY,M5: initialized
+0	21:38:05.543	EMA_Cross_Over CADJPY,M5: uninit reason 3
+0	21:38:05.543	CPRLevels CADJPY,M5: uninit reason 3
+0	21:38:05.543	EMA_Cross_Over CADJPY,M1: initialized
+0	21:38:05.544	CPRLevels CADJPY,M1: initialized
+0	21:42:25.788	EMA_Cross_Over CADJPY,M1: uninit reason 3
+0	21:42:25.788	CPRLevels CADJPY,M1: uninit reason 3
+0	21:42:25.789	EMA_Cross_Over CADJPY,M5: initialized
+0	21:42:25.789	CPRLevels CADJPY,M5: initialized
+0	21:42:36.936	EMA_Cross_Over CADJPY,M5: uninit reason 3
+0	21:42:36.936	CPRLevels CADJPY,M5: uninit reason 3
+0	21:42:36.937	EMA_Cross_Over CADJPY,M15: initialized
+0	21:42:36.937	CPRLevels CADJPY,M15: initialized
+0	21:42:47.383	EMA_Cross_Over CADJPY,M15: uninit reason 3
+0	21:42:47.383	CPRLevels CADJPY,M15: uninit reason 3
+0	21:42:47.384	EMA_Cross_Over CADJPY,M5: initialized
+0	21:42:47.384	CPRLevels CADJPY,M5: initialized
+0	21:46:32.191	EMA_Cross_Over CADJPY,M5: uninit reason 3
+0	21:46:32.191	CPRLevels CADJPY,M5: uninit reason 3
+0	21:46:32.193	EMA_Cross_Over CADJPY,M15: initialized
+0	21:46:32.193	CPRLevels CADJPY,M15: initialized
+0	21:46:38.397	EMA_Cross_Over CADJPY,M15: uninit reason 3
+0	21:46:38.397	CPRLevels CADJPY,M15: uninit reason 3
+0	21:46:38.398	EMA_Cross_Over CADJPY,M1: initialized
+0	21:46:38.398	CPRLevels CADJPY,M1: initialized
+0	21:46:51.308	EMA_Cross_Over CADJPY,M1: uninit reason 3
+0	21:46:51.308	CPRLevels CADJPY,M1: uninit reason 3
+0	21:46:51.308	EMA_Cross_Over CADJPY,M5: initialized
+0	21:46:51.309	CPRLevels CADJPY,M5: initialized
+0	21:47:09.662	EMA_Cross_Over CADJPY,M5: uninit reason 3
+0	21:47:09.662	CPRLevels CADJPY,M5: uninit reason 3
+0	21:47:09.662	EMA_Cross_Over CADJPY,M1: initialized
+0	21:47:09.663	CPRLevels CADJPY,M1: initialized
+0	21:47:23.510	EMA_Cross_Over CADJPY,M1: uninit reason 3
+0	21:47:23.511	CPRLevels CADJPY,M1: uninit reason 3
+0	21:47:23.511	EMA_Cross_Over CADJPY,M5: initialized
+0	21:47:23.511	CPRLevels CADJPY,M5: initialized
+0	21:47:33.417	EMA_Cross_Over CADJPY,M5: uninit reason 3
+0	21:47:33.417	CPRLevels CADJPY,M5: uninit reason 3
+0	21:47:33.418	EMA_Cross_Over CADJPY,M15: initialized
+0	21:47:33.418	CPRLevels CADJPY,M15: initialized
+0	21:47:42.706	EMA_Cross_Over CADJPY,M15: uninit reason 3
+0	21:47:42.706	CPRLevels CADJPY,M15: uninit reason 3
+0	21:47:42.706	EMA_Cross_Over CADJPY,M1: initialized
+0	21:47:42.706	CPRLevels CADJPY,M1: initialized
+0	21:48:06.210	EMA_Cross_Over CADJPY,M1: uninit reason 3
+0	21:48:06.210	CPRLevels CADJPY,M1: uninit reason 3
+0	21:48:06.210	EMA_Cross_Over CADJPY,M5: initialized
+0	21:48:06.210	CPRLevels CADJPY,M5: initialized
+0	21:48:17.301	EMA_Cross_Over CADJPY,M5: uninit reason 3
+0	21:48:17.301	CPRLevels CADJPY,M5: uninit reason 3
+0	21:48:17.302	EMA_Cross_Over CADJPY,M1: initialized
+0	21:48:17.302	CPRLevels CADJPY,M1: initialized
+0	21:49:16.847	EMA_Cross_Over CADJPY,M1: uninit reason 3
+0	21:49:16.847	CPRLevels CADJPY,M1: uninit reason 3
+0	21:49:16.847	EMA_Cross_Over CADJPY,M5: initialized
+0	21:49:16.847	CPRLevels CADJPY,M5: initialized
+0	21:49:32.098	EMA_Cross_Over CADJPY,M5: uninit reason 3
+0	21:49:32.099	CPRLevels CADJPY,M5: uninit reason 3
+0	21:49:32.099	EMA_Cross_Over CADJPY,M1: initialized
+0	21:49:32.099	CPRLevels CADJPY,M1: initialized
+0	21:50:58.727	EMA_Cross_Over CADJPY,M1: uninit reason 3
+0	21:50:58.727	CPRLevels CADJPY,M1: uninit reason 3
+0	21:50:58.727	EMA_Cross_Over CADJPY,M5: initialized
+0	21:50:58.727	CPRLevels CADJPY,M5: initialized
+0	21:51:08.455	EMA_Cross_Over CADJPY,M5: uninit reason 3
+0	21:51:08.455	CPRLevels CADJPY,M5: uninit reason 3
+0	21:51:08.455	EMA_Cross_Over CADJPY,M1: initialized
+0	21:51:08.455	CPRLevels CADJPY,M1: initialized
+0	21:55:17.166	EMA_Cross_Over CADJPY,M1: uninit reason 3
+0	21:55:17.167	CPRLevels CADJPY,M1: uninit reason 3
+0	21:55:17.167	EMA_Cross_Over CADJPY,M5: initialized
+0	21:55:17.167	CPRLevels CADJPY,M5: initialized
+0	21:55:46.655	EMA_Cross_Over CADJPY,M5: uninit reason 3
+0	21:55:46.655	CPRLevels CADJPY,M5: uninit reason 3
+0	21:55:46.656	EMA_Cross_Over CADJPY,M1: initialized
+0	21:55:46.656	CPRLevels CADJPY,M1: initialized
+0	21:57:42.653	EMA_Cross_Over CADJPY,M1: uninit reason 3
+0	21:57:42.653	CPRLevels CADJPY,M1: uninit reason 3
+0	21:57:42.653	EMA_Cross_Over CADJPY,M5: initialized
+0	21:57:42.653	CPRLevels CADJPY,M5: initialized
+0	21:57:46.605	EMA_Cross_Over CADJPY,M5: uninit reason 3
+0	21:57:46.605	CPRLevels CADJPY,M5: uninit reason 3
+0	21:57:46.605	EMA_Cross_Over CADJPY,M1: initialized
+0	21:57:46.605	CPRLevels CADJPY,M1: initialized
+0	21:58:05.117	EMA_Cross_Over CADJPY,M1: uninit reason 3
+0	21:58:05.117	CPRLevels CADJPY,M1: uninit reason 3
+0	21:58:05.118	EMA_Cross_Over CADJPY,M5: initialized
+0	21:58:05.118	CPRLevels CADJPY,M5: initialized
+0	21:59:05.808	EMA_Cross_Over CADJPY,M5: uninit reason 3
+0	21:59:05.808	CPRLevels CADJPY,M5: uninit reason 3
+0	21:59:05.809	EMA_Cross_Over CADJPY,M1: initialized
+0	21:59:05.809	CPRLevels CADJPY,M1: initialized
+0	21:59:14.381	EMA_Cross_Over CADJPY,M1: uninit reason 3
+0	21:59:14.381	CPRLevels CADJPY,M1: uninit reason 3
+0	21:59:14.381	EMA_Cross_Over CADJPY,M5: initialized
+0	21:59:14.381	CPRLevels CADJPY,M5: initialized
+0	21:59:30.096	EMA_Cross_Over CADJPY,M5: uninit reason 3
+0	21:59:30.096	CPRLevels CADJPY,M5: uninit reason 3
+0	21:59:30.097	EMA_Cross_Over CADJPY,M1: initialized
+0	21:59:30.097	CPRLevels CADJPY,M1: initialized
+0	21:59:41.930	EMA_Cross_Over CADJPY,M1: uninit reason 3
+0	21:59:41.930	CPRLevels CADJPY,M1: uninit reason 3
+0	21:59:41.932	EMA_Cross_Over CADJPY,M5: initialized
+0	21:59:41.932	CPRLevels CADJPY,M5: initialized
+0	21:59:51.187	EMA_Cross_Over CADJPY,M5: uninit reason 3
+0	21:59:51.187	CPRLevels CADJPY,M5: uninit reason 3
+0	21:59:51.187	EMA_Cross_Over CADJPY,M15: initialized
+0	21:59:51.188	CPRLevels CADJPY,M15: initialized
+0	21:59:55.423	EMA_Cross_Over CADJPY,M15: uninit reason 3
+0	21:59:55.423	CPRLevels CADJPY,M15: uninit reason 3
+0	21:59:55.423	EMA_Cross_Over CADJPY,M5: initialized
+0	21:59:55.423	CPRLevels CADJPY,M5: initialized
+0	22:00:06.934	EMA_Cross_Over CADJPY,M5: uninit reason 3
+0	22:00:06.934	CPRLevels CADJPY,M5: uninit reason 3
+0	22:00:06.935	EMA_Cross_Over CADJPY,M1: initialized
+0	22:00:06.935	CPRLevels CADJPY,M1: initialized
+0	22:01:42.126	EMA_Cross_Over CADJPY,M1: uninit reason 3
+0	22:01:42.126	CPRLevels CADJPY,M1: uninit reason 3
+0	22:01:42.126	EMA_Cross_Over CADJPY,H1: initialized
+0	22:01:42.126	CPRLevels CADJPY,H1: initialized
+0	22:02:32.550	EMA_Cross_Over CADJPY,H1: uninit reason 3
+0	22:02:32.550	CPRLevels CADJPY,H1: uninit reason 3
+0	22:02:32.551	EMA_Cross_Over CADJPY,M15: initialized
+0	22:02:32.551	CPRLevels CADJPY,M15: initialized
+0	22:02:42.388	EMA_Cross_Over CADJPY,M15: uninit reason 3
+0	22:02:42.388	CPRLevels CADJPY,M15: uninit reason 3
+0	22:02:42.389	EMA_Cross_Over CADJPY,M5: initialized
+0	22:02:42.389	CPRLevels CADJPY,M5: initialized
+0	22:02:49.981	EMA_Cross_Over CADJPY,M5: uninit reason 3
+0	22:02:49.981	CPRLevels CADJPY,M5: uninit reason 3
+0	22:02:49.981	EMA_Cross_Over CADJPY,M1: initialized
+0	22:02:49.982	CPRLevels CADJPY,M1: initialized
+0	22:03:15.416	EMA_Cross_Over CADJPY,M1: uninit reason 3
+0	22:03:15.417	CPRLevels CADJPY,M1: uninit reason 3
+0	22:03:15.417	EMA_Cross_Over CADJPY,M5: initialized
+0	22:03:15.417	CPRLevels CADJPY,M5: initialized
+0	22:03:24.482	EMA_Cross_Over CADJPY,M5: uninit reason 3
+0	22:03:24.482	CPRLevels CADJPY,M5: uninit reason 3
+0	22:03:24.482	EMA_Cross_Over CADJPY,M1: initialized
+0	22:03:24.482	CPRLevels CADJPY,M1: initialized
+0	22:03:31.704	EMA_Cross_Over CADJPY,M1: uninit reason 3
+0	22:03:31.704	CPRLevels CADJPY,M1: uninit reason 3
+0	22:03:31.704	EMA_Cross_Over CADJPY,M5: initialized
+0	22:03:31.704	CPRLevels CADJPY,M5: initialized
+0	22:03:41.065	EMA_Cross_Over CADJPY,M5: uninit reason 3
+0	22:03:41.065	CPRLevels CADJPY,M5: uninit reason 3
+0	22:03:41.065	EMA_Cross_Over CADJPY,M1: initialized
+0	22:03:41.065	CPRLevels CADJPY,M1: initialized
+0	22:04:21.516	EMA_Cross_Over CADJPY,M1: uninit reason 3
+0	22:04:21.516	CPRLevels CADJPY,M1: uninit reason 3
+0	22:04:21.516	EMA_Cross_Over CADJPY,M5: initialized
+0	22:04:21.516	CPRLevels CADJPY,M5: initialized
+0	22:04:23.941	EMA_Cross_Over CADJPY,M5: uninit reason 3
+0	22:04:23.941	CPRLevels CADJPY,M5: uninit reason 3
+0	22:04:23.942	EMA_Cross_Over CADJPY,M1: initialized
+0	22:04:23.942	CPRLevels CADJPY,M1: initialized
+0	22:04:35.658	EMA_Cross_Over CADJPY,M1: uninit reason 3
+0	22:04:35.658	CPRLevels CADJPY,M1: uninit reason 3
+0	22:04:35.658	EMA_Cross_Over CADJPY,H1: initialized
+0	22:04:35.658	CPRLevels CADJPY,H1: initialized
+0	22:04:53.278	EMA_Cross_Over CADJPY,H1: uninit reason 3
+0	22:04:53.278	CPRLevels CADJPY,H1: uninit reason 3
+0	22:04:53.278	EMA_Cross_Over CADJPY,M5: initialized
+0	22:04:53.278	CPRLevels CADJPY,M5: initialized
+0	22:05:16.025	EMA_Cross_Over CADJPY,M5: uninit reason 3
+0	22:05:16.025	CPRLevels CADJPY,M5: uninit reason 3
+0	22:05:16.026	EMA_Cross_Over CADJPY,M1: initialized
+0	22:05:16.026	CPRLevels CADJPY,M1: initialized
+0	22:05:56.438	EMA_Cross_Over CADJPY,M1: uninit reason 3
+0	22:05:56.438	CPRLevels CADJPY,M1: uninit reason 3
+0	22:05:56.439	EMA_Cross_Over CADJPY,M5: initialized
+0	22:05:56.439	CPRLevels CADJPY,M5: initialized
+0	22:06:03.903	EMA_Cross_Over CADJPY,M5: uninit reason 3
+0	22:06:03.903	CPRLevels CADJPY,M5: uninit reason 3
+0	22:06:03.903	EMA_Cross_Over CADJPY,M1: initialized
+0	22:06:03.903	CPRLevels CADJPY,M1: initialized
+0	22:07:15.799	EMA_Cross_Over CADJPY,M1: uninit reason 3
+0	22:07:15.799	CPRLevels CADJPY,M1: uninit reason 3
+0	22:07:15.799	EMA_Cross_Over CADJPY,M5: initialized
+0	22:07:15.800	CPRLevels CADJPY,M5: initialized
+0	22:12:38.583	EMA_Cross_Over CADJPY,M5: uninit reason 3
+0	22:12:38.583	CPRLevels CADJPY,M5: uninit reason 3
+0	22:12:38.584	EMA_Cross_Over CADJPY,M1: initialized
+0	22:12:38.584	CPRLevels CADJPY,M1: initialized
+0	22:14:32.879	EMA_Cross_Over CADJPY,M1: uninit reason 3
+0	22:14:32.879	CPRLevels CADJPY,M1: uninit reason 3
+0	22:14:32.880	EMA_Cross_Over CADJPY,M5: initialized
+0	22:14:32.880	CPRLevels CADJPY,M5: initialized
+0	22:14:36.086	EMA_Cross_Over CADJPY,M5: uninit reason 3
+0	22:14:36.086	CPRLevels CADJPY,M5: uninit reason 3
+0	22:14:36.086	EMA_Cross_Over CADJPY,M1: initialized
+0	22:14:36.086	CPRLevels CADJPY,M1: initialized
+0	22:14:39.443	EMA_Cross_Over CADJPY,M1: uninit reason 3
+0	22:14:39.443	CPRLevels CADJPY,M1: uninit reason 3
+0	22:14:39.443	EMA_Cross_Over CADJPY,M15: initialized
+0	22:14:39.443	CPRLevels CADJPY,M15: initialized
+0	22:15:13.480	EMA_Cross_Over CADJPY,M15: uninit reason 3
+0	22:15:13.480	CPRLevels CADJPY,M15: uninit reason 3
+0	22:15:13.481	EMA_Cross_Over CADJPY,M1: initialized
+0	22:15:13.481	CPRLevels CADJPY,M1: initialized
+0	22:16:29.778	EMA_Cross_Over CADJPY,M1: uninit reason 3
+0	22:16:29.778	CPRLevels CADJPY,M1: uninit reason 3
+0	22:16:29.778	EMA_Cross_Over CADJPY,M5: initialized
+0	22:16:29.779	CPRLevels CADJPY,M5: initialized
+0	22:16:31.172	EMA_Cross_Over CADJPY,M5: uninit reason 3
+0	22:16:31.172	CPRLevels CADJPY,M5: uninit reason 3
+0	22:16:31.172	EMA_Cross_Over CADJPY,M1: initialized
+0	22:16:31.172	CPRLevels CADJPY,M1: initialized
+0	22:16:36.597	EMA_Cross_Over CADJPY,M1: uninit reason 3
+0	22:16:36.597	CPRLevels CADJPY,M1: uninit reason 3
+0	22:16:36.597	EMA_Cross_Over CADJPY,M5: initialized
+0	22:16:36.597	CPRLevels CADJPY,M5: initialized
+0	22:16:40.206	EMA_Cross_Over CADJPY,M5: uninit reason 3
+0	22:16:40.206	CPRLevels CADJPY,M5: uninit reason 3
+0	22:16:40.206	EMA_Cross_Over CADJPY,M15: initialized
+0	22:16:40.207	CPRLevels CADJPY,M15: initialized
+0	22:16:43.203	EMA_Cross_Over CADJPY,M15: uninit reason 3
+0	22:16:43.203	CPRLevels CADJPY,M15: uninit reason 3
+0	22:16:43.203	EMA_Cross_Over CADJPY,M5: initialized
+0	22:16:43.203	CPRLevels CADJPY,M5: initialized
+0	22:18:41.072	EMA_Cross_Over CADJPY,M5: uninit reason 3
+0	22:18:41.072	CPRLevels CADJPY,M5: uninit reason 3
+0	22:18:41.074	EMA_Cross_Over CADJPY,M1: initialized
+0	22:18:41.074	CPRLevels CADJPY,M1: initialized
+0	22:18:45.889	EMA_Cross_Over CADJPY,M1: uninit reason 3
+0	22:18:45.889	CPRLevels CADJPY,M1: uninit reason 3
+0	22:18:45.889	EMA_Cross_Over CADJPY,M5: initialized
+0	22:18:45.889	CPRLevels CADJPY,M5: initialized
+0	22:22:05.431	EMA_Cross_Over CADJPY,M5: uninit reason 3
+0	22:22:05.431	CPRLevels CADJPY,M5: uninit reason 3
+0	22:22:05.431	EMA_Cross_Over CADJPY,M1: initialized
+0	22:22:05.431	CPRLevels CADJPY,M1: initialized
+0	22:22:44.431	EMA_Cross_Over CADJPY,M1: uninit reason 3
+0	22:22:44.431	CPRLevels CADJPY,M1: uninit reason 3
+0	22:22:44.432	EMA_Cross_Over CADJPY,M5: initialized
+0	22:22:44.432	CPRLevels CADJPY,M5: initialized
+0	22:23:18.557	EMA_Cross_Over CADJPY,M5: uninit reason 3
+0	22:23:18.557	CPRLevels CADJPY,M5: uninit reason 3
+0	22:23:18.557	EMA_Cross_Over CADJPY,H1: initialized
+0	22:23:18.557	CPRLevels CADJPY,H1: initialized
+0	22:23:29.397	EMA_Cross_Over CADJPY,H1: uninit reason 3
+0	22:23:29.397	CPRLevels CADJPY,H1: uninit reason 3
+0	22:23:29.397	EMA_Cross_Over CADJPY,M5: initialized
+0	22:23:29.397	CPRLevels CADJPY,M5: initialized
+0	22:23:37.910	EMA_Cross_Over CADJPY,M5: uninit reason 3
+0	22:23:37.910	CPRLevels CADJPY,M5: uninit reason 3
+0	22:23:37.910	EMA_Cross_Over CADJPY,M1: initialized
+0	22:23:37.911	CPRLevels CADJPY,M1: initialized
+0	22:24:37.335	EMA_Cross_Over CADJPY,M1: uninit reason 3
+0	22:24:37.335	CPRLevels CADJPY,M1: uninit reason 3
+0	22:24:37.336	EMA_Cross_Over CADJPY,M5: initialized
+0	22:24:37.336	CPRLevels CADJPY,M5: initialized
+0	22:24:51.111	EMA_Cross_Over CADJPY,M5: uninit reason 3
+0	22:24:51.112	CPRLevels CADJPY,M5: uninit reason 3
+0	22:24:51.112	EMA_Cross_Over CADJPY,M15: initialized
+0	22:24:51.112	CPRLevels CADJPY,M15: initialized
+0	22:24:55.257	EMA_Cross_Over CADJPY,M15: uninit reason 3
+0	22:24:55.257	CPRLevels CADJPY,M15: uninit reason 3
+0	22:24:55.257	EMA_Cross_Over CADJPY,M5: initialized
+0	22:24:55.257	CPRLevels CADJPY,M5: initialized
+0	22:24:59.029	EMA_Cross_Over CADJPY,M5: uninit reason 3
+0	22:24:59.029	CPRLevels CADJPY,M5: uninit reason 3
+0	22:24:59.030	EMA_Cross_Over CADJPY,M1: initialized
+0	22:24:59.030	CPRLevels CADJPY,M1: initialized
+0	22:28:42.234	EMA_Cross_Over CADJPY,M1: uninit reason 3
+0	22:28:42.234	CPRLevels CADJPY,M1: uninit reason 3
+0	22:28:42.234	EMA_Cross_Over EURJPY,M1: initialized
+0	22:28:42.234	CPRLevels EURJPY,M1: initialized
+0	22:28:47.950	EMA_Cross_Over EURJPY,M1: uninit reason 3
+0	22:28:47.950	CPRLevels EURJPY,M1: uninit reason 3
+0	22:28:47.950	EMA_Cross_Over EURJPY,H1: initialized
+0	22:28:47.951	CPRLevels EURJPY,H1: initialized
+0	22:28:59.313	EMA_Cross_Over EURJPY,H1: uninit reason 3
+0	22:28:59.313	CPRLevels EURJPY,H1: uninit reason 3
+0	22:28:59.314	EMA_Cross_Over EURJPY,M15: initialized
+0	22:28:59.314	CPRLevels EURJPY,M15: initialized
+0	22:29:06.799	EMA_Cross_Over EURJPY,M15: uninit reason 3
+0	22:29:06.799	CPRLevels EURJPY,M15: uninit reason 3
+0	22:29:06.800	EMA_Cross_Over EURJPY,M1: initialized
+0	22:29:06.800	CPRLevels EURJPY,M1: initialized
+0	22:29:26.269	EMA_Cross_Over EURJPY,M1: uninit reason 3
+0	22:29:26.269	CPRLevels EURJPY,M1: uninit reason 3
+0	22:29:26.269	EMA_Cross_Over EURJPY,M15: initialized
+0	22:29:26.269	CPRLevels EURJPY,M15: initialized
+0	22:29:32.222	EMA_Cross_Over EURJPY,M15: uninit reason 3
+0	22:29:32.222	CPRLevels EURJPY,M15: uninit reason 3
+0	22:29:32.223	EMA_Cross_Over EURJPY,M1: initialized
+0	22:29:32.223	CPRLevels EURJPY,M1: initialized
+0	22:30:39.571	EMA_Cross_Over EURJPY,M1: uninit reason 3
+0	22:30:39.571	CPRLevels EURJPY,M1: uninit reason 3
+0	22:30:39.571	EMA_Cross_Over EURJPY,M5: initialized
+0	22:30:39.571	CPRLevels EURJPY,M5: initialized
+0	22:31:01.723	EMA_Cross_Over EURJPY,M5: uninit reason 3
+0	22:31:01.723	CPRLevels EURJPY,M5: uninit reason 3
+0	22:31:01.723	EMA_Cross_Over EURJPY,H1: initialized
+0	22:31:01.723	CPRLevels EURJPY,H1: initialized
+0	22:31:16.102	EMA_Cross_Over EURJPY,H1: uninit reason 3
+0	22:31:16.102	CPRLevels EURJPY,H1: uninit reason 3
+0	22:31:16.103	EMA_Cross_Over EURJPY,M30: initialized
+0	22:31:16.103	CPRLevels EURJPY,M30: initialized
+0	22:32:19.509	EMA_Cross_Over EURJPY,M30: uninit reason 3
+0	22:32:19.509	CPRLevels EURJPY,M30: uninit reason 3
+0	22:32:19.509	EMA_Cross_Over EURJPY,M1: initialized
+0	22:32:19.509	CPRLevels EURJPY,M1: initialized
+0	22:32:31.142	EMA_Cross_Over EURJPY,M1: uninit reason 3
+0	22:32:31.142	CPRLevels EURJPY,M1: uninit reason 3
+0	22:32:31.142	EMA_Cross_Over EURJPY,M5: initialized
+0	22:32:31.142	CPRLevels EURJPY,M5: initialized
+0	22:32:47.708	EMA_Cross_Over EURJPY,M5: uninit reason 3
+0	22:32:47.708	CPRLevels EURJPY,M5: uninit reason 3
+0	22:32:47.709	EMA_Cross_Over EURJPY,M1: initialized
+0	22:32:47.709	CPRLevels EURJPY,M1: initialized
+0	22:35:03.694	EMA_Cross_Over EURJPY,M1: uninit reason 3
+0	22:35:03.694	CPRLevels EURJPY,M1: uninit reason 3
+0	22:35:03.694	EMA_Cross_Over EURJPY,H1: initialized
+0	22:35:03.695	CPRLevels EURJPY,H1: initialized
+0	22:35:08.141	EMA_Cross_Over EURJPY,H1: uninit reason 3
+0	22:35:08.141	CPRLevels EURJPY,H1: uninit reason 3
+0	22:35:08.141	EMA_Cross_Over EURJPY,M30: initialized
+0	22:35:08.141	CPRLevels EURJPY,M30: initialized
+0	22:35:10.817	EMA_Cross_Over EURJPY,M30: uninit reason 3
+0	22:35:10.817	CPRLevels EURJPY,M30: uninit reason 3
+0	22:35:10.818	EMA_Cross_Over EURJPY,M15: initialized
+0	22:35:10.818	CPRLevels EURJPY,M15: initialized
+0	22:35:12.916	EMA_Cross_Over EURJPY,M15: uninit reason 3
+0	22:35:12.916	CPRLevels EURJPY,M15: uninit reason 3
+0	22:35:12.916	EMA_Cross_Over EURJPY,M5: initialized
+0	22:35:12.916	CPRLevels EURJPY,M5: initialized
+0	22:35:14.712	EMA_Cross_Over EURJPY,M5: uninit reason 3
+0	22:35:14.712	CPRLevels EURJPY,M5: uninit reason 3
+0	22:35:14.713	EMA_Cross_Over EURJPY,M1: initialized
+0	22:35:14.713	CPRLevels EURJPY,M1: initialized
+0	22:40:18.992	EMA_Cross_Over EURJPY,M1: uninit reason 3
+0	22:40:18.992	CPRLevels EURJPY,M1: uninit reason 3
+0	22:40:18.992	EMA_Cross_Over EURJPY,M15: initialized
+0	22:40:18.992	CPRLevels EURJPY,M15: initialized
+0	22:40:27.551	EMA_Cross_Over EURJPY,M15: uninit reason 3
+0	22:40:27.551	CPRLevels EURJPY,M15: uninit reason 3
+0	22:40:27.551	EMA_Cross_Over EURJPY,M1: initialized
+0	22:40:27.551	CPRLevels EURJPY,M1: initialized
+0	22:40:50.839	EMA_Cross_Over EURJPY,M1: uninit reason 3
+0	22:40:50.839	CPRLevels EURJPY,M1: uninit reason 3
+0	22:40:50.840	EMA_Cross_Over EURJPY,M15: initialized
+0	22:40:50.840	CPRLevels EURJPY,M15: initialized
+0	22:40:53.119	EMA_Cross_Over EURJPY,M15: uninit reason 3
+0	22:40:53.119	CPRLevels EURJPY,M15: uninit reason 3
+0	22:40:53.119	EMA_Cross_Over EURJPY,M5: initialized
+0	22:40:53.119	CPRLevels EURJPY,M5: initialized
+0	22:40:55.741	EMA_Cross_Over EURJPY,M5: uninit reason 3
+0	22:40:55.741	CPRLevels EURJPY,M5: uninit reason 3
+0	22:40:55.741	EMA_Cross_Over EURJPY,M1: initialized
+0	22:40:55.741	CPRLevels EURJPY,M1: initialized
+0	22:42:08.991	EMA_Cross_Over EURJPY,M1: uninit reason 3
+0	22:42:08.991	CPRLevels EURJPY,M1: uninit reason 3
+0	22:42:08.991	EMA_Cross_Over EURJPY,M5: initialized
+0	22:42:08.991	CPRLevels EURJPY,M5: initialized
+0	22:42:54.871	EMA_Cross_Over EURJPY,M5: uninit reason 3
+0	22:42:54.871	CPRLevels EURJPY,M5: uninit reason 3
+0	22:42:54.872	EMA_Cross_Over EURJPY,M1: initialized
+0	22:42:54.872	CPRLevels EURJPY,M1: initialized
+0	22:44:15.159	EMA_Cross_Over EURJPY,M1: uninit reason 3
+0	22:44:15.159	CPRLevels EURJPY,M1: uninit reason 3
+0	22:44:15.160	EMA_Cross_Over CADJPY,M1: initialized
+0	22:44:15.160	CPRLevels CADJPY,M1: initialized
+0	22:44:40.913	EMA_Cross_Over CADJPY,M1: uninit reason 3
+0	22:44:40.913	CPRLevels CADJPY,M1: uninit reason 3
+0	22:44:40.913	EMA_Cross_Over CADJPY,H1: initialized
+0	22:44:40.913	CPRLevels CADJPY,H1: initialized
+0	22:46:10.144	EMA_Cross_Over CADJPY,H1: uninit reason 3
+0	22:46:10.144	CPRLevels CADJPY,H1: uninit reason 3
+0	22:46:10.144	EMA_Cross_Over CADJPY,M5: initialized
+0	22:46:10.144	CPRLevels CADJPY,M5: initialized
+0	22:47:10.086	EMA_Cross_Over CADJPY,M5: uninit reason 3
+0	22:47:10.086	CPRLevels CADJPY,M5: uninit reason 3
+0	22:47:10.086	EMA_Cross_Over CADJPY,H1: initialized
+0	22:47:10.086	CPRLevels CADJPY,H1: initialized
+0	22:47:18.984	EMA_Cross_Over CADJPY,H1: uninit reason 3
+0	22:47:18.984	CPRLevels CADJPY,H1: uninit reason 3
+0	22:47:18.984	EMA_Cross_Over CADJPY,M5: initialized
+0	22:47:18.985	CPRLevels CADJPY,M5: initialized
+0	22:47:53.606	EMA_Cross_Over CADJPY,M5: uninit reason 3
+0	22:47:53.606	CPRLevels CADJPY,M5: uninit reason 3
+0	22:47:53.606	EMA_Cross_Over CADJPY,M15: initialized
+0	22:47:53.607	CPRLevels CADJPY,M15: initialized
+0	22:48:06.496	EMA_Cross_Over CADJPY,M15: uninit reason 3
+0	22:48:06.496	CPRLevels CADJPY,M15: uninit reason 3
+0	22:48:06.497	EMA_Cross_Over CADJPY,M1: initialized
+0	22:48:06.497	CPRLevels CADJPY,M1: initialized
+0	22:48:18.601	EMA_Cross_Over CADJPY,M1: uninit reason 3
+0	22:48:18.601	CPRLevels CADJPY,M1: uninit reason 3
+0	22:48:18.601	EMA_Cross_Over CADJPY,M5: initialized
+0	22:48:18.602	CPRLevels CADJPY,M5: initialized
+0	22:49:19.906	EMA_Cross_Over CADJPY,M5: uninit reason 3
+0	22:49:19.906	CPRLevels CADJPY,M5: uninit reason 3
+0	22:49:19.906	EMA_Cross_Over CADJPY,M1: initialized
+0	22:49:19.907	CPRLevels CADJPY,M1: initialized
+0	22:49:30.477	EMA_Cross_Over CADJPY,M1: uninit reason 3
+0	22:49:30.477	CPRLevels CADJPY,M1: uninit reason 3
+0	22:49:30.477	EMA_Cross_Over CADJPY,M5: initialized
+0	22:49:30.477	CPRLevels CADJPY,M5: initialized
+0	22:50:50.614	EMA_Cross_Over CADJPY,M5: uninit reason 3
+0	22:50:50.614	CPRLevels CADJPY,M5: uninit reason 3
+0	22:50:50.626	EMA_Cross_Over AUDNZD,M5: initialized
+0	22:50:50.626	CPRLevels AUDNZD,M5: initialized
+0	22:51:03.436	EMA_Cross_Over AUDNZD,M5: uninit reason 3
+0	22:51:03.436	CPRLevels AUDNZD,M5: uninit reason 3
+0	22:51:03.436	EMA_Cross_Over AUDNZD,H1: initialized
+0	22:51:03.436	CPRLevels AUDNZD,H1: initialized
+0	22:51:22.579	EMA_Cross_Over AUDNZD,H1: uninit reason 3
+0	22:51:22.579	CPRLevels AUDNZD,H1: uninit reason 3
+0	22:51:22.592	EMA_Cross_Over AUDNZD,M30: initialized
+0	22:51:22.592	CPRLevels AUDNZD,M30: initialized
+0	22:51:37.943	EMA_Cross_Over AUDNZD,M30: uninit reason 3
+0	22:51:37.943	CPRLevels AUDNZD,M30: uninit reason 3
+0	22:51:37.955	EMA_Cross_Over AUDNZD,M15: initialized
+0	22:51:37.955	CPRLevels AUDNZD,M15: initialized
+0	22:51:48.996	EMA_Cross_Over AUDNZD,M15: uninit reason 3
+0	22:51:48.996	CPRLevels AUDNZD,M15: uninit reason 3
+0	22:51:48.996	EMA_Cross_Over AUDNZD,M5: initialized
+0	22:51:48.996	CPRLevels AUDNZD,M5: initialized
+0	23:00:59.618	EMA_Cross_Over AUDNZD,M5: uninit reason 3
+0	23:00:59.618	CPRLevels AUDNZD,M5: uninit reason 3
+0	23:00:59.619	EMA_Cross_Over AUDNZD,M15: initialized
+0	23:00:59.619	CPRLevels AUDNZD,M15: initialized
+0	23:04:39.127	EMA_Cross_Over AUDNZD,M15: uninit reason 3
+0	23:04:39.127	CPRLevels AUDNZD,M15: uninit reason 3
+0	23:04:39.144	EMA_Cross_Over USDCHF,M15: initialized
+0	23:04:39.144	CPRLevels USDCHF,M15: initialized
+0	23:04:52.468	EMA_Cross_Over USDCHF,M15: uninit reason 3
+0	23:04:52.469	CPRLevels USDCHF,M15: uninit reason 3
+0	23:04:52.484	EMA_Cross_Over AUDCAD,M15: initialized
+0	23:04:52.484	CPRLevels AUDCAD,M15: initialized
+0	23:05:26.168	EMA_Cross_Over AUDCAD,M15: uninit reason 3
+0	23:05:26.168	CPRLevels AUDCAD,M15: uninit reason 3
+0	23:05:26.183	EMA_Cross_Over AUDCHF,M15: initialized
+0	23:05:26.184	CPRLevels AUDCHF,M15: initialized
+0	23:05:32.638	EMA_Cross_Over AUDCHF,M15: uninit reason 3
+0	23:05:32.638	CPRLevels AUDCHF,M15: uninit reason 3
+0	23:05:32.638	EMA_Cross_Over AUDHKD,M15: initialized
+0	23:05:32.638	CPRLevels AUDHKD,M15: initialized
+0	23:05:34.207	EMA_Cross_Over AUDHKD,M15: uninit reason 3
+0	23:05:34.207	CPRLevels AUDHKD,M15: uninit reason 3
+0	23:05:34.221	EMA_Cross_Over AUDJPY,M15: initialized
+0	23:05:34.221	CPRLevels AUDJPY,M15: initialized
+0	23:05:39.463	EMA_Cross_Over AUDJPY,M15: uninit reason 3
+0	23:05:39.463	CPRLevels AUDJPY,M15: uninit reason 3
+0	23:05:39.463	EMA_Cross_Over AUDNZD,M15: initialized
+0	23:05:39.463	CPRLevels AUDNZD,M15: initialized
+0	23:05:47.125	EMA_Cross_Over AUDNZD,M15: uninit reason 3
+0	23:05:47.125	CPRLevels AUDNZD,M15: uninit reason 3
+0	23:05:47.138	EMA_Cross_Over CADCHF,M15: initialized
+0	23:05:47.138	CPRLevels CADCHF,M15: initialized
+0	23:06:15.235	EMA_Cross_Over CADCHF,M15: uninit reason 3
+0	23:06:15.235	CPRLevels CADCHF,M15: uninit reason 3
+0	23:06:15.252	EMA_Cross_Over EURAUD,M15: initialized
+0	23:06:15.252	CPRLevels EURAUD,M15: initialized
+0	23:06:25.552	EMA_Cross_Over EURAUD,M15: uninit reason 3
+0	23:06:25.553	CPRLevels EURAUD,M15: uninit reason 3
+0	23:06:25.563	EMA_Cross_Over EURCAD,M15: initialized
+0	23:06:25.563	CPRLevels EURCAD,M15: initialized
+0	23:06:48.881	EMA_Cross_Over EURCAD,M15: uninit reason 3
+0	23:06:48.881	CPRLevels EURCAD,M15: uninit reason 3
+0	23:06:48.897	EMA_Cross_Over EURCAD,M1: initialized
+0	23:06:48.897	CPRLevels EURCAD,M1: initialized
+0	23:06:55.116	EMA_Cross_Over EURCAD,M1: uninit reason 3
+0	23:06:55.116	CPRLevels EURCAD,M1: uninit reason 3
+0	23:06:55.128	EMA_Cross_Over EURCHF,M1: initialized
+0	23:06:55.129	CPRLevels EURCHF,M1: initialized
+0	23:07:04.683	EMA_Cross_Over EURCHF,M1: uninit reason 3
+0	23:07:04.683	CPRLevels EURCHF,M1: uninit reason 3
+0	23:07:04.683	EMA_Cross_Over EURGBP,M1: initialized
+0	23:07:04.683	CPRLevels EURGBP,M1: initialized
+0	23:07:14.004	EMA_Cross_Over EURGBP,M1: uninit reason 3
+0	23:07:14.004	CPRLevels EURGBP,M1: uninit reason 3
+0	23:07:14.021	EMA_Cross_Over GBPAUD,M1: initialized
+0	23:07:14.021	CPRLevels GBPAUD,M1: initialized
+0	23:07:48.897	EMA_Cross_Over GBPAUD,M1: uninit reason 3
+0	23:07:48.897	CPRLevels GBPAUD,M1: uninit reason 3
+0	23:07:48.913	EMA_Cross_Over GBPAUD,M15: initialized
+0	23:07:48.913	CPRLevels GBPAUD,M15: initialized
+0	23:08:04.870	EMA_Cross_Over GBPAUD,M15: uninit reason 3
+0	23:08:04.870	CPRLevels GBPAUD,M15: uninit reason 3
+0	23:08:04.887	EMA_Cross_Over GBPUSD,M15: initialized
+0	23:08:04.887	CPRLevels GBPUSD,M15: initialized
+0	23:10:18.519	EMA_Cross_Over GBPUSD,M15: uninit reason 3
+0	23:10:18.519	CPRLevels GBPUSD,M15: uninit reason 3
+0	23:10:18.535	EMA_Cross_Over GBPUSD,M5: initialized
+0	23:10:18.536	CPRLevels GBPUSD,M5: initialized
+0	23:14:06.346	EMA_Cross_Over GBPUSD,M5: uninit reason 9
+0	23:14:06.346	CPRLevels GBPUSD,M5: uninit reason 9
+0	23:14:06.411	Custom indicator EMA_Cross_Over GBPUSD,M5: removed
+0	23:14:06.414	Custom indicator CPRLevels GBPUSD,M5: removed

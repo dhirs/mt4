@@ -9,9 +9,9 @@
 #property strict
 
 //Trade parameters
-input double lotSize = 0.8;
+input double lotSize = 0.2;
 input double RR = 2;
-input int LossPips = 40;
+input int LossPips = 50;
 input int fast_ma_period = 50;
 input int slow_ma_period = 200;
 
@@ -60,15 +60,15 @@ void OnTick()
      {
 
       int signal = check_signal();
-      if(signal == 1)
+      if(signal == 2)
         {
-         sendOrder(LossPips,RR,lotSize,comment, true);
+         openOrderID = sendOrder(LossPips,RR,lotSize,comment, true);
          return;
         }
       else
-         if(signal == 2)
+         if(signal == 1)
            {
-            sendOrder(LossPips,RR,lotSize,comment, false);
+            openOrderID = sendOrder(LossPips,RR,lotSize,comment, false);
             return;
 
            }
@@ -77,28 +77,54 @@ void OnTick()
             Print("No Signal");
            }
      }
+   if(CheckIfOpenOrdersByComment(ea_id))
+     {
 
+      if(OrderSelect(openOrderID,SELECT_BY_TICKET))
+        {
+
+         int orderType = OrderType();
+         double ema_fast = iMA(0,PERIOD_CURRENT,fast_ma_period,0,MODE_EMA,PRICE_CLOSE,0);
+
+         if(orderType == OP_BUYLIMIT)
+           {
+            if(Close[1] < ema_fast)
+              {
+               OrderClose(openOrderID,OrderLots(),Bid,3);
+
+              }
+
+           }
+         if(orderType == OP_SELLLIMIT)
+           {
+
+            if(Close[1] > ema_fast)
+              {
+               OrderClose(openOrderID,OrderLots(),Ask,3);
+
+              }
+           }
+
+
+
+        }
+
+     }
   }
 //+------------------------------------------------------------------+
 int check_signal()
   {
 
-   double ShortSignal = iCustom(NULL,0, indicatorName,2,1);
-   double LongSignal = iCustom(NULL,0, indicatorName,3,1);
-   Print("----------ShortSignalBefore--------"+ShortSignal);
-   Print("----------LongSignalBefore--------"+LongSignal);
-   
-   if(LongSignal != EMPTY_VALUE)
-     {
-      Print("-------Long-----------"+LongSignal+"---------------------");
-      return 1;
-     }
-   if(ShortSignal != EMPTY_VALUE)
-     {
-      Print("-------Short-----------"+ShortSignal+"---------------------");
-      return 2;
-     }
-   return 0;
+   double fast_ma_0 = iMA(0,PERIOD_CURRENT,fast_ma_period,0,MODE_EMA,PRICE_CLOSE,1);
+   double slow_ma_0 = iMA(0,PERIOD_CURRENT,slow_ma_period,0,MODE_EMA,PRICE_CLOSE,1);
+
+   double fast_ma_2 = iMA(0,PERIOD_CURRENT,fast_ma_period,0,MODE_EMA,PRICE_CLOSE,3);
+   double slow_ma_2 = iMA(0,PERIOD_CURRENT,slow_ma_period,0,MODE_EMA,PRICE_CLOSE,3);
+
+   int signal = detect_indicator_cross(fast_ma_0, slow_ma_0, fast_ma_2, slow_ma_2);
+   return signal;
 
   }
+//+------------------------------------------------------------------+
+
 //+------------------------------------------------------------------+
