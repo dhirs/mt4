@@ -1,2 +1,1376 @@
 0	17:22:23.132	Custom indicator Trademyner\EMA_Cross_Over EURJPY,M15: loaded successfully
 0	17:22:23.141	Custom indicator Trademyner\CPRLevels EURJPY,M15: loaded successfully
+0	17:22:23.158	EMA_Cross_Over EURJPY,M15: initialized
+0	17:22:23.170	CPRLevels EURJPY,M15: initialized
+0	17:22:31.295	EMA_Cross_Over EURJPY,M15: uninit reason 3
+0	17:22:31.295	CPRLevels EURJPY,M15: uninit reason 3
+0	17:22:31.302	EMA_Cross_Over EURJPY,H1: initialized
+0	17:22:31.302	CPRLevels EURJPY,H1: initialized
+0	17:22:37.954	EMA_Cross_Over EURJPY,H1: uninit reason 3
+0	17:22:37.954	CPRLevels EURJPY,H1: uninit reason 3
+0	17:22:38.021	EMA_Cross_Over EURJPY,H4: initialized
+0	17:22:38.021	CPRLevels EURJPY,H4: initialized
+0	17:22:59.525	EMA_Cross_Over EURJPY,H4: uninit reason 3
+0	17:22:59.525	CPRLevels EURJPY,H4: uninit reason 3
+0	17:22:59.532	EMA_Cross_Over EURJPY,M30: initialized
+0	17:22:59.532	CPRLevels EURJPY,M30: initialized
+0	17:30:37.021	Script Scanner_EA_Cross EURJPY,M30: loaded successfully
+0	17:30:37.021	Scanner_EA_Cross EURJPY,M30 inputs: period_slow=50.0; period_fast=200.0; 
+0	17:30:37.033	Scanner_EA_Cross EURJPY,M30: initialized
+0	17:30:37.033	Scanner_EA_Cross EURJPY,M30: No cross-overs found
+0	17:30:37.058	Scanner_EA_Cross EURJPY,M30: No cross-overs found
+0	17:30:37.058	Scanner_EA_Cross EURJPY,M30: uninit reason 0
+0	17:30:37.060	Script Scanner_EA_Cross EURJPY,M30: removed
+0	17:32:35.501	EMA_Cross_Over EURJPY,M30: uninit reason 3
+0	17:32:35.501	CPRLevels EURJPY,M30: uninit reason 3
+0	17:32:35.501	EMA_Cross_Over EURJPY,M15: initialized
+0	17:32:35.501	CPRLevels EURJPY,M15: initialized
+0	17:35:25.150	EMA_Cross_Over EURJPY,M15: uninit reason 3
+0	17:35:25.150	CPRLevels EURJPY,M15: uninit reason 3
+0	17:35:25.157	EMA_Cross_Over EURJPY,M5: initialized
+0	17:35:25.157	CPRLevels EURJPY,M5: initialized
+0	17:50:43.015	Script Scanner_EA_Cross EURJPY,M5: loaded successfully
+0	17:50:43.015	Scanner_EA_Cross EURJPY,M5 inputs: period_slow=50.0; period_fast=200.0; 
+0	17:50:43.032	Scanner_EA_Cross EURJPY,M5: initialized
+0	17:50:43.032	Scanner_EA_Cross EURJPY,M5: No cross-overs found
+0	17:50:43.032	Scanner_EA_Cross EURJPY,M5: No cross-overs found
+0	17:50:43.032	Scanner_EA_Cross EURJPY,M5: uninit reason 0
+0	17:50:43.032	Script Scanner_EA_Cross EURJPY,M5: removed
+0	18:09:03.105	EMA_Cross_Over EURJPY,M5: uninit reason 3
+0	18:09:03.105	CPRLevels EURJPY,M5: uninit reason 3
+0	18:09:03.105	EMA_Cross_Over EURJPY,M15: initialized
+0	18:09:03.105	CPRLevels EURJPY,M15: initialized
+0	18:20:32.795	Script Scanner_EA_Cross EURJPY,M15: loaded successfully
+0	18:20:32.795	Scanner_EA_Cross EURJPY,M15 inputs: period_slow=50.0; period_fast=200.0; 
+0	18:20:32.811	Scanner_EA_Cross EURJPY,M15: initialized
+0	18:20:32.811	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	18:20:32.811	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	18:20:32.811	Scanner_EA_Cross EURJPY,M15: uninit reason 0
+0	18:20:32.811	Script Scanner_EA_Cross EURJPY,M15: removed
+0	18:23:19.505	Script Scanner_EA_Cross EURJPY,M15: loaded successfully
+0	18:23:19.505	Scanner_EA_Cross EURJPY,M15 inputs: period_slow=50.0; period_fast=200.0; 
+0	18:23:19.524	Scanner_EA_Cross EURJPY,M15: initialized
+0	18:23:19.524	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	18:23:19.525	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	18:23:19.525	Scanner_EA_Cross EURJPY,M15: uninit reason 0
+0	18:23:19.527	Script Scanner_EA_Cross EURJPY,M15: removed
+0	18:36:02.700	Script Scanner_EA_Cross EURJPY,M15: loaded successfully
+0	18:36:02.700	Scanner_EA_Cross EURJPY,M15 inputs: period_slow=50.0; period_fast=200.0; 
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: initialized
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----0
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----1
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----2
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----3
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----4
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----5
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----6
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----7
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----8
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----9
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----10
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----11
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----12
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----13
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----14
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----15
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----16
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----17
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----18
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----19
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----20
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----21
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----22
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----23
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----24
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----25
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----26
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----27
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----28
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----29
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----30
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----31
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----32
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----33
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----34
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----35
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----36
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----37
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----38
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----39
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----40
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----41
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----42
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----43
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----44
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----45
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----46
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----47
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----48
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----49
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----50
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----51
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----52
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----53
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----54
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----55
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----56
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----57
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----58
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----59
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----60
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----61
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----62
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----63
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----64
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----65
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----66
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----67
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----68
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----69
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----70
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----71
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----72
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----73
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----74
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----75
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----76
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----77
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----78
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----79
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----80
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----81
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----82
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----83
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----84
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----85
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----86
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----87
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----88
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----89
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----90
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----91
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----92
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----93
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----94
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----95
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----96
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----97
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----98
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURJPY-----99
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURCHF-----0
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURCHF-----1
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURCHF-----2
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURCHF-----3
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURCHF-----4
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURCHF-----5
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURCHF-----6
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURCHF-----7
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURCHF-----8
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURCHF-----9
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURCHF-----10
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURCHF-----11
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURCHF-----12
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURCHF-----13
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURCHF-----14
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURCHF-----15
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURCHF-----16
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURCHF-----17
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURCHF-----18
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURCHF-----19
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURCHF-----20
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURCHF-----21
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURCHF-----22
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURCHF-----23
+0	18:36:02.719	Scanner_EA_Cross EURJPY,M15: EURCHF-----24
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----25
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----26
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----27
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----28
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----29
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----30
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----31
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----32
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----33
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----34
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----35
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----36
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----37
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----38
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----39
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----40
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----41
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----42
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----43
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----44
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----45
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----46
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----47
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----48
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----49
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----50
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----51
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----52
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----53
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----54
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----55
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----56
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----57
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----58
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----59
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----60
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----61
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----62
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----63
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----64
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----65
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----66
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----67
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----68
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----69
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----70
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----71
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----72
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----73
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----74
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----75
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----76
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----77
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----78
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----79
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----80
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----81
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----82
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----83
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----84
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----85
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----86
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----87
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----88
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----89
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----90
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----91
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----92
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----93
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----94
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----95
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----96
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----97
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----98
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: EURCHF-----99
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	18:36:02.720	Scanner_EA_Cross EURJPY,M15: uninit reason 0
+0	18:36:02.722	Script Scanner_EA_Cross EURJPY,M15: removed
+0	18:38:28.395	Script Scanner_EA_Cross EURJPY,M15: loaded successfully
+0	18:38:28.395	Scanner_EA_Cross EURJPY,M15 inputs: period_slow=50.0; period_fast=200.0; 
+0	18:38:28.414	Scanner_EA_Cross EURJPY,M15: initialized
+0	18:38:28.414	Scanner_EA_Cross EURJPY,M15: EURJPY-----0-------0
+0	18:38:28.414	Scanner_EA_Cross EURJPY,M15: EURJPY-----1-------0
+0	18:38:28.414	Scanner_EA_Cross EURJPY,M15: EURJPY-----2-------0
+0	18:38:28.414	Scanner_EA_Cross EURJPY,M15: EURJPY-----3-------0
+0	18:38:28.414	Scanner_EA_Cross EURJPY,M15: EURJPY-----4-------0
+0	18:38:28.414	Scanner_EA_Cross EURJPY,M15: EURJPY-----5-------0
+0	18:38:28.414	Scanner_EA_Cross EURJPY,M15: EURJPY-----6-------0
+0	18:38:28.414	Scanner_EA_Cross EURJPY,M15: EURJPY-----7-------0
+0	18:38:28.414	Scanner_EA_Cross EURJPY,M15: EURJPY-----8-------0
+0	18:38:28.414	Scanner_EA_Cross EURJPY,M15: EURJPY-----9-------0
+0	18:38:28.414	Scanner_EA_Cross EURJPY,M15: EURJPY-----10-------0
+0	18:38:28.414	Scanner_EA_Cross EURJPY,M15: EURJPY-----11-------0
+0	18:38:28.414	Scanner_EA_Cross EURJPY,M15: EURJPY-----12-------0
+0	18:38:28.414	Scanner_EA_Cross EURJPY,M15: EURJPY-----13-------0
+0	18:38:28.414	Scanner_EA_Cross EURJPY,M15: EURJPY-----14-------0
+0	18:38:28.414	Scanner_EA_Cross EURJPY,M15: EURJPY-----15-------0
+0	18:38:28.414	Scanner_EA_Cross EURJPY,M15: EURJPY-----16-------0
+0	18:38:28.414	Scanner_EA_Cross EURJPY,M15: EURJPY-----17-------0
+0	18:38:28.414	Scanner_EA_Cross EURJPY,M15: EURJPY-----18-------0
+0	18:38:28.414	Scanner_EA_Cross EURJPY,M15: EURJPY-----19-------0
+0	18:38:28.414	Scanner_EA_Cross EURJPY,M15: EURJPY-----20-------0
+0	18:38:28.414	Scanner_EA_Cross EURJPY,M15: EURJPY-----21-------0
+0	18:38:28.414	Scanner_EA_Cross EURJPY,M15: EURJPY-----22-------0
+0	18:38:28.414	Scanner_EA_Cross EURJPY,M15: EURJPY-----23-------0
+0	18:38:28.414	Scanner_EA_Cross EURJPY,M15: EURJPY-----24-------0
+0	18:38:28.414	Scanner_EA_Cross EURJPY,M15: EURJPY-----25-------0
+0	18:38:28.414	Scanner_EA_Cross EURJPY,M15: EURJPY-----26-------0
+0	18:38:28.414	Scanner_EA_Cross EURJPY,M15: EURJPY-----27-------0
+0	18:38:28.414	Scanner_EA_Cross EURJPY,M15: EURJPY-----28-------0
+0	18:38:28.414	Scanner_EA_Cross EURJPY,M15: EURJPY-----29-------0
+0	18:38:28.414	Scanner_EA_Cross EURJPY,M15: EURJPY-----30-------0
+0	18:38:28.414	Scanner_EA_Cross EURJPY,M15: EURJPY-----31-------0
+0	18:38:28.414	Scanner_EA_Cross EURJPY,M15: EURJPY-----32-------0
+0	18:38:28.414	Scanner_EA_Cross EURJPY,M15: EURJPY-----33-------0
+0	18:38:28.414	Scanner_EA_Cross EURJPY,M15: EURJPY-----34-------0
+0	18:38:28.414	Scanner_EA_Cross EURJPY,M15: EURJPY-----35-------0
+0	18:38:28.414	Scanner_EA_Cross EURJPY,M15: EURJPY-----36-------0
+0	18:38:28.414	Scanner_EA_Cross EURJPY,M15: EURJPY-----37-------0
+0	18:38:28.414	Scanner_EA_Cross EURJPY,M15: EURJPY-----38-------0
+0	18:38:28.414	Scanner_EA_Cross EURJPY,M15: EURJPY-----39-------0
+0	18:38:28.414	Scanner_EA_Cross EURJPY,M15: EURJPY-----40-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----41-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----42-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----43-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----44-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----45-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----46-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----47-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----48-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----49-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----50-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----51-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----52-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----53-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----54-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----55-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----56-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----57-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----58-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----59-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----60-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----61-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----62-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----63-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----64-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----65-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----66-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----67-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----68-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----69-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----70-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----71-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----72-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----73-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----74-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----75-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----76-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----77-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----78-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----79-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----80-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----81-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----82-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----83-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----84-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----85-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----86-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----87-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----88-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----89-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----90-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----91-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----92-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----93-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----94-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----95-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----96-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----97-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----98-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURJPY-----99-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----0-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----1-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----2-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----3-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----4-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----5-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----6-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----7-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----8-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----9-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----10-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----11-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----12-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----13-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----14-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----15-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----16-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----17-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----18-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----19-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----20-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----21-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----22-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----23-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----24-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----25-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----26-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----27-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----28-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----29-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----30-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----31-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----32-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----33-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----34-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----35-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----36-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----37-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----38-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----39-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----40-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----41-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----42-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----43-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----44-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----45-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----46-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----47-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----48-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----49-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----50-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----51-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----52-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----53-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----54-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----55-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----56-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----57-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----58-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----59-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----60-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----61-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----62-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----63-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----64-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----65-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----66-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----67-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----68-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----69-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----70-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----71-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----72-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----73-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----74-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----75-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----76-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----77-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----78-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----79-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----80-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----81-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----82-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----83-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----84-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----85-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----86-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----87-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----88-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----89-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----90-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----91-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----92-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----93-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----94-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----95-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----96-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----97-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----98-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: EURCHF-----99-------0
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	18:38:28.415	Scanner_EA_Cross EURJPY,M15: uninit reason 0
+0	18:38:28.418	Script Scanner_EA_Cross EURJPY,M15: removed
+0	18:40:18.671	Script Scanner_EA_Cross EURJPY,M15: loaded successfully
+0	18:40:18.671	Scanner_EA_Cross EURJPY,M15 inputs: period_slow=50.0; period_fast=200.0; 
+0	18:40:18.690	Scanner_EA_Cross EURJPY,M15: initialized
+0	18:40:18.691	Scanner_EA_Cross EURJPY,M15: EURJPY-----0-------0
+0	18:40:18.691	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	18:40:18.691	Scanner_EA_Cross EURJPY,M15: EURCHF-----0-------0
+0	18:40:18.691	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	18:40:18.691	Scanner_EA_Cross EURJPY,M15: uninit reason 0
+0	18:40:18.693	Script Scanner_EA_Cross EURJPY,M15: removed
+0	18:41:22.288	Script Scanner_EA_Cross EURJPY,M15: loaded successfully
+0	18:41:22.288	Scanner_EA_Cross EURJPY,M15 inputs: period_slow=50.0; period_fast=200.0; 
+0	18:41:22.308	Scanner_EA_Cross EURJPY,M15: initialized
+0	18:41:22.308	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0140.3477088918791
+0	18:41:22.308	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2140.3311133794805
+0	18:41:22.308	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	18:41:22.308	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_01.024678390961862
+0	18:41:22.308	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_21.024957947356132
+0	18:41:22.308	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	18:41:22.308	Scanner_EA_Cross EURJPY,M15: uninit reason 0
+0	18:41:22.311	Script Scanner_EA_Cross EURJPY,M15: removed
+0	18:42:07.694	Script Scanner_EA_Cross EURJPY,M15: loaded successfully
+0	18:42:07.694	Scanner_EA_Cross EURJPY,M15 inputs: period_slow=50.0; period_fast=200.0; 
+0	18:42:07.712	Scanner_EA_Cross EURJPY,M15: initialized
+0	18:42:07.712	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----140.348
+0	18:42:07.712	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----140.3311133794805
+0	18:42:07.712	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	18:42:07.712	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.025
+0	18:42:07.712	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.024957947356132
+0	18:42:07.712	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	18:42:07.712	Scanner_EA_Cross EURJPY,M15: uninit reason 0
+0	18:42:07.714	Script Scanner_EA_Cross EURJPY,M15: removed
+0	18:42:58.725	Script Scanner_EA_Cross EURJPY,M15: loaded successfully
+0	18:42:58.725	Scanner_EA_Cross EURJPY,M15 inputs: period_slow=50.0; period_fast=200.0; 
+0	18:42:58.745	Scanner_EA_Cross EURJPY,M15: initialized
+0	18:42:58.745	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----140.347
+0	18:42:58.745	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----140.331
+0	18:42:58.745	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	18:42:58.745	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.025
+0	18:42:58.745	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.025
+0	18:42:58.745	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	18:42:58.745	Scanner_EA_Cross EURJPY,M15: uninit reason 0
+0	18:42:58.747	Script Scanner_EA_Cross EURJPY,M15: removed
+0	21:43:12.124	EMA_Cross_Over EURJPY,M15: uninit reason 3
+0	21:43:12.124	CPRLevels EURJPY,M15: uninit reason 3
+0	21:43:12.132	EMA_Cross_Over EURJPY,M30: initialized
+0	21:43:12.132	CPRLevels EURJPY,M30: initialized
+0	21:45:53.846	Script Scanner_EA_Cross EURJPY,M30: loaded successfully
+0	21:45:53.846	Scanner_EA_Cross EURJPY,M30 inputs: period_slow=50.0; period_fast=200.0; 
+0	21:45:53.846	Scanner_EA_Cross EURJPY,M30: initialized
+0	21:45:53.846	Scanner_EA_Cross EURJPY,M30: EURJPY-----fast_ema_0-----140.465
+0	21:45:53.846	Scanner_EA_Cross EURJPY,M30: EURJPY-----fast_ema_2-----140.444
+0	21:45:53.846	Scanner_EA_Cross EURJPY,M30: No cross-overs found
+0	21:45:53.863	Scanner_EA_Cross EURJPY,M30: EURCHF-----fast_ema_0-----1.025
+0	21:45:53.863	Scanner_EA_Cross EURJPY,M30: EURCHF-----fast_ema_2-----1.025
+0	21:45:53.863	Scanner_EA_Cross EURJPY,M30: No cross-overs found
+0	21:45:53.863	Scanner_EA_Cross EURJPY,M30: uninit reason 0
+0	21:45:53.867	Script Scanner_EA_Cross EURJPY,M30: removed
+0	21:46:14.132	Script Scanner_EA_Cross EURJPY,M30: loaded successfully
+0	21:46:14.132	Scanner_EA_Cross EURJPY,M30 inputs: period_slow=50.0; period_fast=200.0; 
+0	21:46:14.147	Scanner_EA_Cross EURJPY,M30: initialized
+0	21:46:14.147	Scanner_EA_Cross EURJPY,M30: EURJPY-----fast_ema_0-----140.474
+0	21:46:14.147	Scanner_EA_Cross EURJPY,M30: EURJPY-----fast_ema_2-----140.455
+0	21:46:14.147	Scanner_EA_Cross EURJPY,M30: No cross-overs found
+0	21:46:14.147	Scanner_EA_Cross EURJPY,M30: EURCHF-----fast_ema_0-----1.024
+0	21:46:14.147	Scanner_EA_Cross EURJPY,M30: EURCHF-----fast_ema_2-----1.024
+0	21:46:14.147	Scanner_EA_Cross EURJPY,M30: No cross-overs found
+0	21:46:14.147	Scanner_EA_Cross EURJPY,M30: uninit reason 0
+0	21:46:14.147	Script Scanner_EA_Cross EURJPY,M30: removed
+0	21:46:24.554	EMA_Cross_Over EURJPY,M30: uninit reason 3
+0	21:46:24.554	CPRLevels EURJPY,M30: uninit reason 3
+0	21:46:24.554	EMA_Cross_Over EURJPY,M15: initialized
+0	21:46:24.554	CPRLevels EURJPY,M15: initialized
+0	21:46:27.809	Script Scanner_EA_Cross EURJPY,M15: loaded successfully
+0	21:46:27.809	Scanner_EA_Cross EURJPY,M15 inputs: period_slow=50.0; period_fast=200.0; 
+0	21:46:27.825	Scanner_EA_Cross EURJPY,M15: initialized
+0	21:46:27.825	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----140.474
+0	21:46:27.825	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----140.455
+0	21:46:27.825	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	21:46:27.825	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.024
+0	21:46:27.825	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.024
+0	21:46:27.825	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	21:46:27.825	Scanner_EA_Cross EURJPY,M15: uninit reason 0
+0	21:46:27.825	Script Scanner_EA_Cross EURJPY,M15: removed
+0	21:47:21.889	Script Scanner_EA_Cross EURJPY,M15: loaded successfully
+0	21:47:21.889	Scanner_EA_Cross EURJPY,M15 inputs: period_slow=50.0; period_fast=200.0; 
+0	21:47:21.905	Scanner_EA_Cross EURJPY,M15: initialized
+0	21:47:21.905	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----140.474
+0	21:47:21.905	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----140.455
+0	21:47:21.905	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	21:47:21.905	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.024
+0	21:47:21.905	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.024
+0	21:47:21.905	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	21:47:21.905	Scanner_EA_Cross EURJPY,M15: uninit reason 0
+0	21:47:21.922	Script Scanner_EA_Cross EURJPY,M15: removed
+0	21:49:43.777	Script Scanner_EA_Cross EURJPY,M15: loaded successfully
+0	21:49:43.777	Scanner_EA_Cross EURJPY,M15 inputs: period_slow=200.0; period_fast=50.0; 
+0	21:49:43.811	Scanner_EA_Cross EURJPY,M15: initialized
+0	21:49:43.811	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----141.173
+0	21:49:43.811	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----141.153
+0	21:49:43.811	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	21:49:43.811	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.016
+0	21:49:43.811	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.015
+0	21:49:43.811	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	21:49:43.811	Scanner_EA_Cross EURJPY,M15: uninit reason 0
+0	21:49:43.811	Script Scanner_EA_Cross EURJPY,M15: removed
+0	21:51:19.000	Script Scanner_EA_Cross EURJPY,M15: loaded successfully
+0	21:51:19.000	Scanner_EA_Cross EURJPY,M15 inputs: period_slow=200.0; period_fast=50.0; 
+0	21:51:19.009	Scanner_EA_Cross EURJPY,M15: initialized
+0	21:51:19.009	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----141.171164
+0	21:51:19.009	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----141.153286
+0	21:51:19.009	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	21:51:19.009	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.015612
+0	21:51:19.009	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.015487
+0	21:51:19.009	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	21:51:19.009	Scanner_EA_Cross EURJPY,M15: uninit reason 0
+0	21:51:19.009	Script Scanner_EA_Cross EURJPY,M15: removed
+0	21:53:06.902	Script Scanner_EA_Cross EURJPY,M15: loaded successfully
+0	21:53:06.902	Scanner_EA_Cross EURJPY,M15 inputs: period_slow=200.0; period_fast=50.0; 
+0	21:53:06.927	Scanner_EA_Cross EURJPY,M15: initialized
+0	21:53:06.927	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----141.163823
+0	21:53:06.927	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----141.13693
+0	21:53:06.927	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	21:53:06.927	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.015556
+0	21:53:06.927	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.015398
+0	21:53:06.927	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	21:53:06.927	Scanner_EA_Cross EURJPY,M15: uninit reason 0
+0	21:53:06.927	Script Scanner_EA_Cross EURJPY,M15: removed
+0	21:54:12.380	Script Scanner_EA_Cross EURJPY,M15: loaded successfully
+0	21:54:12.380	Scanner_EA_Cross EURJPY,M15 inputs: period_slow=200.0; period_fast=50.0; 
+0	21:54:12.397	Scanner_EA_Cross EURJPY,M15: initialized
+0	21:54:12.397	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----141.1638234209077
+0	21:54:12.397	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----141.1369299116122
+0	21:54:12.397	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	21:54:12.397	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.015555734948095
+0	21:54:12.397	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.015398295127029
+0	21:54:12.397	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	21:54:12.397	Scanner_EA_Cross EURJPY,M15: uninit reason 0
+0	21:54:12.397	Script Scanner_EA_Cross EURJPY,M15: removed
+0	21:55:42.835	Script Scanner_EA_Cross EURJPY,M15: loaded successfully
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15 inputs: period_slow=200.0; period_fast=50.0; 
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: initialized
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----141.1638234209077
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----141.1369299116122
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----141.1532856013529
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----141.1281923569842
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----141.1369299116122
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----141.1162818409427
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----141.1281923569842
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----141.0972321201649
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----141.1162818409427
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----141.0817722067022
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----141.0972321201649
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----141.0753955620778
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----141.0817722067022
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----141.0614933401218
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----141.0753955620778
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----141.0493093948207
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----141.0614933401218
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----141.0369954925685
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----141.0493093948207
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----141.0291585738977
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----141.0369954925685
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----141.0202262707915
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----141.0291585738977
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----141.020153873681
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----141.0202262707915
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----141.011670358321
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----141.020153873681
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----141.0070038423341
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----141.011670358321
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----140.9979427746743
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----141.0070038423341
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----140.9900628879263
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----140.9979427746743
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----140.9804328017192
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----140.9900628879263
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----140.9567769977077
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----140.9804328017192
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----140.9351760588386
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----140.9567769977077
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----140.91628528573
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----140.9351760588386
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----140.8852765218822
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----140.91628528573
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----140.8538184207346
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----140.8852765218822
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----140.8230763154585
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----140.8538184207346
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----140.7796916752731
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----140.8230763154585
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----140.7400464375291
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----140.7796916752731
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----140.7053952717139
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----140.7400464375291
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----140.6596154868859
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----140.7053952717139
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----140.616130404718
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----140.6596154868859
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----140.58001327838
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----140.616130404718
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----140.5486668815792
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----140.58001327838
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----140.5269798155211
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----140.5486668815792
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----140.4962034814608
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----140.5269798155211
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----140.4660485215204
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----140.4962034814608
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----140.4366627468886
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----140.4660485215204
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----140.3956285732922
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----140.4366627468886
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----140.3612868824061
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----140.3956285732922
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----140.3327679796472
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----140.3612868824061
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----140.3126768767756
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----140.3327679796472
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----140.2856024635828
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----140.3126768767756
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----140.2618311355658
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----140.2856024635828
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----140.230681385997
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----140.2618311355658
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----140.1983010344051
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----140.230681385997
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----140.1700684235644
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----140.1983010344051
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----140.1350099918732
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----140.1700684235644
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----140.1039083588884
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----140.1350099918732
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----140.0688025776186
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----140.1039083588884
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----140.0297741113989
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----140.0688025776186
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.9896424424764
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----140.0297741113989
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.9405258074755
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.9896424424764
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.8958125751275
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: Alert: EMA Cross-up for EURJPY-H1
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.9405258074755
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.8563763537041
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: Alert: EMA Cross-up for EURJPY-H1
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.8958125751275
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.8187590620186
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.8563763537041
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.7814839216928
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.8187590620186
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.7143200001292
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.7814839216928
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.6831493878896
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.7143200001292
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.6505840567831
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.6831493878896
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.616730344815
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.6505840567831
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.5823519915422
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.616730344815
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.5548561544622
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.5823519915422
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.5252176301546
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.5548561544622
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.4889407987323
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.5252176301546
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.4679179741908
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.4889407987323
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.4502003404842
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.4679179741908
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.4343309666264
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.4502003404842
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.4259771285296
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.4343309666264
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.4106292562246
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.4259771285296
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.3916345319889
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.4106292562246
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.3731298190088
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.3916345319889
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.3534208320296
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.3731298190088
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.3361318863981
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.3534208320296
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.3252801266593
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.3361318863981
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.3111282950943
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.3252801266593
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.2974192459145
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.3111282950943
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.2879669702375
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.2974192459145
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.2804962343288
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.2879669702375
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.2746797540973
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.2804962343288
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.2651972950809
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.2746797540973
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.2590420826352
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.2651972950809
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.2525131880489
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.2590420826352
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.2435545426632
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.2525131880489
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.2352914627718
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.2435545426632
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.2314258081911
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.2352914627718
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.2195248207703
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.2314258081911
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.2068115481487
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.2195248207703
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.1916609990935
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.2068115481487
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.1736471623218
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.1916609990935
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.1588164342533
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.1736471623218
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.1380742478964
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.1588164342533
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.1140772784227
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.1380742478964
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.0868967591747
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.1140772784227
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.0641170350594
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.0868967591747
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.0542442609802
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.0641170350594
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.048784843061
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.0542442609802
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.0418781019615
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.048784843061
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.0326486367354
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.0418781019615
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.0407159280307
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.0326486367354
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.0573573944809
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.0407159280307
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.0749638187454
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.0573573944809
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.0841460154289
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_0-----139.0749638187454
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURJPY-----fast_ema_2-----139.0814580976913
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.015555734948095
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.015398295127029
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.015486989435773
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.015345980642418
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.015398295127029
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.015317245158435
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.015345980642418
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.015304887817963
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.015317245158435
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.015245903647267
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.015304887817963
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.015266552775727
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.015245903647267
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.015292534521675
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.015266552775727
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.015432637971539
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.015292534521675
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.015566623194867
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.015432637971539
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.015674240468127
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.015566623194867
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.015848699262745
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.015674240468127
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.016041707395918
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.015848699262745
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.016254021983506
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.016041707395918
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.016472961656303
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.016254021983506
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.016661653968805
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.016472961656303
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.016915599028756
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.016661653968805
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.017190929601358
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.016915599028756
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.017403620605495
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.017190929601358
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.017645809201638
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.017403620605495
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.017788495291501
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.017645809201638
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.017924760405439
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.017788495291501
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.018067403687294
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.017924760405439
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.018184848735755
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.018067403687294
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.018280148684153
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.018184848735755
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.018359338426363
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.018280148684153
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.018450739994786
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.018359338426363
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.018495259994573
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.018450739994786
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.01857629101476
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.018495259994573
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.018696547790872
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.01857629101476
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.018907835455806
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.018696547790872
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.019115094045839
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.018907835455806
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.019294893802812
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.019115094045839
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.019537542529457
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.019294893802812
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.019722748346986
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.019537542529457
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.019898778891761
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.019722748346986
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.020044035173057
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.019898778891761
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.020210730486243
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.020044035173057
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.020316474587723
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.020210730486243
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.02037061640763
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.020316474587723
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.020428192587533
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.02037061640763
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.020453424938045
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.020428192587533
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.020477646364087
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.020453424938045
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.020493060501397
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.020477646364087
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.02050461399125
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.020493060501397
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.020524802317423
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.02050461399125
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.020548671799767
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.020524802317423
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.020562903301798
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.020548671799767
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.020563429967178
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.020562903301798
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.02053908016992
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.020563429967178
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.020521491605427
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.02053908016992
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.020534205548505
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.020521491605427
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.020561315979057
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.020534205548505
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.020596471733304
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.020561315979057
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.020578368538745
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.020596471733304
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.020570955009714
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.020578368538745
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.020564463377457
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.020570955009714
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.020558114943884
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.020564463377457
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.020546201268124
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.020558114943884
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.020551352340292
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.020546201268124
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.020552632027651
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.020551352340292
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.020548249661433
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.020552632027651
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.020573076178226
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.020548249661433
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.020608711940603
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.020573076178226
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.020631108346342
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.020608711940603
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.020670337258437
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.020631108346342
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.020711575513884
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.020670337258437
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.020744292881797
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.020711575513884
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.020784468101462
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.020744292881797
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.020815670881114
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.020784468101462
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.020854677855853
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.020815670881114
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.020912827972418
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.020854677855853
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.020954576052925
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.020912827972418
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.021011497524473
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.020954576052925
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.02108298721935
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.021011497524473
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.021168415269119
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.02108298721935
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.021245085280103
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.021168415269119
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.021302027536434
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.021245085280103
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.021376804170574
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.021302027536434
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.021468918626516
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.021376804170574
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.021560303060251
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.021468918626516
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.021636233797405
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.021560303060251
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.02173608007485
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.021636233797405
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.021840409873823
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.02173608007485
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.021960018440101
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.021840409873823
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.022078794702963
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.021960018440101
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.02219915367043
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.022078794702963
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.022353404840652
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.02219915367043
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.022473135650475
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.022353404840652
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.022556120779066
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.022473135650475
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.02262616652515
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.022556120779066
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.022717030464952
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.02262616652515
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.022838541912501
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.022717030464952
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.022976033419134
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.022838541912501
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.023143218456649
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.022976033419134
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.023299268189574
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.023143218456649
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.023506585258536
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.023299268189574
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.023756241799701
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.023506585258536
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.024014455750709
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.023756241799701
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.024263617209921
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_0-----1.024014455750709
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: EURCHF-----fast_ema_2-----1.024525397504204
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	21:55:42.835	Scanner_EA_Cross EURJPY,M15: uninit reason 0
+0	21:55:42.850	Script Scanner_EA_Cross EURJPY,M15: removed
+0	21:57:08.497	Script Scanner_EA_Cross EURJPY,M15: loaded successfully
+0	21:57:08.497	Scanner_EA_Cross EURJPY,M15 inputs: period_slow=200.0; period_fast=50.0; 
+0	21:57:08.499	Scanner_EA_Cross EURJPY,M15: initialized
+0	21:57:08.499	Scanner_EA_Cross EURJPY,M15: EMA Cross-up for EURJPY-----49
+0	21:57:08.499	Scanner_EA_Cross EURJPY,M15: EMA Cross-up for EURJPY-----50
+0	21:57:08.499	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	21:57:08.499	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	21:57:08.499	Scanner_EA_Cross EURJPY,M15: uninit reason 0
+0	21:57:08.499	Script Scanner_EA_Cross EURJPY,M15: removed
+0	21:58:23.560	CPRLevels EURJPY,M15: uninit reason 1
+0	21:58:23.561	Custom indicator CPRLevels EURJPY,M15: removed
+0	22:30:17.634	Script Scanner_EA_Cross EURJPY,M15: loaded successfully
+0	22:30:17.634	Scanner_EA_Cross EURJPY,M15 inputs: period_slow=200.0; period_fast=50.0; 
+0	22:30:17.653	Scanner_EA_Cross EURJPY,M15: initialized
+0	22:30:17.653	Scanner_EA_Cross EURJPY,M15: EMA Cross-up for EURJPY-----2022.06.17 07:00:00
+0	22:30:17.653	Scanner_EA_Cross EURJPY,M15: EMA Cross-up for EURJPY-----2022.06.17 06:45:00
+0	22:30:17.653	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	22:30:17.654	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	22:30:17.654	Scanner_EA_Cross EURJPY,M15: uninit reason 0
+0	22:30:17.656	Script Scanner_EA_Cross EURJPY,M15: removed
+0	22:31:29.124	Script Scanner_EA_Cross EURJPY,M15: loaded successfully
+0	22:31:29.124	Scanner_EA_Cross EURJPY,M15 inputs: period_slow=200.0; period_fast=50.0; 
+0	22:31:29.142	Scanner_EA_Cross EURJPY,M15: initialized
+0	22:31:29.142	Scanner_EA_Cross EURJPY,M15: EMA Cross-up for EURJPY-----2022.06.17 06:30:00
+0	22:31:29.142	Scanner_EA_Cross EURJPY,M15: EMA Cross-up for EURJPY-----2022.06.17 06:15:00
+0	22:31:29.142	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	22:31:29.143	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	22:31:29.143	Scanner_EA_Cross EURJPY,M15: uninit reason 0
+0	22:31:29.145	Script Scanner_EA_Cross EURJPY,M15: removed
+0	22:40:06.802	EMA_Cross_Over EURJPY,M15: uninit reason 2
+0	22:40:06.802	Custom indicator EMA_Cross_Over EURJPY,M15: removed
+0	22:40:06.810	Custom indicator Trademyner\EMA_Cross_Over EURJPY,M15: loaded successfully
+0	22:40:06.826	EMA_Cross_Over EURJPY,M15: initialized
+0	22:40:55.246	EMA_Cross_Over EURJPY,M15: uninit reason 2
+0	22:40:55.248	Custom indicator EMA_Cross_Over EURJPY,M15: removed
+0	22:40:55.257	Custom indicator Trademyner\EMA_Cross_Over EURJPY,M15: loaded successfully
+0	22:40:55.268	EMA_Cross_Over EURJPY,M15: initialized
+0	22:43:57.290	EMA_Cross_Over EURJPY,M15: uninit reason 2
+0	22:43:57.290	Custom indicator EMA_Cross_Over EURJPY,M15: removed
+0	22:43:57.302	Custom indicator Trademyner\EMA_Cross_Over EURJPY,M15: loaded successfully
+0	22:43:57.319	EMA_Cross_Over EURJPY,M15: initialized
+0	22:45:07.949	EMA_Cross_Over EURJPY,M15: uninit reason 2
+0	22:45:07.950	Custom indicator EMA_Cross_Over EURJPY,M15: removed
+0	22:45:07.960	Custom indicator Trademyner\EMA_Cross_Over EURJPY,M15: loaded successfully
+0	22:45:07.975	EMA_Cross_Over EURJPY,M15: initialized
+0	22:46:01.781	EMA_Cross_Over EURJPY,M15: uninit reason 2
+0	22:46:01.782	Custom indicator EMA_Cross_Over EURJPY,M15: removed
+0	22:46:01.791	Custom indicator Trademyner\EMA_Cross_Over EURJPY,M15: loaded successfully
+0	22:46:01.807	EMA_Cross_Over EURJPY,M15: initialized
+0	22:47:10.271	EMA_Cross_Over EURJPY,M15: uninit reason 2
+0	22:47:10.273	Custom indicator EMA_Cross_Over EURJPY,M15: removed
+0	22:47:10.283	Custom indicator Trademyner\EMA_Cross_Over EURJPY,M15: loaded successfully
+0	22:47:10.297	EMA_Cross_Over EURJPY,M15: initialized
+0	22:48:06.491	Script Scanner_EA_Cross EURJPY,M15: loaded successfully
+0	22:48:06.491	Scanner_EA_Cross EURJPY,M15 inputs: period_slow=200.0; period_fast=50.0; 
+0	22:48:06.508	Scanner_EA_Cross EURJPY,M15: initialized
+0	22:48:06.508	Scanner_EA_Cross EURJPY,M15: EMA Cross-up for EURJPY-----2022.06.17 06:30:00
+0	22:48:06.508	Scanner_EA_Cross EURJPY,M15: EMA Cross-up for EURJPY-----2022.06.17 06:15:00
+0	22:48:06.508	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	22:48:06.508	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	22:48:06.508	Scanner_EA_Cross EURJPY,M15: uninit reason 0
+0	22:48:06.508	Script Scanner_EA_Cross EURJPY,M15: removed
+0	22:51:34.225	Script Scanner_EA_Cross EURJPY,M15: loaded successfully
+0	22:51:34.225	Scanner_EA_Cross EURJPY,M15 inputs: period_slow=200.0; period_fast=50.0; 
+0	22:51:34.241	Scanner_EA_Cross EURJPY,M15: initialized
+0	22:51:34.242	Scanner_EA_Cross EURJPY,M15: EMA Cross-up for EURJPY-----2022.06.17 06:15:00
+0	22:51:34.242	Scanner_EA_Cross EURJPY,M15: EMA Cross-up for EURJPY-----2022.06.17 06:00:00
+0	22:51:34.242	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	22:51:34.242	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	22:51:34.242	Scanner_EA_Cross EURJPY,M15: uninit reason 0
+0	22:51:34.242	Script Scanner_EA_Cross EURJPY,M15: removed
+0	22:56:56.998	Script Scanner_EA_Cross EURJPY,M15: loaded successfully
+0	22:56:56.998	Scanner_EA_Cross EURJPY,M15 inputs: period_slow=200.0; period_fast=50.0; 
+0	22:56:57.008	Scanner_EA_Cross EURJPY,M15: initialized
+0	22:56:57.008	Scanner_EA_Cross EURJPY,M15: EMA Cross-up for EURJPY-----2022.06.17 06:15:00
+0	22:56:57.008	Scanner_EA_Cross EURJPY,M15: EMA Cross-up for EURJPY-----2022.06.17 06:00:00
+0	22:56:57.008	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	22:56:57.008	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	22:56:57.008	Scanner_EA_Cross EURJPY,M15: uninit reason 0
+0	22:56:57.022	Script Scanner_EA_Cross EURJPY,M15: removed
+0	23:00:09.480	Script Scanner_EA_Cross EURJPY,M15: loaded successfully
+0	23:00:09.480	Scanner_EA_Cross EURJPY,M15 inputs: period_slow=200.0; period_fast=50.0; 
+0	23:00:09.497	Scanner_EA_Cross EURJPY,M15: initialized
+0	23:00:09.497	Scanner_EA_Cross EURJPY,M15: EMA Cross-up for EURJPY-----2022.06.17 06:30:00
+0	23:00:09.497	Scanner_EA_Cross EURJPY,M15: EMA Cross-up for EURJPY-----2022.06.17 06:15:00
+0	23:00:09.497	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	23:00:09.497	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	23:00:09.497	Scanner_EA_Cross EURJPY,M15: uninit reason 0
+0	23:00:09.497	Script Scanner_EA_Cross EURJPY,M15: removed
+0	23:17:38.431	Script Scanner_EA_Cross EURJPY,M15: loaded successfully
+0	23:17:38.431	Scanner_EA_Cross EURJPY,M15 inputs: period_slow=200.0; period_fast=50.0; 
+0	23:17:38.465	Scanner_EA_Cross EURJPY,M15: initialized
+0	23:17:38.465	Scanner_EA_Cross EURJPY,M15: EMA Cross-up for EURJPY-----2022.06.17 06:30:00
+0	23:17:38.465	Scanner_EA_Cross EURJPY,M15: EMA Cross-up for EURJPY-----2022.06.17 06:15:00
+0	23:17:38.465	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	23:17:38.465	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	23:17:38.465	Scanner_EA_Cross EURJPY,M15: uninit reason 0
+0	23:17:38.465	Script Scanner_EA_Cross EURJPY,M15: removed
+0	23:19:39.937	EMA_Cross_Over EURJPY,M15: uninit reason 2
+0	23:19:39.937	Custom indicator EMA_Cross_Over EURJPY,M15: removed
+0	23:19:39.943	Custom indicator Trademyner\EMA_Cross_Over EURJPY,M15: loaded successfully
+0	23:19:39.960	EMA_Cross_Over EURJPY,M15: initialized
+0	23:20:47.378	EMA_Cross_Over EURJPY,M15: uninit reason 2
+0	23:20:47.380	Custom indicator EMA_Cross_Over EURJPY,M15: removed
+0	23:20:47.389	Custom indicator Trademyner\EMA_Cross_Over EURJPY,M15: loaded successfully
+0	23:20:47.405	EMA_Cross_Over EURJPY,M15: initialized
+1	23:20:47.405	EMA_Cross_Over EURJPY,M15: array out of range in 'EMA_Cross_Over.mq4' (108,23)
+0	23:23:22.697	EMA_Cross_Over EURJPY,M15: uninit reason 2
+0	23:23:22.697	Custom indicator EMA_Cross_Over EURJPY,M15: removed
+0	23:23:22.702	Custom indicator Trademyner\EMA_Cross_Over EURJPY,M15: loaded successfully
+0	23:23:22.713	EMA_Cross_Over EURJPY,M15: initialized
+1	23:23:22.713	EMA_Cross_Over EURJPY,M15: array out of range in 'EMA_Cross_Over.mq4' (110,23)
+0	23:24:00.936	EMA_Cross_Over EURJPY,M15: uninit reason 2
+0	23:24:00.936	Custom indicator EMA_Cross_Over EURJPY,M15: removed
+0	23:24:00.945	Custom indicator Trademyner\EMA_Cross_Over EURJPY,M15: loaded successfully
+0	23:24:00.962	EMA_Cross_Over EURJPY,M15: initialized
+0	23:38:47.919	EMA_Cross_Over EURJPY,M15: uninit reason 2
+0	23:38:47.919	Custom indicator EMA_Cross_Over EURJPY,M15: removed
+0	23:38:47.930	Custom indicator Trademyner\EMA_Cross_Over EURJPY,M15: loaded successfully
+0	23:38:47.947	EMA_Cross_Over EURJPY,M15: initialized
+0	23:42:37.332	EMA_Cross_Over EURJPY,M15: uninit reason 2
+0	23:42:37.332	Custom indicator EMA_Cross_Over EURJPY,M15: removed
+0	23:42:37.344	Custom indicator Trademyner\EMA_Cross_Over EURJPY,M15: loaded successfully
+0	23:42:37.360	EMA_Cross_Over EURJPY,M15: initialized
+0	23:44:37.596	Script Scanner_EA_Cross EURJPY,M15: loaded successfully
+0	23:44:37.596	Scanner_EA_Cross EURJPY,M15 inputs: period_slow=200.0; period_fast=50.0; 
+0	23:44:37.601	Scanner_EA_Cross EURJPY,M15: initialized
+0	23:44:37.601	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	23:44:37.616	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	23:44:37.616	Scanner_EA_Cross EURJPY,M15: uninit reason 0
+0	23:44:37.618	Script Scanner_EA_Cross EURJPY,M15: removed
+0	23:46:36.144	Script Scanner_EA_Cross EURJPY,M15: loaded successfully
+0	23:46:36.144	Scanner_EA_Cross EURJPY,M15 inputs: period_slow=200.0; period_fast=50.0; 
+0	23:46:36.162	Scanner_EA_Cross EURJPY,M15: initialized
+0	23:46:36.162	Scanner_EA_Cross EURJPY,M15: EMA Cross-up for EURJPY-----2022.06.17 06:15:00
+0	23:46:36.162	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	23:46:36.162	Scanner_EA_Cross EURJPY,M15: No cross-overs found
+0	23:46:36.162	Scanner_EA_Cross EURJPY,M15: uninit reason 0
+0	23:46:36.169	Script Scanner_EA_Cross EURJPY,M15: removed
+0	23:49:18.101	Script Scanner_EA_Cross EURJPY,M15: loaded successfully
+0	23:49:18.101	Scanner_EA_Cross EURJPY,M15 inputs: period_slow=200.0; period_fast=50.0; 
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: initialized
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: EMA Cross-up for EURJPY-----2022.06.17 06:15:00
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:49:18.118	Scanner_EA_Cross EURJPY,M15: uninit reason 0
+0	23:49:18.118	Script Scanner_EA_Cross EURJPY,M15: removed
+0	23:51:08.740	Script Scanner_EA_Cross EURJPY,M15: loaded successfully
+0	23:51:08.740	Scanner_EA_Cross EURJPY,M15 inputs: period_slow=200.0; period_fast=50.0; 
+0	23:51:08.757	Scanner_EA_Cross EURJPY,M15: initialized
+0	23:51:08.757	Scanner_EA_Cross EURJPY,M15: EMA Cross-up for EURJPY-----2022.06.17 06:15:00
+0	23:51:08.757	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURJPY
+0	23:51:08.772	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:51:08.772	Scanner_EA_Cross EURJPY,M15: uninit reason 0
+0	23:51:08.774	Script Scanner_EA_Cross EURJPY,M15: removed
+0	23:54:24.363	Script Scanner_EA_Cross EURJPY,M15: loaded successfully
+0	23:54:24.363	Scanner_EA_Cross EURJPY,M15 inputs: period_slow=200.0; period_fast=50.0; 
+0	23:54:24.376	Scanner_EA_Cross EURJPY,M15: initialized
+0	23:54:24.376	Scanner_EA_Cross EURJPY,M15: EMA Cross-up for EURJPY-----2022.06.17 06:15:00
+0	23:54:24.376	Scanner_EA_Cross EURJPY,M15: No cross-overs found for EURCHF
+0	23:54:24.376	Scanner_EA_Cross EURJPY,M15: uninit reason 0
+0	23:54:24.376	Script Scanner_EA_Cross EURJPY,M15: removed

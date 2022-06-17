@@ -1,10 +1,5 @@
-//+------------------------------------------------------------------+
-//|                                               EMA_Cross_Over.mq4 |
-//|                        Copyright 2022, MetaQuotes Software Corp. |
-//|                                             https://www.mql5.com |
-//+------------------------------------------------------------------+
-#property copyright "Copyright 2022, MetaQuotes Software Corp."
-#property link      "https://www.mql5.com"
+#property copyright "Copyright 2022, Trademyner"
+#property link      "http://www.trademyner.com"
 #property version   "1.00"
 #property strict
 #property indicator_chart_window
@@ -32,6 +27,7 @@
 #property indicator_style3  STYLE_SOLID
 #property indicator_width3  10
 
+
 //--- plot BuySignal
 #property indicator_label4  "BuySignal"
 #property indicator_type4   DRAW_ARROW
@@ -39,12 +35,13 @@
 #property indicator_style4  STYLE_SOLID
 #property indicator_width4  10
 
+
 //Inputs
 const int fast_ma_period = 50;
 const int slow_ma_period = 200;
 
 //Include file
-#include  <CustomFunctions01.mqh>
+#include  <Trademyner\\CustomFunctions01.mqh>
 //--- indicator buffers
 double         Fast_EMABuffer[];
 double         Slow_EMABuffer[];
@@ -65,6 +62,9 @@ int OnInit()
 
    SetIndexArrow(2, SYMBOL_ARROWDOWN);
    SetIndexArrow(3, SYMBOL_ARROWUP);
+   
+   SetIndexLabel(2,NULL);
+   SetIndexLabel(3,NULL);
    IndicatorDigits(Digits+2);
 
 //---

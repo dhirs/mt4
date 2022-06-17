@@ -1,44 +1,33 @@
-//+------------------------------------------------------------------+
-//|                                                      ProjectName |
-//|                                      Copyright 2018, CompanyName |
-//|                                       http://www.companyname.net |
-//+------------------------------------------------------------------+
-#property copyright "Copyright 2022, MetaQuotes Software Corp."
-#property link      "https://www.mql5.com"
+///////////////////////////////////////////////////////////////////////////////////////////////
+
+#property copyright "Copyright 2022, Trademyner"
+#property link      "http://www.trademyner.com"
 #property version   "1.00"
 #property strict
-#include  <CustomFunctions01.mqh>
 
-/*string Symbols[16] = {"AUDJPY", "AUDNZD", "AUDCAD", "AUDUSD", "AUDCHF", "AUDGBP", "NZDUSD", "GBPUSD", "USDJPY",
-                      "EURUSD", "USDCAD", "EURGBP", "EURCAD", "EURAUD", "EURJPY", "EURCHF"
-                     };*/
-
-string Symbols[2] = { "EURJPY", "EURCHF" };
-
+////////////////////////////////////////////Include custom functions///////////////////////////
+#include  <Trademyner\\CustomFunctions01.mqh>
+///////////////////////////////////////////////////////////////////////////////////////////////
 string sym;
 double close_price;
 input double period_slow = 200;
 input double period_fast = 50;
 int period = 0;
 int barcount = 100;
-
 double ema_slow_0, ema_slow_2, ema_fast_0, ema_fast_2;
-
-
-//+------------------------------------------------------------------+
-//|                                                                  |
-//+------------------------------------------------------------------+
+////////////////////////////////////////Main function start///////////////////////////////////
 void OnStart()
   {
    int signal, sym_signal;
    datetime t;
 
 
-   for(int i=0; i < ArraySize(Symbols); i++)
+   for(int i=0; i < ArraySize(scan_symbols); i++)
 
      {
-      sym = Symbols[i];
+      sym = scan_symbols[i];
       sym_signal = 0;
+      
       for(int j=0; j< barcount; j++)
         {
 
@@ -82,11 +71,8 @@ void OnStart()
 
         }
 
-
-
      }
 
   }
 
-
-//+------------------------------------------------------------------+
+//////////////////////////////////////////////////////////////////////////////////////////////////////
