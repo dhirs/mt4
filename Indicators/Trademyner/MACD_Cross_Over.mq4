@@ -92,23 +92,25 @@ int OnCalculate(const int rates_total,
       SellSignalBuffer[i] = EMPTY_VALUE;
       BuySignalBuffer[i] = EMPTY_VALUE;
 
-      curr_macd = iMACD(NULL, 0, 12, 26, 9, PRICE_CLOSE, MODE_MAIN, i);
-      prev_macd = iMACD(NULL, 0, 12, 26, 9, PRICE_CLOSE, MODE_MAIN, i + 1);
-      curr_signal = iMACD(NULL, 0, 12, 26, 9, PRICE_CLOSE, MODE_SIGNAL, i);
-      prev_signal = iMACD(NULL, 0, 12, 26, 9, PRICE_CLOSE, MODE_SIGNAL, i + 1);
+      curr_macd = iMACD(NULL, 0, 12, 26, 9, PRICE_CLOSE, MODE_MAIN, i+1);
+      prev_macd = iMACD(NULL, 0, 12, 26, 9, PRICE_CLOSE, MODE_MAIN, i + 2);
+      curr_signal = iMACD(NULL, 0, 12, 26, 9, PRICE_CLOSE, MODE_SIGNAL, i+1);
+      prev_signal = iMACD(NULL, 0, 12, 26, 9, PRICE_CLOSE, MODE_SIGNAL, i + 2);
 
-      fast_ema_htf = iMA(NULL, higher_tf, fast_ema_period,0, MODE_EMA, PRICE_CLOSE,i);
-      slow_ema_htf = iMA(NULL, higher_tf, slow_ema_period,0, MODE_EMA, PRICE_CLOSE,i);
+      fast_ema_htf = iMA(NULL, higher_tf, fast_ema_period,0, MODE_EMA, PRICE_CLOSE,i+1);
+      slow_ema_htf = iMA(NULL, higher_tf, slow_ema_period,0, MODE_EMA, PRICE_CLOSE,i+1);
 
 
       int isCross = detect_indicator_cross(curr_macd, curr_signal, prev_macd, prev_signal);
-      if(isCross == 1 && i > 0 && fast_ema_htf > slow_ema_htf)
+     // if(isCross == 1 && i > 0 && fast_ema_htf > slow_ema_htf)
+      if(isCross == 1 && i > 0 && get_condition_2(i))
         {
          BuySignalBuffer[i] = Low[i] - (High[i]-Low[i]);
          BuySignalBuffer[i-1] = EMPTY_VALUE;
         }
       else
-         if(isCross == 2 && i > 0  && fast_ema_htf < slow_ema_htf)
+        //if(isCross == 2 && i > 0  && fast_ema_htf < slow_ema_htf)
+        if(isCross == 2 && i > 0  && get_condition_2(i,false))
            {
             SellSignalBuffer[i] = High[i] + (High[i]-Low[i]);
             SellSignalBuffer[i-1] = EMPTY_VALUE;
@@ -120,3 +122,21 @@ int OnCalculate(const int rates_total,
    return(rates_total);
   }
 //+------------------------------------------------------------------+
+bool get_condition_2(int i, bool isLong = True)
+  {
+  
+   int ema_period = 20;
+   
+   double ema = iMA(NULL, 0, ema_period,0, MODE_EMA, PRICE_CLOSE,i);
+   double close = iClose(NULL, 0, i+1);
+   if(isLong)
+     {
+      return close > ema;
+
+     }
+   else
+     {
+      return close < ema;
+     }
+
+  }

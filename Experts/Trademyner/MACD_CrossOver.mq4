@@ -15,8 +15,7 @@ input int LossPips = 50;
 
 //constants
 const int entry_period = PERIOD_M30;
-const int fast_ema_period_htf = 50;
-const int slow_ema_period_htf = 200;
+
 
 //Other params
 double stopLossPrice;
@@ -47,6 +46,7 @@ int OnInit()
   {
    Print("Starting the strategy");
    comment = get_magic_number(ea_id);
+   Print("___________"+comment+"_________");
    return(INIT_SUCCEEDED);
   }
 //+------------------------------------------------------------------+
@@ -65,7 +65,7 @@ void OnTick()
 
    if(!CheckNewBar())
       return;
-
+   Print("-------------New bar--------------"+Time[0]);
    if(!CheckIfOpenOrdersByComment(ea_id) && IsTradingAllowed())
      {
 
@@ -88,63 +88,65 @@ void OnTick()
             Print("No Signal");
            }
      }
-  /* if(CheckIfOpenOrdersByComment(ea_id))
-     {
+   /* if(CheckIfOpenOrdersByComment(ea_id))
+      {
 
-      if(OrderSelect(openOrderID,SELECT_BY_TICKET))
-       {
+       if(OrderSelect(openOrderID,SELECT_BY_TICKET))
+        {
 
-         int orderType = OrderType();
-         double ema_fast = iMA(0,PERIOD_CURRENT,fast_ma_period,0,MODE_EMA,PRICE_CLOSE,0);
+          int orderType = OrderType();
+          double ema_fast = iMA(0,PERIOD_CURRENT,fast_ma_period,0,MODE_EMA,PRICE_CLOSE,0);
 
-         if(orderType == OP_BUYLIMIT)
-           {
-            if(Close[1] < ema_fast)
-              {
-               OrderClose(openOrderID,OrderLots(),Bid,3);
+          if(orderType == OP_BUYLIMIT)
+            {
+             if(Close[1] < ema_fast)
+               {
+                OrderClose(openOrderID,OrderLots(),Bid,3);
 
-              }
+               }
 
-           }
-         if(orderType == OP_SELLLIMIT)
-           {
+            }
+          if(orderType == OP_SELLLIMIT)
+            {
 
-            if(Close[1] > ema_fast)
-              {
-               OrderClose(openOrderID,OrderLots(),Ask,3);
+             if(Close[1] > ema_fast)
+               {
+                OrderClose(openOrderID,OrderLots(),Ask,3);
 
-              }
-           }
+               }
+            }
 
 
 
-        }
+         }
 
-     }*/
+      }*/
   }
 //+------------------------------------------------------------------+
 int check_signal()
   {
 
-   curr_macd = iMACD(NULL, entry_period, 12, 26, 9, PRICE_CLOSE, MODE_MAIN, 0);
-   prev_macd = iMACD(NULL, entry_period, 12, 26, 9, PRICE_CLOSE, MODE_MAIN, 1);
-   curr_signal = iMACD(NULL, entry_period, 12, 26, 9, PRICE_CLOSE, MODE_SIGNAL, 0);
-   prev_signal = iMACD(NULL, entry_period, 12, 26, 9, PRICE_CLOSE, MODE_SIGNAL, 1);
-
-   fast_ema_htf = iMA(NULL, 0, fast_ema_period_htf,0, MODE_EMA, PRICE_CLOSE,0);
-   slow_ema_htf = iMA(NULL, 0, slow_ema_period_htf,0, MODE_EMA, PRICE_CLOSE,0);
-
+   curr_macd = iMACD(NULL, entry_period, 12, 26, 9, PRICE_CLOSE, MODE_MAIN, 1);
+   prev_macd = iMACD(NULL, entry_period, 12, 26, 9, PRICE_CLOSE, MODE_MAIN, 2);
+   curr_signal = iMACD(NULL, entry_period, 12, 26, 9, PRICE_CLOSE, MODE_SIGNAL, 1);
+   prev_signal = iMACD(NULL, entry_period, 12, 26, 9, PRICE_CLOSE, MODE_SIGNAL, 2);
    isCross = detect_indicator_cross(curr_macd, curr_signal, prev_macd, prev_signal);
-  // if(isCross == 1 && fast_ema_htf > slow_ema_htf)
-  if(isCross == 1)
+   
+   
+   if(isCross == 1 && get_condition_2())
+      //if(isCross == 1)
      {
+      Print("---Going long----------");
+      Print("------------Current candle time is----------"+Time[0]);
       return 1;
 
      }
    else
-   //if(isCross == 2 && fast_ema_htf < slow_ema_htf)
-      if(isCross == 2)
+      if(isCross == 2 && get_condition_2(false))
+         //   if(isCross == 2)
         {
+         Print("---Going short----");
+         Print("---Current candle time is----------"+Time[0]);
          return 2;
         }
    return 0;
@@ -152,4 +154,50 @@ int check_signal()
 
   }
 
+//+------------------------------------------------------------------+
+// This condition checks that the faster EMA on a higher timeframe
+// is above the slower EMA for longs (and reverse for shorts)
+//+------------------------------------------------------------------+
+bool get_condition_1(bool isLong = True)
+  {
+   int htf_period = PERIOD_H4;
+   int fast_ema_period_htf = 50;
+   int slow_ema_period_htf = 200;
+   fast_ema_htf = iMA(NULL, htf_period, fast_ema_period_htf,0, MODE_EMA, PRICE_CLOSE,1);
+   slow_ema_htf = iMA(NULL, htf_period, slow_ema_period_htf,0, MODE_EMA, PRICE_CLOSE,1);
+   if(isLong)
+     {
+      return fast_ema_htf > slow_ema_htf;
+
+     }
+   else
+     {
+      return fast_ema_htf < slow_ema_htf;
+     }
+
+  }
+//+------------------------------------------------------------------+
+//+------------------------------------------------------------------+
+// This condition that the price is above or below EMA on current 
+// timeframe
+// in order to confirm trend
+//+------------------------------------------------------------------+
+bool get_condition_2(bool isLong = True)
+  {
+  
+   int ema_period = 20;
+   
+   double ema = iMA(NULL, 0, ema_period,0, MODE_EMA, PRICE_CLOSE,1);
+   double close = iClose(NULL, 0, 1);
+   if(isLong)
+     {
+      return close > ema;
+
+     }
+   else
+     {
+      return close < ema;
+     }
+
+  }
 //+------------------------------------------------------------------+
