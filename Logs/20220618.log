@@ -82,3 +82,79 @@
 0	00:28:29.668	Custom indicator EMA_Cross_Over EURJPY,M15: removed
 0	00:28:29.676	Custom indicator Trademyner\EMA_Cross_Over EURJPY,M15: loaded successfully
 0	00:28:29.679	Custom indicator Trademyner\CPRLevels EURJPY,M15: loaded successfully
+0	00:28:29.696	EMA_Cross_Over EURJPY,M15: initialized
+0	00:28:29.714	CPRLevels EURJPY,M15: initialized
+0	00:29:07.949	EMA_Cross_Over EURJPY,M15: uninit reason 3
+0	00:29:07.949	CPRLevels EURJPY,M15: uninit reason 3
+0	00:29:08.005	EMA_Cross_Over EURJPY,H4: initialized
+0	00:29:08.005	CPRLevels EURJPY,H4: initialized
+0	00:39:39.358	EMA_Cross_Over EURJPY,H4: uninit reason 2
+0	00:39:39.360	Custom indicator EMA_Cross_Over EURJPY,H4: removed
+0	00:39:39.370	Custom indicator Trademyner\EMA_Cross_Over EURJPY,H4: loaded successfully
+0	00:39:39.392	EMA_Cross_Over EURJPY,H4: initialized
+0	00:40:19.777	EMA_Cross_Over EURJPY,H4: uninit reason 3
+0	00:40:19.777	CPRLevels EURJPY,H4: uninit reason 3
+0	00:40:19.785	EMA_Cross_Over EURJPY,H1: initialized
+0	00:40:19.785	CPRLevels EURJPY,H1: initialized
+0	01:03:48.880	EMA_Cross_Over EURJPY,H1: uninit reason 9
+0	01:03:48.880	CPRLevels EURJPY,H1: uninit reason 9
+0	01:03:48.968	Custom indicator EMA_Cross_Over EURJPY,H1: removed
+0	01:03:48.970	Custom indicator CPRLevels EURJPY,H1: removed
+0	21:43:50.065	Custom indicator Trademyner\EMA_Cross_Over EURJPY,H1: loaded successfully
+0	21:43:50.074	Custom indicator Trademyner\CPRLevels EURJPY,H1: loaded successfully
+0	21:43:50.099	EMA_Cross_Over EURJPY,H1: initialized
+0	21:43:50.112	CPRLevels EURJPY,H1: initialized
+0	22:00:49.256	EMA_Cross_Over EURJPY,H1: uninit reason 3
+0	22:00:49.256	CPRLevels EURJPY,H1: uninit reason 3
+0	22:00:49.333	EMA_Cross_Over EURJPY,H4: initialized
+0	22:00:49.333	CPRLevels EURJPY,H4: initialized
+0	22:27:23.960	EMA_Cross_Over EURJPY,H4: uninit reason 1
+0	22:27:23.962	Custom indicator EMA_Cross_Over EURJPY,H4: removed
+0	22:27:33.684	CPRLevels EURJPY,H4: uninit reason 1
+0	22:27:33.686	Custom indicator CPRLevels EURJPY,H4: removed
+0	22:27:38.364	Custom indicator Trademyner\MACD_Cross_Over EURJPY,H4: loaded successfully
+0	22:27:39.686	MACD_Cross_Over EURJPY,H4: initialized
+0	22:31:04.933	MACD_Cross_Over EURJPY,H4: uninit reason 2
+0	22:31:04.934	Custom indicator MACD_Cross_Over EURJPY,H4: removed
+0	22:31:04.943	Custom indicator Trademyner\MACD_Cross_Over EURJPY,H4: loaded successfully
+0	22:31:04.955	MACD_Cross_Over EURJPY,H4: initialized
+0	22:32:05.343	MACD_Cross_Over EURJPY,H4: uninit reason 2
+0	22:32:05.343	Custom indicator MACD_Cross_Over EURJPY,H4: removed
+0	22:32:05.355	Custom indicator Trademyner\MACD_Cross_Over EURJPY,H4: loaded successfully
+0	22:32:05.370	MACD_Cross_Over EURJPY,H4: initialized
+0	22:41:43.081	MACD_Cross_Over EURJPY,H4: uninit reason 2
+0	22:41:43.083	Custom indicator MACD_Cross_Over EURJPY,H4: removed
+0	22:41:43.094	Custom indicator Trademyner\MACD_Cross_Over EURJPY,H4: loaded successfully
+0	22:41:43.107	MACD_Cross_Over EURJPY,H4: initialized
+0	22:42:00.175	MACD_Cross_Over EURJPY,H4: uninit reason 2
+0	22:42:00.176	Custom indicator MACD_Cross_Over EURJPY,H4: removed
+0	22:42:00.185	Custom indicator Trademyner\MACD_Cross_Over EURJPY,H4: loaded successfully
+0	22:42:00.197	MACD_Cross_Over EURJPY,H4: initialized
+0	22:51:50.830	MACD_Cross_Over EURJPY,H4: uninit reason 2
+0	22:51:50.832	Custom indicator MACD_Cross_Over EURJPY,H4: removed
+0	22:51:50.842	Custom indicator Trademyner\MACD_Cross_Over EURJPY,H4: loaded successfully
+0	22:51:50.855	MACD_Cross_Over EURJPY,H4: initialized
+0	23:03:23.471	MACD_Cross_Over EURJPY,H4: uninit reason 2
+0	23:03:23.473	Custom indicator MACD_Cross_Over EURJPY,H4: removed
+0	23:03:23.484	Custom indicator Trademyner\MACD_Cross_Over EURJPY,H4: loaded successfully
+0	23:03:23.501	MACD_Cross_Over EURJPY,H4: initialized
+0	23:06:19.404	MACD_Cross_Over EURJPY,H4: uninit reason 3
+0	23:06:19.420	MACD_Cross_Over EURJPY,M30: initialized
+0	23:06:26.200	MACD_Cross_Over EURJPY,M30: uninit reason 3
+0	23:06:26.217	MACD_Cross_Over EURJPY,M15: initialized
+0	23:09:23.332	MACD_Cross_Over EURJPY,M15: uninit reason 3
+0	23:09:23.332	MACD_Cross_Over EURJPY,M30: initialized
+0	23:14:29.017	MACD_Cross_Over EURJPY,M30: uninit reason 3
+0	23:14:29.033	MACD_Cross_Over EURUSD,M30: initialized
+0	23:31:04.793	MACD_Cross_Over EURUSD,M30: uninit reason 1
+0	23:31:04.795	Custom indicator MACD_Cross_Over EURUSD,M30: removed
+0	23:31:08.910	Custom indicator Trademyner\MACD_Cross_Over_1 EURUSD,M30: loaded successfully
+0	23:31:10.374	MACD_Cross_Over_1 EURUSD,M30: initialized
+0	23:32:00.347	MACD_Cross_Over_1 EURUSD,M30: uninit reason 3
+0	23:32:00.364	MACD_Cross_Over_1 EURUSD,H4: initialized
+0	23:32:03.136	MACD_Cross_Over_1 EURUSD,H4: uninit reason 3
+0	23:32:03.153	MACD_Cross_Over_1 EURUSD,M15: initialized
+0	23:52:15.674	MACD_Cross_Over_1 EURUSD,M15: uninit reason 2
+0	23:52:15.675	Custom indicator MACD_Cross_Over_1 EURUSD,M15: removed
+0	23:52:15.686	Custom indicator Trademyner\MACD_Cross_Over_1 EURUSD,M15: loaded successfully
+0	23:52:15.704	MACD_Cross_Over_1 EURUSD,M15: initialized

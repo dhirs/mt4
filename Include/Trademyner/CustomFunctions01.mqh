@@ -8,7 +8,8 @@
 #property strict
 
 string scan_symbols[16] = {"AUDJPY", "AUDNZD", "AUDCAD", "AUDUSD", "AUDCHF", "AUDGBP", "NZDUSD", "GBPUSD", "USDJPY",
-                         "EURUSD", "USDCAD", "EURGBP", "EURCAD", "EURAUD", "EURJPY", "EURCHF"};
+                           "EURUSD", "USDCAD", "EURGBP", "EURCAD", "EURAUD", "EURJPY", "EURCHF"
+                          };
 
 //+------------------------------------------------------------------+
 //|                                                                  |
@@ -367,25 +368,26 @@ int detect_indicator_cross(double fast_val_curr,
                            double slow_val_prev)
   {
 
-//cross_down check
-   bool cond_1 = fast_val_curr < slow_val_curr;
-   bool cond_2 = fast_val_prev > slow_val_prev;
-
-   if(cond_1 && cond_2)
-     {
-      return 1;
-     }
-
 //cross_up check
    bool cond_11 = fast_val_curr > slow_val_curr;
    bool cond_22 = slow_val_prev > fast_val_prev;
 
    if(cond_11 && cond_22)
      {
+      return 1;
+     }
+//cross_down check
+   bool cond_1 = fast_val_curr < slow_val_curr;
+   bool cond_2 = fast_val_prev > slow_val_prev;
+
+   if(cond_1 && cond_2)
+     {
       return 2;
      }
+
    return 0;
 
   }
 //+------------------------------------------------------------------+
 
+//+------------------------------------------------------------------+

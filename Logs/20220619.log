@@ -1,0 +1,28 @@
+0	00:16:38.785	MACD_Cross_Over_1 EURUSD,M15: uninit reason 1
+0	00:16:38.789	Custom indicator MACD_Cross_Over_1 EURUSD,M15: removed
+0	00:16:47.985	Expert MACD Sample EURUSD,M15: loaded successfully
+0	00:16:49.339	MACD Sample EURUSD,M15 inputs: TakeProfit=50.0; Lots=0.1; TrailingStop=30.0; MACDOpenLevel=3.0; MACDCloseLevel=2.0; MATrendPeriod=26; 
+0	00:16:49.355	MACD Sample EURUSD,M15: initialized
+0	00:16:57.918	Automated trading enabled
+0	00:17:16.247	MACD Sample EURUSD,M15: uninit reason 1
+0	00:17:16.252	Expert MACD Sample EURUSD,M15: removed
+0	00:17:16.264	Expert MACD Sample EURUSD,M15: loaded successfully
+0	00:17:17.437	MACD Sample EURUSD,M15 inputs: TakeProfit=50.0; Lots=0.1; TrailingStop=30.0; MACDOpenLevel=3.0; MACDCloseLevel=2.0; MATrendPeriod=26; 
+0	00:17:17.453	MACD Sample EURUSD,M15: initialized
+0	00:17:56.428	MACD Sample EURUSD,M15: uninit reason 1
+0	00:17:56.441	Expert MACD Sample EURUSD,M15: removed
+0	00:17:56.451	Expert MACD Sample EURUSD,M15: loaded successfully
+0	00:18:08.055	MACD Sample EURUSD,M15 inputs: TakeProfit=50.0; Lots=0.1; TrailingStop=30.0; MACDOpenLevel=3.0; MACDCloseLevel=2.0; MATrendPeriod=26; 
+0	00:18:08.070	MACD Sample EURUSD,M15: initialized
+0	00:19:07.067	MACD Sample EURUSD,M15: uninit reason 1
+0	00:19:07.083	Expert MACD Sample EURUSD,M15: removed
+0	00:19:26.484	Compiling 'Trademyner\MACD_Cross_Over'
+0	00:19:30.838	Custom indicator Trademyner\MACD_Cross_Over_1 EURUSD,M15: loaded successfully
+0	00:19:32.066	MACD_Cross_Over_1 EURUSD,M15: initialized
+0	00:30:45.267	Compiling 'Trademyner\MACD_Cross_Over'
+0	00:35:02.899	MACD_Cross_Over_1 EURUSD,M15: uninit reason 3
+0	00:35:02.910	MACD_Cross_Over_1 GBPUSD,M15: initialized
+0	00:36:53.149	MACD_Cross_Over_1 GBPUSD,M15: uninit reason 3
+0	00:36:53.162	MACD_Cross_Over_1 USDJPY,M15: initialized
+0	00:38:03.415	MACD_Cross_Over_1 USDJPY,M15: uninit reason 9
+0	00:38:03.482	Custom indicator MACD_Cross_Over_1 USDJPY,M15: removed
