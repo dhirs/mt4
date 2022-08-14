@@ -27,7 +27,7 @@ void OnStart()
      {
       sym = scan_symbols[i];
       sym_signal = 0;
-      
+
       for(int j=0; j< barcount; j++)
         {
 

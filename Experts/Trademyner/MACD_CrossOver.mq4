@@ -10,11 +10,11 @@
 
 //Trade parameters
 input double lotSize = 0.1;
-input double RR = 2;
-input int LossPips = 50;
+input double RR = 1;
+input int LossPips = 60;
 
 //constants
-const int entry_period = PERIOD_M30;
+const int entry_period = PERIOD_H1;
 
 
 //Other params
@@ -131,10 +131,10 @@ int check_signal()
    curr_signal = iMACD(NULL, entry_period, 12, 26, 9, PRICE_CLOSE, MODE_SIGNAL, 1);
    prev_signal = iMACD(NULL, entry_period, 12, 26, 9, PRICE_CLOSE, MODE_SIGNAL, 2);
    isCross = detect_indicator_cross(curr_macd, curr_signal, prev_macd, prev_signal);
-   
-   
-   if(isCross == 1 && get_condition_2())
-      //if(isCross == 1)
+
+
+//if(isCross == 1 && get_condition_2())
+   if(isCross == 1)
      {
       Print("---Going long----------");
       Print("------------Current candle time is----------"+Time[0]);
@@ -142,8 +142,8 @@ int check_signal()
 
      }
    else
-      if(isCross == 2 && get_condition_2(false))
-         //   if(isCross == 2)
+      //if(isCross == 2 && get_condition_2(false))
+      if(isCross == 2)
         {
          Print("---Going short----");
          Print("---Current candle time is----------"+Time[0]);
@@ -178,15 +178,15 @@ bool get_condition_1(bool isLong = True)
   }
 //+------------------------------------------------------------------+
 //+------------------------------------------------------------------+
-// This condition that the price is above or below EMA on current 
+// This condition that the price is above or below EMA on current
 // timeframe
 // in order to confirm trend
 //+------------------------------------------------------------------+
 bool get_condition_2(bool isLong = True)
   {
-  
+
    int ema_period = 20;
-   
+
    double ema = iMA(NULL, 0, ema_period,0, MODE_EMA, PRICE_CLOSE,1);
    double close = iClose(NULL, 0, 1);
    if(isLong)
@@ -200,4 +200,5 @@ bool get_condition_2(bool isLong = True)
      }
 
   }
+//+------------------------------------------------------------------+
 //+------------------------------------------------------------------+

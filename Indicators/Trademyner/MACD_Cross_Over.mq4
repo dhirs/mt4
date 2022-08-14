@@ -102,15 +102,17 @@ int OnCalculate(const int rates_total,
 
 
       int isCross = detect_indicator_cross(curr_macd, curr_signal, prev_macd, prev_signal);
-     // if(isCross == 1 && i > 0 && fast_ema_htf > slow_ema_htf)
-      if(isCross == 1 && i > 0 && get_condition_2(i))
+      // if(isCross == 1 && i > 0 && fast_ema_htf > slow_ema_htf)
+      // if(isCross == 1 && i > 0 && get_condition_2(i))
+      if(isCross == 1 && i > 0)
         {
          BuySignalBuffer[i] = Low[i] - (High[i]-Low[i]);
          BuySignalBuffer[i-1] = EMPTY_VALUE;
         }
       else
-        //if(isCross == 2 && i > 0  && fast_ema_htf < slow_ema_htf)
-        if(isCross == 2 && i > 0  && get_condition_2(i,false))
+         //if(isCross == 2 && i > 0  && fast_ema_htf < slow_ema_htf)
+         //if(isCross == 2 && i > 0  && get_condition_2(i,false))
+         if(isCross == 2 && i > 0)
            {
             SellSignalBuffer[i] = High[i] + (High[i]-Low[i]);
             SellSignalBuffer[i-1] = EMPTY_VALUE;
@@ -124,9 +126,9 @@ int OnCalculate(const int rates_total,
 //+------------------------------------------------------------------+
 bool get_condition_2(int i, bool isLong = True)
   {
-  
+
    int ema_period = 20;
-   
+
    double ema = iMA(NULL, 0, ema_period,0, MODE_EMA, PRICE_CLOSE,i);
    double close = iClose(NULL, 0, i+1);
    if(isLong)
@@ -140,3 +142,4 @@ bool get_condition_2(int i, bool isLong = True)
      }
 
   }
+//+------------------------------------------------------------------+
