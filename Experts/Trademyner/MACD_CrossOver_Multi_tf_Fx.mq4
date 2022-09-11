@@ -1,16 +1,24 @@
+//+------------------------------------------------------------------+
+//|                                                      ProjectName |
+//|                                      Copyright 2018, CompanyName |
+//|                                       http://www.companyname.net |
+//+------------------------------------------------------------------+
 #property copyright "Copyright 2022, Trademyner"
 #property link      "http://www.trademyner.com"
 #property version   "1.00"
 #property strict
+
+//Include files
+#include  <Trademyner\\CustomFunctions01.mqh>
 
 //Trade parameters
 input double lotSize = 0.1;
 input double RR = 2;
 input int LossPips = 100;
 
-//constants
+//Constants
 const int entry_period = PERIOD_M30;
-
+const bool isIndex = true;
 
 //Other params
 double stopLossPrice;
@@ -18,7 +26,7 @@ double takeProfitPrice;
 string comment;
 int openOrderID;
 int ea_id = 121;
-string ea_name = "MACD_Cross_Over";
+string ea_name = "MACD_Cross_Over_MTF_DOW";
 int candle_index = 0;
 
 //Signal params
@@ -31,8 +39,6 @@ double fast_ema_htf;
 double slow_ema_htf;
 int isCross;
 
-//Include files
-#include  <Trademyner\\CustomFunctions01.mqh>
 
 //+------------------------------------------------------------------+
 //| Expert initialization function                                   |
@@ -68,13 +74,13 @@ void OnTick()
       //Long
       if(signal == 1)
         {
-         openOrderID = sendOrder(LossPips,RR,lotSize,comment, true);
+         openOrderID = sendOrder(LossPips,RR,lotSize,comment, true, isIndex);
          return;
         }
       else
          if(signal == 2) //Short
            {
-            openOrderID = sendOrder(LossPips,RR,lotSize,comment, false);
+            openOrderID = sendOrder(LossPips,RR,lotSize,comment, false, isIndex);
             return;
 
            }
@@ -121,11 +127,8 @@ void OnTick()
 int check_signal()
   {
 
-   curr_macd = iMACD(NULL, entry_period, 6, 12, 9, PRICE_CLOSE, MODE_MAIN, 1);
-   prev_macd = iMACD(NULL, entry_period, 6, 12, 9, PRICE_CLOSE, MODE_MAIN, 2);
-   curr_signal = iMACD(NULL, entry_period, 6, 12, 9, PRICE_CLOSE, MODE_SIGNAL, 1);
-   prev_signal = iMACD(NULL, entry_period, 6, 12, 9, PRICE_CLOSE, MODE_SIGNAL, 2);
-   isCross = detect_indicator_cross(curr_macd, curr_signal, prev_macd, prev_signal);
+
+   isCross = detect_ema_cross(20, 8);
 
 
 //if(isCross == 1 && get_condition_2())
@@ -172,15 +175,13 @@ bool get_condition_1(bool isLong = True)
 
   }
 //+------------------------------------------------------------------+
-//+------------------------------------------------------------------+
-// This condition that the price is above or below EMA on current
-// timeframe
-// in order to confirm trend
+// This condition checks if the price is above or below EMA on current
+// timeframe in order to confirm trend
 //+------------------------------------------------------------------+
 bool get_condition_2(bool isLong = True)
   {
 
-   int ema_period = 20;
+   int ema_period = 200;
 
    double ema = iMA(NULL, 0, ema_period,0, MODE_EMA, PRICE_CLOSE,1);
    double close = iClose(NULL, 0, 1);
@@ -196,4 +197,4 @@ bool get_condition_2(bool isLong = True)
 
   }
 //+------------------------------------------------------------------+
-//+------------------------------------------------------------------+
+

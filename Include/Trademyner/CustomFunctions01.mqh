@@ -1,8 +1,4 @@
 //+------------------------------------------------------------------+
-//|                                                      ProjectName |
-//|                                      Copyright 2018, CompanyName |
-//|                                       http://www.companyname.net |
-//+------------------------------------------------------------------+
 #property copyright "Dheeraj Saxena"
 #property link      "www.trademyner.com"
 #property strict
@@ -88,10 +84,19 @@ double GetTargetProfit(bool bIsLongPosition, double stopLossPrice, double entryP
 //+------------------------------------------------------------------+
 //|                                                                  |
 //+------------------------------------------------------------------+
-double GetStopLossPrice(bool bIsLongPosition, double entryPrice, int maxLossInPips)
+double GetStopLossPrice(bool bIsLongPosition, double entryPrice, int maxLossInPips, bool isIndex = false)
   {
    double stopLossPrice;
-   double pip_val = GetPipValue();
+   double pip_val;
+
+   if(!isIndex)
+     {
+      pip_val = GetPipValue();
+     }
+   else
+     {
+      pip_val = 1;
+     }
    if(bIsLongPosition)
      {
       stopLossPrice = entryPrice - maxLossInPips * pip_val;
@@ -322,7 +327,7 @@ bool CheckNewBar()
 //+------------------------------------------------------------------+
 //|                                                                  |
 //+------------------------------------------------------------------+
-int sendOrder(int LossPips, double RR, double lotSize, string comment, bool isBuy = true)
+int sendOrder(int LossPips, double RR, double lotSize, string comment, bool isBuy = true, bool isIndex = false)
   {
    double entryPrice;
    int o_type;
@@ -339,7 +344,7 @@ int sendOrder(int LossPips, double RR, double lotSize, string comment, bool isBu
       o_type = OP_SELLLIMIT;
      }
    Print("Sending order for Strategy-"+comment+"-"+Symbol());
-   double stopLossPrice = GetStopLossPrice(isBuy, entryPrice, LossPips);
+   double stopLossPrice = GetStopLossPrice(isBuy, entryPrice, LossPips, isIndex);
    double takeProfitPrice = GetTargetProfit(isBuy, stopLossPrice, entryPrice,RR);
    Print("Entry Price = " + entryPrice);
    Print("Stop Loss Price = " + stopLossPrice);
@@ -389,5 +394,36 @@ int detect_indicator_cross(double fast_val_curr,
 
   }
 //+------------------------------------------------------------------+
+int detect_ema_cross(int slow_period, int fast_period)
 
+  {
+   double slow_val_curr = iMA(Symbol(), 0, slow_period, 0, MODE_EMA, PRICE_CLOSE, 0);
+   double slow_val_prev = iMA(Symbol(), 0, slow_period, 0, MODE_EMA, PRICE_CLOSE, 1);
+   double fast_val_curr = iMA(Symbol(), 0, fast_period, 0, MODE_EMA, PRICE_CLOSE, 0);
+   double fast_val_prev = iMA(Symbol(), 0, fast_period, 0, MODE_EMA, PRICE_CLOSE, 1);
+
+   int iCross = detect_indicator_cross(fast_val_curr,
+                                       slow_val_curr,
+                                       fast_val_prev,
+                                       slow_val_prev);
+   return iCross;
+
+  }
+//+------------------------------------------------------------------+
+
+int detect_macd_cross(int entry_period, int fast =6, int slow = 12, int smoothing = 9)
+
+  {
+   double curr_macd = iMACD(NULL, entry_period, fast, slow, smoothing, PRICE_CLOSE, MODE_MAIN, 0);
+   double prev_macd = iMACD(NULL, entry_period, fast, slow, smoothing, PRICE_CLOSE, MODE_MAIN, 1);
+   double curr_signal = iMACD(NULL, entry_period, fast, slow, smoothing, PRICE_CLOSE, MODE_SIGNAL, 0);
+   double prev_signal = iMACD(NULL, entry_period,fast, slow, smoothing, PRICE_CLOSE, MODE_SIGNAL, 1);
+
+   int iCross = detect_indicator_cross(curr_macd,
+                                       curr_signal,
+                                       prev_macd,
+                                       prev_signal);
+   return iCross;
+
+  }
 //+------------------------------------------------------------------+
