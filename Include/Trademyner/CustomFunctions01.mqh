@@ -327,7 +327,7 @@ bool CheckNewBar()
 //+------------------------------------------------------------------+
 //|                                                                  |
 //+------------------------------------------------------------------+
-int sendOrder(int LossPips, double RR, double lotSize, string comment, bool isBuy = true, bool isIndex = false)
+int sendOrder(double LossPips, double RR, double lotSize, string comment, bool isBuy = true, bool isIndex = false)
   {
    double entryPrice;
    int o_type;

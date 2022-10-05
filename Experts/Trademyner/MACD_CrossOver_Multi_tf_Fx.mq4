@@ -1,8 +1,3 @@
-//+------------------------------------------------------------------+
-//|                                                      ProjectName |
-//|                                      Copyright 2018, CompanyName |
-//|                                       http://www.companyname.net |
-//+------------------------------------------------------------------+
 #property copyright "Copyright 2022, Trademyner"
 #property link      "http://www.trademyner.com"
 #property version   "1.00"
@@ -17,8 +12,7 @@ input double RR = 2;
 input int LossPips = 100;
 
 //Constants
-const int entry_period = PERIOD_M30;
-const bool isIndex = true;
+const int entry_period = PERIOD_H4;
 
 //Other params
 double stopLossPrice;
@@ -26,19 +20,12 @@ double takeProfitPrice;
 string comment;
 int openOrderID;
 int ea_id = 121;
-string ea_name = "MACD_Cross_Over_MTF_DOW";
+string ea_name = "MACD_Cross_Over_MTF_FX";
 int candle_index = 0;
 
 //Signal params
-double curr_macd;
-double prev_macd;
-double curr_signal;
-double prev_signal;
-double curr_close;
-double fast_ema_htf;
-double slow_ema_htf;
-int isCross;
-
+int signal;
+bool isIndex = false;
 
 //+------------------------------------------------------------------+
 //| Expert initialization function                                   |
@@ -128,11 +115,9 @@ int check_signal()
   {
 
 
-   isCross = detect_ema_cross(20, 8);
+   signal = get_condition_1();
 
-
-//if(isCross == 1 && get_condition_2())
-   if(isCross == 1)
+   if(signal == 1)
      {
       Print("---Going long----------");
       Print("------------Current candle time is----------"+Time[0]);
@@ -140,8 +125,8 @@ int check_signal()
 
      }
    else
-      //if(isCross == 2 && get_condition_2(false))
-      if(isCross == 2)
+
+      if(signal == 2)
         {
          Print("---Going short----");
          Print("---Current candle time is----------"+Time[0]);
@@ -153,48 +138,28 @@ int check_signal()
   }
 
 //+------------------------------------------------------------------+
-// This condition checks that the faster EMA on a higher timeframe
-// is above the slower EMA for longs (and reverse for shorts)
 //+------------------------------------------------------------------+
-bool get_condition_1(bool isLong = True)
-  {
-   int htf_period = PERIOD_H4;
-   int fast_ema_period_htf = 50;
-   int slow_ema_period_htf = 200;
-   fast_ema_htf = iMA(NULL, htf_period, fast_ema_period_htf,0, MODE_EMA, PRICE_CLOSE,1);
-   slow_ema_htf = iMA(NULL, htf_period, slow_ema_period_htf,0, MODE_EMA, PRICE_CLOSE,1);
-   if(isLong)
-     {
-      return fast_ema_htf > slow_ema_htf;
-
-     }
-   else
-     {
-      return fast_ema_htf < slow_ema_htf;
-     }
-
-  }
-//+------------------------------------------------------------------+
-// This condition checks if the price is above or below EMA on current
-// timeframe in order to confirm trend
-//+------------------------------------------------------------------+
-bool get_condition_2(bool isLong = True)
+int get_condition_1()
   {
 
-   int ema_period = 200;
 
-   double ema = iMA(NULL, 0, ema_period,0, MODE_EMA, PRICE_CLOSE,1);
-   double close = iClose(NULL, 0, 1);
-   if(isLong)
-     {
-      return close > ema;
+   int entry_tf_macd = detect_macd_cross(PERIOD_H4);
+   double htf_ema_fast = iMACD(NULL, PERIOD_D1, 6, 12, 9, PRICE_CLOSE, MODE_MAIN, 0);
+   double htf_ema_slow = iMACD(NULL, PERIOD_D1, 6, 12, 9, PRICE_CLOSE, MODE_SIGNAL, 0);
 
-     }
-   else
+   if(entry_tf_macd == 1 && (htf_ema_fast > htf_ema_slow))
      {
-      return close < ema;
+      return 1;
      }
+
+   if(entry_tf_macd == 2 && (htf_ema_fast < htf_ema_slow))
+     {
+      return 2;
+     }
+
+
+   return 3;
 
   }
-//+------------------------------------------------------------------+
 
+//+------------------------------------------------------------------+

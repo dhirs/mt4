@@ -9,11 +9,10 @@
 #property strict
 
 //Trade parameters
-input double lotSize = 0.2;
-input double RR = 2;
-input int LossPips = 50;
-input int fast_ma_period = 50;
-input int slow_ma_period = 200;
+input double lotSize = 1;
+input double RR = 6;
+input int fast_ma_period = 8;
+input int slow_ma_period = 20;
 
 //Constants
 const string indicatorName = "Trademyner\\EMA_Cross_Over";
@@ -26,9 +25,12 @@ int openOrderID;
 int ea_id = 122;
 string ea_name = "EA_Cross_Over";
 int candle_index = 0;
+int atr_length = 14;
+double atr_val;
+int signal;
 
 //Include files
-#include  <CustomFunctions01.mqh>
+#include  <Trademyner\CustomFunctions01.mqh>
 
 //+------------------------------------------------------------------+
 //| Expert initialization function                                   |
@@ -59,16 +61,18 @@ void OnTick()
    if(!CheckIfOpenOrdersByComment(ea_id) && IsTradingAllowed())
      {
 
-      int signal = check_signal();
+      signal = check_signal();
+      atr_val = iATR(NULL,0,atr_length,0);
+            
       if(signal == 2)
         {
-         openOrderID = sendOrder(LossPips,RR,lotSize,comment, true);
+         openOrderID = sendOrder(atr_val,RR,lotSize,comment, true);
          return;
         }
       else
          if(signal == 1)
            {
-            openOrderID = sendOrder(LossPips,RR,lotSize,comment, false);
+            openOrderID = sendOrder(atr_val,RR,lotSize,comment, false);
             return;
 
            }
@@ -115,13 +119,7 @@ void OnTick()
 int check_signal()
   {
 
-   double fast_ma_0 = iMA(0,PERIOD_CURRENT,fast_ma_period,0,MODE_EMA,PRICE_CLOSE,1);
-   double slow_ma_0 = iMA(0,PERIOD_CURRENT,slow_ma_period,0,MODE_EMA,PRICE_CLOSE,1);
-
-   double fast_ma_2 = iMA(0,PERIOD_CURRENT,fast_ma_period,0,MODE_EMA,PRICE_CLOSE,3);
-   double slow_ma_2 = iMA(0,PERIOD_CURRENT,slow_ma_period,0,MODE_EMA,PRICE_CLOSE,3);
-
-   int signal = detect_indicator_cross(fast_ma_0, slow_ma_0, fast_ma_2, slow_ma_2);
+   int signal = detect_ema_cross(slow_ma_period, fast_ma_period);
    return signal;
 
   }
