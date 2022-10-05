@@ -1,0 +1,91 @@
+0	09:45:58.460	Automated trading enabled
+0	09:46:09.402	Expert Trademyner\EA_CrossOver_Dow US30USD,M1: loaded successfully
+0	09:46:13.863	EA_CrossOver_Dow US30USD,M1 inputs: lotSize=1.0; RR=6.0; fast_ma_period=8; slow_ma_period=20; 
+0	09:46:13.885	EA_CrossOver_Dow US30USD,M1: Starting the strategy
+0	09:46:13.885	EA_CrossOver_Dow US30USD,M1: initialized
+0	09:46:18.576	EA_CrossOver_Dow US30USD,M1: No Signal
+0	09:47:01.872	EA_CrossOver_Dow US30USD,M1: No Signal
+0	09:48:00.264	EA_CrossOver_Dow US30USD,M1: No Signal
+0	09:49:06.052	EA_CrossOver_Dow US30USD,M1: No Signal
+0	09:49:58.105	EA_CrossOver_Dow US30USD,M1: No Signal
+0	09:51:05.087	EA_CrossOver_Dow US30USD,M1: No Signal
+0	09:52:01.797	EA_CrossOver_Dow US30USD,M1: No Signal
+0	09:52:59.495	EA_CrossOver_Dow US30USD,M1: No Signal
+0	09:53:59.046	EA_CrossOver_Dow US30USD,M1: No Signal
+0	09:55:13.166	EA_CrossOver_Dow US30USD,M1: No Signal
+0	09:55:58.194	EA_CrossOver_Dow US30USD,M1: No Signal
+0	09:57:00.966	EA_CrossOver_Dow US30USD,M1: No Signal
+0	09:57:59.139	EA_CrossOver_Dow US30USD,M1: No Signal
+0	09:58:57.948	EA_CrossOver_Dow US30USD,M1: No Signal
+0	09:59:58.419	EA_CrossOver_Dow US30USD,M1: No Signal
+0	10:00:58.633	EA_CrossOver_Dow US30USD,M1: Sending order for Strategy-US30USD122-US30USD
+0	10:00:58.633	EA_CrossOver_Dow US30USD,M1: Entry Price = 30169.7
+0	10:00:58.633	EA_CrossOver_Dow US30USD,M1: Stop Loss Price = 30169.7
+0	10:00:58.633	EA_CrossOver_Dow US30USD,M1: Take Profit Price = 30169.7
+2	10:00:59.148	EA_CrossOver_Dow US30USD,M1: open #95977461 sell limit 1.00 US30USD at 30169.7 sl: 30169.7 tp: 30169.7 ok
+0	10:00:59.148	EA_CrossOver_Dow US30USD,M1: New Order US30USD122 95977461
+3	10:01:58.020	EA_CrossOver_Dow US30USD,M1: pending order #95977461 cannot be closed
+3	10:02:58.617	EA_CrossOver_Dow US30USD,M1: pending order #95977461 cannot be closed
+3	10:03:58.073	EA_CrossOver_Dow US30USD,M1: pending order #95977461 cannot be closed
+3	10:04:58.555	EA_CrossOver_Dow US30USD,M1: pending order #95977461 cannot be closed
+3	10:06:01.007	EA_CrossOver_Dow US30USD,M1: pending order #95977461 cannot be closed
+3	10:07:00.020	EA_CrossOver_Dow US30USD,M1: pending order #95977461 cannot be closed
+3	10:07:58.261	EA_CrossOver_Dow US30USD,M1: pending order #95977461 cannot be closed
+3	10:09:00.129	EA_CrossOver_Dow US30USD,M1: pending order #95977461 cannot be closed
+3	10:11:03.517	EA_CrossOver_Dow US30USD,M1: pending order #95977461 cannot be closed
+3	10:12:59.264	EA_CrossOver_Dow US30USD,M1: pending order #95977461 cannot be closed
+3	10:15:59.887	EA_CrossOver_Dow US30USD,M1: pending order #95977461 cannot be closed
+3	10:17:00.754	EA_CrossOver_Dow US30USD,M1: pending order #95977461 cannot be closed
+3	10:18:08.307	EA_CrossOver_Dow US30USD,M1: pending order #95977461 cannot be closed
+3	10:19:03.085	EA_CrossOver_Dow US30USD,M1: pending order #95977461 cannot be closed
+3	10:20:11.876	EA_CrossOver_Dow US30USD,M1: pending order #95977461 cannot be closed
+3	10:20:58.547	EA_CrossOver_Dow US30USD,M1: pending order #95977461 cannot be closed
+3	10:22:00.037	EA_CrossOver_Dow US30USD,M1: pending order #95977461 cannot be closed
+3	10:30:58.417	EA_CrossOver_Dow US30USD,M1: pending order #95977461 cannot be closed
+3	10:31:58.082	EA_CrossOver_Dow US30USD,M1: pending order #95977461 cannot be closed
+3	10:32:58.510	EA_CrossOver_Dow US30USD,M1: pending order #95977461 cannot be closed
+3	10:34:58.410	EA_CrossOver_Dow US30USD,M1: pending order #95977461 cannot be closed
+3	10:35:58.502	EA_CrossOver_Dow US30USD,M1: pending order #95977461 cannot be closed
+3	10:36:58.797	EA_CrossOver_Dow US30USD,M1: pending order #95977461 cannot be closed
+3	10:37:59.509	EA_CrossOver_Dow US30USD,M1: pending order #95977461 cannot be closed
+3	10:38:57.971	EA_CrossOver_Dow US30USD,M1: pending order #95977461 cannot be closed
+3	10:43:58.405	EA_CrossOver_Dow US30USD,M1: pending order #95977461 cannot be closed
+3	10:44:58.991	EA_CrossOver_Dow US30USD,M1: pending order #95977461 cannot be closed
+3	10:45:58.015	EA_CrossOver_Dow US30USD,M1: pending order #95977461 cannot be closed
+3	10:46:58.082	EA_CrossOver_Dow US30USD,M1: pending order #95977461 cannot be closed
+3	10:47:57.744	EA_CrossOver_Dow US30USD,M1: pending order #95977461 cannot be closed
+3	10:48:58.889	EA_CrossOver_Dow US30USD,M1: pending order #95977461 cannot be closed
+3	10:49:59.223	EA_CrossOver_Dow US30USD,M1: pending order #95977461 cannot be closed
+3	10:51:58.878	EA_CrossOver_Dow US30USD,M1: pending order #95977461 cannot be closed
+3	10:57:06.403	EA_CrossOver_Dow US30USD,M1: pending order #95977461 cannot be closed
+0	10:58:57.126	EA_CrossOver_Dow US30USD,M1: uninit reason 9
+0	10:58:57.200	Expert EA_CrossOver_Dow US30USD,M1: removed
+0	11:15:41.549	Expert Trademyner\EA_CrossOver_Dow US30USD,M1: loaded successfully
+0	11:15:41.549	EA_CrossOver_Dow US30USD,M1 inputs: lotSize=1.0; RR=6.0; fast_ma_period=8; slow_ma_period=20; 
+0	11:15:45.269	EA_CrossOver_Dow US30USD,M1: Starting the strategy
+0	11:15:45.269	EA_CrossOver_Dow US30USD,M1: initialized
+0	11:15:45.622	EA_CrossOver_Dow US30USD,M1: No Signal
+0	11:15:54.272	Automated trading disabled
+3	11:15:54.272	Automated trading disabled because the account has been changed
+0	11:15:58.659	EA_CrossOver_Dow US30USD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:18:31.912	EA_CrossOver_Dow US30USD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:18:58.946	EA_CrossOver_Dow US30USD,M1: Expert Advisor is NOT Allowed to Trade. Check AutoTrading.
+0	11:19:30.839	Automated trading enabled
+0	11:19:57.911	EA_CrossOver_Dow US30USD,M1: No Signal
+0	11:20:59.282	EA_CrossOver_Dow US30USD,M1: Sending order for Strategy-US30USD122-US30USD
+0	11:20:59.282	EA_CrossOver_Dow US30USD,M1: Entry Price = 30183.9
+0	11:20:59.282	EA_CrossOver_Dow US30USD,M1: Stop Loss Price = 30183.9
+0	11:20:59.282	EA_CrossOver_Dow US30USD,M1: Take Profit Price = 30183.9
+2	11:20:59.631	EA_CrossOver_Dow US30USD,M1: open #95977619 buy limit 1.00 US30USD at 30183.9 sl: 30183.9 tp: 30183.9 ok
+0	11:20:59.631	EA_CrossOver_Dow US30USD,M1: New Order US30USD122 95977619
+3	11:21:59.913	EA_CrossOver_Dow US30USD,M1: pending order #95977619 cannot be closed
+3	11:23:03.090	EA_CrossOver_Dow US30USD,M1: pending order #95977619 cannot be closed
+3	11:24:04.067	EA_CrossOver_Dow US30USD,M1: pending order #95977619 cannot be closed
+0	11:28:05.019	EA_CrossOver_Dow US30USD,M1: No Signal
+0	11:28:58.956	EA_CrossOver_Dow US30USD,M1: No Signal
+0	11:29:58.404	EA_CrossOver_Dow US30USD,M1: No Signal
+0	11:30:57.885	EA_CrossOver_Dow US30USD,M1: No Signal
+0	11:31:58.668	EA_CrossOver_Dow US30USD,M1: No Signal
+0	11:32:59.039	EA_CrossOver_Dow US30USD,M1: No Signal
+0	11:33:35.791	Custom indicator Trademyner\CPRLevels IN50USD,M1: loaded successfully
+0	11:33:35.803	Custom indicator Trademyner\ForexProfitSupreme Meter IN50USD,M1: loaded successfully
