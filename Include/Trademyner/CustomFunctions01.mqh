@@ -84,7 +84,7 @@ double GetTargetProfit(bool bIsLongPosition, double stopLossPrice, double entryP
 //+------------------------------------------------------------------+
 //|                                                                  |
 //+------------------------------------------------------------------+
-double GetStopLossPrice(bool bIsLongPosition, double entryPrice, int maxLossInPips, bool isIndex = false)
+double GetStopLossPrice(bool bIsLongPosition, double entryPrice, int maxLossInPips,  bool isIndex = false)
   {
    double stopLossPrice;
    double pip_val;
@@ -120,11 +120,11 @@ bool IsTradingAllowed()
       return false;
      }
 
-   if(!IsTradeAllowed(Symbol(), TimeCurrent()))
-     {
-      Print("Trading NOT Allowed for specific Symbol and Time");
-      return false;
-     }
+   /*  if(!IsTradeAllowed(Symbol(), TimeCurrent()))
+       {
+        Print("Trading NOT Allowed for specific Symbol and Time");
+        return false;
+       }*/
 
    return true;
   }
@@ -322,7 +322,6 @@ bool CheckNewBar()
    return isNewBar;
 
   }
-//+------------------------------------------------------------------+
 
 //+------------------------------------------------------------------+
 //|                                                                  |

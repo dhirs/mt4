@@ -9,7 +9,7 @@
 #property strict
 
 //Trade parameters
-input double lotSize = 1;
+input double lotSize = 0.1;
 input double RR = 6;
 input int fast_ma_period = 8;
 input int slow_ma_period = 20;
@@ -66,13 +66,13 @@ void OnTick()
             
       if(signal == 2)
         {
-         openOrderID = sendOrder(atr_val,RR,lotSize,comment, true);
+         openOrderID = sendOrder(atr_val,RR,lotSize,comment, true,true);
          return;
         }
       else
          if(signal == 1)
            {
-            openOrderID = sendOrder(atr_val,RR,lotSize,comment, false);
+            openOrderID = sendOrder(atr_val,RR,lotSize,comment, false,true);
             return;
 
            }
