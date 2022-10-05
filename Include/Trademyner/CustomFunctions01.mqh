@@ -120,7 +120,13 @@ bool IsTradingAllowed()
       return false;
      }
 
-   /*  if(!IsTradeAllowed(Symbol(), TimeCurrent()))
+   /*if(!CheckActiveHours())
+     {
+      Print("Ignoring signal as out of session.");
+      return false;
+     }
+
+     if(!IsTradeAllowed(Symbol(), TimeCurrent()))
        {
         Print("Trading NOT Allowed for specific Symbol and Time");
         return false;
@@ -396,10 +402,10 @@ int detect_indicator_cross(double fast_val_curr,
 int detect_ema_cross(int slow_period, int fast_period)
 
   {
-   double slow_val_curr = iMA(Symbol(), 0, slow_period, 0, MODE_EMA, PRICE_CLOSE, 0);
-   double slow_val_prev = iMA(Symbol(), 0, slow_period, 0, MODE_EMA, PRICE_CLOSE, 1);
-   double fast_val_curr = iMA(Symbol(), 0, fast_period, 0, MODE_EMA, PRICE_CLOSE, 0);
-   double fast_val_prev = iMA(Symbol(), 0, fast_period, 0, MODE_EMA, PRICE_CLOSE, 1);
+   double slow_val_curr = iMA(Symbol(), 0, slow_period, 0, MODE_EMA, PRICE_CLOSE, 1);
+   double slow_val_prev = iMA(Symbol(), 0, slow_period, 0, MODE_EMA, PRICE_CLOSE, 2);
+   double fast_val_curr = iMA(Symbol(), 0, fast_period, 0, MODE_EMA, PRICE_CLOSE, 1);
+   double fast_val_prev = iMA(Symbol(), 0, fast_period, 0, MODE_EMA, PRICE_CLOSE, 2);
 
    int iCross = detect_indicator_cross(fast_val_curr,
                                        slow_val_curr,
@@ -413,10 +419,10 @@ int detect_ema_cross(int slow_period, int fast_period)
 int detect_macd_cross(int entry_period, int fast =6, int slow = 12, int smoothing = 9)
 
   {
-   double curr_macd = iMACD(NULL, entry_period, fast, slow, smoothing, PRICE_CLOSE, MODE_MAIN, 0);
-   double prev_macd = iMACD(NULL, entry_period, fast, slow, smoothing, PRICE_CLOSE, MODE_MAIN, 1);
-   double curr_signal = iMACD(NULL, entry_period, fast, slow, smoothing, PRICE_CLOSE, MODE_SIGNAL, 0);
-   double prev_signal = iMACD(NULL, entry_period,fast, slow, smoothing, PRICE_CLOSE, MODE_SIGNAL, 1);
+   double curr_macd = iMACD(NULL, entry_period, fast, slow, smoothing, PRICE_CLOSE, MODE_MAIN, 1);
+   double prev_macd = iMACD(NULL, entry_period, fast, slow, smoothing, PRICE_CLOSE, MODE_MAIN, 2);
+   double curr_signal = iMACD(NULL, entry_period, fast, slow, smoothing, PRICE_CLOSE, MODE_SIGNAL, 1);
+   double prev_signal = iMACD(NULL, entry_period,fast, slow, smoothing, PRICE_CLOSE, MODE_SIGNAL, 2);
 
    int iCross = detect_indicator_cross(curr_macd,
                                        curr_signal,
@@ -424,5 +430,25 @@ int detect_macd_cross(int entry_period, int fast =6, int slow = 12, int smoothin
                                        prev_signal);
    return iCross;
 
+  }
+//+------------------------------------------------------------------+
+
+//+------------------------------------------------------------------+
+//|                                                                  |
+//+------------------------------------------------------------------+
+bool CheckActiveHours()
+  {
+   int StartHour = 09; // Start operation hour (oanda)
+   int LastHour = 23; // Last operation hour
+// Set operations disabled by default.
+   bool OperationsAllowed = false;
+// Check if the current hour is between the allowed hours of operations. If so, return true.
+   if((StartHour == LastHour) && (Hour() == StartHour))
+      OperationsAllowed = true;
+   if((StartHour < LastHour) && (Hour() >= StartHour) && (Hour() <= LastHour))
+      OperationsAllowed = true;
+   if((StartHour > LastHour) && (((Hour() >= LastHour) && (Hour() <= 23)) || ((Hour() <= StartHour) && (Hour() > 0))))
+      OperationsAllowed = true;
+   return OperationsAllowed;
   }
 //+------------------------------------------------------------------+

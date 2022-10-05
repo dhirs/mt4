@@ -18,8 +18,6 @@ input int slow_ma_period = 20;
 const string indicatorName = "Trademyner\\EMA_Cross_Over";
 
 //Other params
-double stopLossPrice;
-double takeProfitPrice;
 string comment;
 int openOrderID;
 int ea_id = 122;
@@ -28,6 +26,7 @@ int candle_index = 0;
 int atr_length = 14;
 double atr_val;
 int signal;
+
 
 //Include files
 #include  <Trademyner\CustomFunctions01.mqh>
@@ -63,6 +62,7 @@ void OnTick()
 
       signal = check_signal();
       atr_val = iATR(NULL,0,atr_length,0);
+          
             
       if(signal == 1)
         {
@@ -125,4 +125,3 @@ int check_signal()
   }
 //+------------------------------------------------------------------+
 
-//+------------------------------------------------------------------+

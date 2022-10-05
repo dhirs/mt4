@@ -1,50 +1,30 @@
-///////////////////////////////////////////////////////////////////////////////////////////////
-
-#property copyright "Copyright 2022, Trademyner"
-#property link      "http://www.trademyner.com"
-#property version   "1.00"
-#property strict
-
-////////////////////////////////////////////Include custom functions///////////////////////////
-#include  <Trademyner\\CustomFunctions01.mqh>
-///////////////////////////////////////////////////////////////////////////////////////////////
-string sym;
-double close_price;
-input double period_slow = 20;
-input double period_fast = 8;
-int ma_period;
-double ema_slow,ema_fast;
-int barcount = 100;
-////////////////////////////////////////Main function start///////////////////////////////////
-void OnStart()
-  {
-   for(int i=0; i < barcount; i++)
-     {
-
-      performScan(i);
-
-     }
-
-  }
-
-//////////////////////////////////////////////////////////////////////////////////////////////////////
+int StartHour = 09; // Start operation hour
+int LastHour = 23; // Last operation hour
 
 //+------------------------------------------------------------------+
 //|                                                                  |
 //+------------------------------------------------------------------+
-void performScan(int i)
+bool CheckActiveHours()
   {
-   double curr_macd = iMACD(NULL, 0, 6, 12, 9, PRICE_CLOSE, MODE_MAIN, i);
-   double prev_macd = iMACD(NULL, 0, 6, 12, 9, PRICE_CLOSE, MODE_MAIN, i+1);
-   double curr_signal = iMACD(NULL, 0, 6, 12, 9, PRICE_CLOSE, MODE_SIGNAL, i);
-   double prev_signal = iMACD(NULL, 0, 6, 12, 9, PRICE_CLOSE, MODE_SIGNAL, i+1);
-
-   int macd_cross = detect_indicator_cross(curr_macd, curr_signal, prev_macd, prev_signal);
-   
-   if(macd_cross != 0)
-     {
-      Print("------"+Time[i]+"---------"+macd_cross);
-     }
+// Set operations disabled by default.
+   bool OperationsAllowed = false;
+// Check if the current hour is between the allowed hours of operations. If so, return true.
+   if((StartHour == LastHour) && (Hour() == StartHour))
+      OperationsAllowed = true;
+   if((StartHour < LastHour) && (Hour() >= StartHour) && (Hour() <= LastHour))
+      OperationsAllowed = true;
+   if((StartHour > LastHour) && (((Hour() >= LastHour) && (Hour() <= 23)) || ((Hour() <= StartHour) && (Hour() > 0))))
+      OperationsAllowed = true;
+   return OperationsAllowed;
   }
+
 //+------------------------------------------------------------------+
+//|                                                                  |
+//+------------------------------------------------------------------+
+void OnStart()
+  {
+   Print("@hello");
+   if(CheckActiveHours())
+      Print("Trading enabled");
+  }
 //+------------------------------------------------------------------+
