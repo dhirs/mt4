@@ -84,6 +84,11 @@ double GetTargetProfit(bool bIsLongPosition, double stopLossPrice, double entryP
 //+------------------------------------------------------------------+
 //|                                                                  |
 //+------------------------------------------------------------------+
+
+
+//+------------------------------------------------------------------+
+//|                                                                  |
+//+------------------------------------------------------------------+
 double GetStopLossPrice(bool bIsLongPosition, double entryPrice, int maxLossInPips,  bool isIndex = false)
   {
    double stopLossPrice;
@@ -284,16 +289,17 @@ void drawHLine(const long            chart_ID=0,        // chart's ID
 //|                                                                  |
 //+------------------------------------------------------------------+
 void drawArrow(const long            chart_ID=0,
-               const string          name="Arrow",
-               double                price=0,
+               const string          name = "Arrow",
+               double                price = 0,
                int ticketId = 0,
                bool bullish = True)
 
   {
-   ObjectCreate(chart_ID, name, OBJ_ARROW, 0, Time[0], price);
+   ObjectCreate( chart_ID, name, OBJ_ARROW, 0, Time[0], price);
    ObjectSetInteger(chart_ID,name, OBJPROP_STYLE, STYLE_SOLID);
    ObjectSetInteger(chart_ID,name, OBJPROP_ARROWCODE, bullish?SYMBOL_ARROWUP:SYMBOL_ARROWDOWN);
    ObjectSetInteger(chart_ID,name, OBJPROP_COLOR, bullish?clrGreen:clrRed);
+   
 
   }
 
@@ -342,6 +348,7 @@ int sendOrder(double LossPips, double RR, double lotSize, string comment, bool i
      {
       entryPrice = Ask;
       o_type = OP_BUYLIMIT;
+
      }
    else
      {
@@ -354,22 +361,19 @@ int sendOrder(double LossPips, double RR, double lotSize, string comment, bool i
    Print("Entry Price = " + entryPrice);
    Print("Stop Loss Price = " + stopLossPrice);
    Print("Take Profit Price = " + takeProfitPrice);
-   openOrderID = OrderSend(NULL,o_type,lotSize,entryPrice,10,stopLossPrice,takeProfitPrice,comment);
+   openOrderID = OrderSend(NULL,o_type,lotSize,entryPrice,10,stopLossPrice,takeProfitPrice,comment, clrGreen);
    if(openOrderID < 0)
      {
       Print("Order rejected. Order error: " + GetLastError());
+      return 0;
      }
    else
      {
 
       Print("New Order "+comment+" "+ openOrderID);
+      modifySLTarget(openOrderID, isBuy);
       return openOrderID;
-
-
      }
-
-   return 0;
-
   }
 //+------------------------------------------------------------------+
 int detect_indicator_cross(double fast_val_curr,
@@ -399,13 +403,13 @@ int detect_indicator_cross(double fast_val_curr,
 
   }
 //+------------------------------------------------------------------+
-int detect_ema_cross(int slow_period, int fast_period)
+int detect_ema_cross(int slow_period, int fast_period, int candle_index = 0)
 
   {
-   double slow_val_curr = iMA(Symbol(), 0, slow_period, 0, MODE_EMA, PRICE_CLOSE, 1);
-   double slow_val_prev = iMA(Symbol(), 0, slow_period, 0, MODE_EMA, PRICE_CLOSE, 2);
-   double fast_val_curr = iMA(Symbol(), 0, fast_period, 0, MODE_EMA, PRICE_CLOSE, 1);
-   double fast_val_prev = iMA(Symbol(), 0, fast_period, 0, MODE_EMA, PRICE_CLOSE, 2);
+   double slow_val_curr = iMA(Symbol(), 0, slow_period, 0, MODE_EMA, PRICE_CLOSE, candle_index + 1);
+   double slow_val_prev = iMA(Symbol(), 0, slow_period, 0, MODE_EMA, PRICE_CLOSE, candle_index + 2);
+   double fast_val_curr = iMA(Symbol(), 0, fast_period, 0, MODE_EMA, PRICE_CLOSE, candle_index + 1);
+   double fast_val_prev = iMA(Symbol(), 0, fast_period, 0, MODE_EMA, PRICE_CLOSE, candle_index + 2);
 
    int iCross = detect_indicator_cross(fast_val_curr,
                                        slow_val_curr,
@@ -452,3 +456,66 @@ bool CheckActiveHours()
    return OperationsAllowed;
   }
 //+------------------------------------------------------------------+
+
+//+------------------------------------------------------------------+
+//|                                                                  |
+//+------------------------------------------------------------------+
+void modifySLTarget(int openOrderID, bool isBuy)
+  {
+
+   double delta, new_sl, new_target;
+
+   if(OrderSelect(openOrderID, SELECT_BY_TICKET)==true)
+     {
+
+      if(isBuy)
+        {
+
+         delta = OrderOpenPrice() - OrderClosePrice();
+         new_sl = OrderStopLoss() - delta;
+         new_target = OrderTakeProfit() - delta;
+        }
+      else
+        {
+         delta = OrderClosePrice()- OrderOpenPrice();
+         new_sl = OrderStopLoss() + delta;
+         new_target = OrderTakeProfit() + delta;
+
+        }
+
+
+      bool res = OrderModify(openOrderID,OrderOpenPrice(),new_sl,new_target, clrRed);
+      if(!res)
+        {
+
+         Print("Error in OrderModify. Error code=",GetLastError());
+        }
+      else
+        {
+         Print("++++++++++++Order modified++++++++++++");
+         Print("New stop loss is" + new_sl);
+         Print("New target is" + new_target);
+         Print("++++++++++++Modification end++++++++++");
+        }
+     }
+
+  }
+//+------------------------------------------------------------------+
+
+bool CloseAboveVWAP()
+
+{
+
+   return Close[1]>iCustom(_Symbol, PERIOD_CURRENT, "TradeMyner\VWAP",0,1);
+
+}
+
+
+
+bool CloseBelowVWAP()
+
+{
+
+   return Close[1]<iCustom(_Symbol, PERIOD_CURRENT, "TradeMyner\VWAP",0,1);
+
+}

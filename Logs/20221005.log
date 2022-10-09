@@ -202,3 +202,80 @@
 2	06:00:00.437	EA_CrossOver_Dow US30USD,H1: open #95981427 sell limit 0.10 US30USD at 30008.8 sl: 30075.8 tp: 29606.8 ok
 0	06:00:00.437	EA_CrossOver_Dow US30USD,H1: New Order US30USD122 95981427
 0	07:00:00.126	EA_CrossOver_Dow US30USD,H1: No Signal
+0	07:57:24.090	EA_CrossOver_Dow US30USD,H1: uninit reason 3
+0	07:57:24.387	EA_CrossOver_Dow US30USD,M5: Starting the strategy
+0	07:57:24.387	EA_CrossOver_Dow US30USD,M5: initialized
+0	07:57:25.747	EA_CrossOver_Dow US30USD,M5: No Signal
+0	08:00:00.349	EA_CrossOver_Dow US30USD,M5: No Signal
+0	08:05:00.282	EA_CrossOver_Dow US30USD,M5: No Signal
+0	08:07:03.817	EA_CrossOver_Dow US30USD,M5: uninit reason 4
+0	08:07:03.833	Expert EA_CrossOver_Dow US30USD,M5: removed
+0	08:11:36.249	Expert Trademyner\EA_CrossOver_Dow US30USD,M5: loaded successfully
+0	08:11:38.483	EA_CrossOver_Dow US30USD,M5 inputs: lotSize=0.1; RR=6.0; fast_ma_period=8; slow_ma_period=20; 
+0	08:11:38.499	EA_CrossOver_Dow US30USD,M5: Starting the strategy
+0	08:11:38.499	EA_CrossOver_Dow US30USD,M5: initialized
+0	08:11:39.014	EA_CrossOver_Dow US30USD,M5: No Signal
+0	08:15:00.670	EA_CrossOver_Dow US30USD,M5: No Signal
+0	20:50:00.356	EA_CrossOver_Dow US30USD,M5: No Signal
+0	20:55:00.439	EA_CrossOver_Dow US30USD,M5: No Signal
+0	21:00:00.273	EA_CrossOver_Dow US30USD,M5: No Signal
+0	21:05:01.509	EA_CrossOver_Dow US30USD,M5: Sending order for Strategy-US30USD122-US30USD
+0	21:05:01.509	EA_CrossOver_Dow US30USD,M5: Entry Price = 29991
+0	21:05:01.509	EA_CrossOver_Dow US30USD,M5: Stop Loss Price = 29940
+0	21:05:01.509	EA_CrossOver_Dow US30USD,M5: Take Profit Price = 30297
+2	21:05:01.838	EA_CrossOver_Dow US30USD,M5: open #95984131 buy limit 0.10 US30USD at 29991.0 sl: 29940.0 tp: 30297.0 ok
+0	21:05:01.838	EA_CrossOver_Dow US30USD,M5: New Order US30USD122 95984131
+0	21:46:25.466	Compiling 'Trademyner\EA_CrossOver_Dow'
+0	21:46:26.607	EA_CrossOver_Dow US30USD,M5: uninit reason 2
+0	21:46:26.607	Expert EA_CrossOver_Dow US30USD,M5: removed
+0	21:46:26.607	Expert Trademyner\EA_CrossOver_Dow US30USD,M5: loaded successfully
+0	21:46:26.623	EA_CrossOver_Dow US30USD,M5: Starting the strategy
+0	21:46:26.623	EA_CrossOver_Dow US30USD,M5: initialized
+0	21:46:46.337	Script Test EURUSD,M5: loaded successfully
+0	21:46:46.353	Test EURUSD,M5: initialized
+0	21:46:46.353	Test EURUSD,M5: uninit reason 0
+0	21:46:46.353	Script Test EURUSD,M5: removed
+0	21:48:28.538	Script Test EURUSD,M5: loaded successfully
+0	21:48:28.538	Test EURUSD,M5: initialized
+0	21:48:28.538	Test EURUSD,M5: @hello
+0	21:48:28.538	Test EURUSD,M5: uninit reason 0
+0	21:48:28.554	Script Test EURUSD,M5: removed
+0	21:58:18.836	EA_CrossOver_Dow US30USD,M5: uninit reason 2
+0	21:58:18.836	Expert EA_CrossOver_Dow US30USD,M5: removed
+0	21:58:18.851	Expert Trademyner\EA_CrossOver_Dow US30USD,M5: loaded successfully
+0	21:58:18.867	EA_CrossOver_Dow US30USD,M5: Starting the strategy
+0	21:58:18.867	EA_CrossOver_Dow US30USD,M5: initialized
+0	21:58:36.134	EA_CrossOver_Dow US30USD,M5: uninit reason 2
+0	21:58:36.149	Expert EA_CrossOver_Dow US30USD,M5: removed
+0	21:58:36.149	Expert Trademyner\EA_CrossOver_Dow US30USD,M5: loaded successfully
+0	21:58:36.165	EA_CrossOver_Dow US30USD,M5: Starting the strategy
+0	21:58:36.165	EA_CrossOver_Dow US30USD,M5: initialized
+0	22:02:36.928	EA_CrossOver_Dow US30USD,M5: uninit reason 2
+0	22:02:36.928	Expert EA_CrossOver_Dow US30USD,M5: removed
+0	22:02:36.944	Expert Trademyner\EA_CrossOver_Dow US30USD,M5: loaded successfully
+0	22:02:36.959	EA_CrossOver_Dow US30USD,M5: Starting the strategy
+0	22:02:36.959	EA_CrossOver_Dow US30USD,M5: initialized
+0	22:02:38.053	EA_CrossOver_Dow US30USD,M5: No Signal
+0	22:05:03.044	EA_CrossOver_Dow US30USD,M5: No Signal
+0	22:10:01.054	EA_CrossOver_Dow US30USD,M5: No Signal
+0	22:15:00.975	EA_CrossOver_Dow US30USD,M5: No Signal
+0	22:20:00.130	EA_CrossOver_Dow US30USD,M5: No Signal
+0	22:25:00.575	EA_CrossOver_Dow US30USD,M5: No Signal
+0	22:30:00.547	EA_CrossOver_Dow US30USD,M5: No Signal
+0	22:35:03.559	EA_CrossOver_Dow US30USD,M5: No Signal
+0	22:40:00.382	EA_CrossOver_Dow US30USD,M5: No Signal
+0	22:45:00.344	EA_CrossOver_Dow US30USD,M5: No Signal
+0	22:50:00.150	EA_CrossOver_Dow US30USD,M5: No Signal
+0	22:55:01.273	EA_CrossOver_Dow US30USD,M5: No Signal
+0	23:00:00.227	EA_CrossOver_Dow US30USD,M5: No Signal
+0	23:05:00.436	EA_CrossOver_Dow US30USD,M5: No Signal
+0	23:10:01.324	EA_CrossOver_Dow US30USD,M5: No Signal
+0	23:15:00.895	EA_CrossOver_Dow US30USD,M5: No Signal
+0	23:20:00.244	EA_CrossOver_Dow US30USD,M5: No Signal
+0	23:25:00.539	EA_CrossOver_Dow US30USD,M5: No Signal
+0	23:30:00.144	EA_CrossOver_Dow US30USD,M5: No Signal
+0	23:35:00.216	EA_CrossOver_Dow US30USD,M5: No Signal
+0	23:40:00.257	EA_CrossOver_Dow US30USD,M5: No Signal
+0	23:45:01.785	EA_CrossOver_Dow US30USD,M5: No Signal
+0	23:50:00.418	EA_CrossOver_Dow US30USD,M5: No Signal
+0	23:55:01.150	EA_CrossOver_Dow US30USD,M5: No Signal

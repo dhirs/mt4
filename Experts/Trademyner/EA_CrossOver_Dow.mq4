@@ -20,9 +20,8 @@ const string indicatorName = "Trademyner\\EMA_Cross_Over";
 //Other params
 string comment;
 int openOrderID;
-int ea_id = 122;
+int ea_id = 101;
 string ea_name = "EA_Cross_Over";
-int candle_index = 0;
 int atr_length = 14;
 double atr_val;
 int signal;
@@ -61,12 +60,13 @@ void OnTick()
      {
 
       signal = check_signal();
-      atr_val = iATR(NULL,0,atr_length,0);
+      atr_val = iATR(NULL,0,atr_length,0)*1.25;
           
             
       if(signal == 1)
         {
          openOrderID = sendOrder(atr_val,RR,lotSize,comment, true,true);
+         //draw arrow
          return;
         }
       else
