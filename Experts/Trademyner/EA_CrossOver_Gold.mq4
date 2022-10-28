@@ -9,7 +9,7 @@
 #property strict
 
 //Trade parameters
-input double lotSize = 0.3;
+input double lotSize = 90;
 input double RR = 6;
 input int fast_ma_period = 8;
 input int slow_ma_period = 20;
@@ -20,7 +20,7 @@ const string indicatorName = "Trademyner\\EMA_Cross_Over";
 //Other params
 string comment;
 int openOrderID;
-int ea_id = 101;
+int ea_id = 102;
 string ea_name = "EA_Cross_Over";
 int atr_length = 14;
 double atr_val;
@@ -60,7 +60,7 @@ void OnTick()
      {
 
       signal = check_signal();
-      atr_val = iATR(NULL,0,atr_length,0)*1.25;
+      atr_val = iATR(NULL,0,atr_length,0);
           
             
       if(signal == 1)

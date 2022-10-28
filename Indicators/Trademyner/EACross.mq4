@@ -27,13 +27,14 @@
 #property indicator_type3   DRAW_ARROW
 #property indicator_color3  clrSpringGreen
 #property indicator_style3  STYLE_SOLID
-#property indicator_width3  1
+#property indicator_width3  2
 //--- plot DownArrow
 #property indicator_label4  "DownArrow"
 #property indicator_type4   DRAW_ARROW
 #property indicator_color4  clrDarkOrange
 #property indicator_style4  STYLE_SOLID
-#property indicator_width4  1
+#property indicator_width4  2
+
 //--- indicator buffers
 double         FastEMABuffer[];
 double         SlowEMABuffer[];

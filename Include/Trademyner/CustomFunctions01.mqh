@@ -86,6 +86,7 @@ double GetTargetProfit(bool bIsLongPosition, double stopLossPrice, double entryP
 //+------------------------------------------------------------------+
 
 
+
 //+------------------------------------------------------------------+
 //|                                                                  |
 //+------------------------------------------------------------------+
@@ -371,7 +372,7 @@ int sendOrder(double LossPips, double RR, double lotSize, string comment, bool i
      {
 
       Print("New Order "+comment+" "+ openOrderID);
-      modifySLTarget(openOrderID, isBuy);
+      //modifySLTarget(openOrderID, isBuy);
       return openOrderID;
      }
   }
